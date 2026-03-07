@@ -1,10 +1,16 @@
 {
-  "generated_at": null,
-  "last_scrape_at": null,
-  "songs_found": 0,
-  "max_recordings_found": 0,
-  "tracked_urls": [],
+  "generated_at": "2026-03-07T09:35:41+00:00",
+  "last_scrape_at": "2026-03-07T09:35:41+00:00",
+  "songs_found": 36,
+  "tracked_urls": [
+    "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+    "https://www.starmakerstudios.com/en/songs",
+    "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357"
+  ],
+  "max_recordings_found": 790000,
   "notes": [
-    "Run the update script or GitHub Action to populate this dashboard."
+    "Unofficial tracker based on public StarMaker pages.",
+    "Stats are estimates and depend on what the public site exposes.",
+    "If zero songs appear, the page structure likely changed and the parser needs adjustment."
   ]
 }
