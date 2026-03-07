@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#111827" />
+  <title>StarMaker Tracker</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #121938;
+      --panel-2: #1a234d;
+      --text: #f3f4f6;
+      --muted: #b4bdd6;
+      --accent: #7dd3fc;
+      --green: #86efac;
+      --red: #fca5a5;
+      --border: rgba(255,255,255,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: linear-gradient(180deg, #0b1020 0%, #0f1530 100%);
+      color: var(--text);
+    }
+    .wrap {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 16px;
+      padding-bottom: 48px;
+    }
+    .hero {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      padding: 18px;
+      backdrop-filter: blur(8px);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.18);
+    }
+    h1 {
+      font-size: 1.45rem;
+      margin: 0 0 6px;
+    }
+    p { margin: 0; color: var(--muted); line-height: 1.45; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 14px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 14px;
+    }
+    .card h2 {
+      margin: 0 0 4px;
+      font-size: 0.88rem;
+      color: var(--muted);
+      font-weight: 600;
+    }
+    .value {
+      font-size: 1.15rem;
+      font-weight: 800;
+    }
+    .tabs {
+      display: flex;
+      gap: 10px;
+      margin: 16px 0;
+      position: sticky;
+      top: 0;
+      padding: 8px 0;
+      background: linear-gradient(180deg, rgba(11,16,32,0.98) 0%, rgba(11,16,32,0.90) 100%);
+      backdrop-filter: blur(10px);
+      z-index: 5;
+    }
+    button {
+      border: 1px solid var(--border);
+      color: var(--text);
+      background: var(--panel);
+      border-radius: 999px;
+      padding: 10px 14px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    button.active {
+      background: var(--panel-2);
+      outline: 1px solid rgba(125,211,252,0.5);
+    }
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+    input, select {
+      width: 100%;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      border-radius: 14px;
+      padding: 12px 14px;
+      font-size: 16px;
+    }
+    .list {
+      display: grid;
+      gap: 10px;
+    }
+    .song {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 14px;
+    }
+    .row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .song-title {
+      font-weight: 800;
+      line-height: 1.25;
+      margin-bottom: 4px;
+    }
+    .song-meta {
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.35;
+    }
+    .pill {
+      min-width: 76px;
+      text-align: center;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 10px 12px;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .growth { color: var(--green); }
+    .foot {
+      margin-top: 18px;
+      color: var(--muted);
+      font-size: 0.9rem;
+      line-height: 1.45;
+    }
+    .hidden { display: none; }
+    a { color: var(--accent); }
+    @media (max-width: 700px) {
+      .stats { grid-template-columns: 1fr; }
+      .toolbar { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <h1>StarMaker Tracker</h1>
+      <p>Phone-friendly dashboard for estimating the most-sung and fastest-rising songs on public StarMaker pages.</p>
+      <div class="stats">
+        <div class="card">
+          <h2>Last update</h2>
+          <div class="value" id="lastUpdate">—</div>
+        </div>
+        <div class="card">
+          <h2>Songs found</h2>
+          <div class="value" id="songsFound">—</div>
+        </div>
+        <div class="card">
+          <h2>Top count seen</h2>
+          <div class="value" id="topCount">—</div>
+        </div>
+      </div>
+    </section>
+
+    <div class="tabs">
+      <button id="tabPopular" class="active">Most Sung</button>
+      <button id="tabMovers">Fastest Rising</button>
+    </div>
+
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Search song or artist" />
+      <select id="limitSelect">
+        <option value="25">Top 25</option>
+        <option value="50" selected>Top 50</option>
+        <option value="100">Top 100</option>
+      </select>
+    </div>
+
+    <section id="popularSection">
+      <div id="popularList" class="list"></div>
+    </section>
+
+    <section id="moversSection" class="hidden">
+      <div id="moversList" class="list"></div>
+    </section>
+
+    <div class="foot" id="notes"></div>
+  </div>
+
+  <script>
+    const state = {
+      active: 'popular',
+      latest: [],
+      movers: [],
+      status: null,
+    };
+
+    const fmtInt = new Intl.NumberFormat();
+    const fmtShort = new Intl.NumberFormat(undefined, { notation: 'compact', maximumFractionDigits: 1 });
+
+    function escapeHtml(str) {
+      return String(str ?? '').replace(/[&<>"]/g, s => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[s]));
+    }
+
+    function timeAgo(iso) {
+      if (!iso) return '—';
+      const diff = Date.now() - new Date(iso).getTime();
+      const mins = Math.round(diff / 60000);
+      if (mins < 1) return 'just now';
+      if (mins < 60) return `${mins}m ago`;
+      const hrs = Math.round(mins / 60);
+      if (hrs < 24) return `${hrs}h ago`;
+      const days = Math.round(hrs / 24);
+      return `${days}d ago`;
+    }
+
+    function renderStatus() {
+      const status = state.status || {};
+      document.getElementById('lastUpdate').textContent = timeAgo(status.last_scrape_at);
+      document.getElementById('songsFound').textContent = fmtInt.format(status.songs_found || 0);
+      document.getElementById('topCount').textContent = status.max_recordings_found ? fmtShort.format(status.max_recordings_found) : '—';
+      const notes = (status.notes || []).map(n => `<div>• ${escapeHtml(n)}</div>`).join('');
+      document.getElementById('notes').innerHTML = notes;
+    }
+
+    function currentFilter() {
+      const q = document.getElementById('search').value.trim().toLowerCase();
+      const limit = Number(document.getElementById('limitSelect').value);
+      return { q, limit };
+    }
+
+    function filterRows(rows) {
+      const { q, limit } = currentFilter();
+      const filtered = !q ? rows : rows.filter(r =>
+        String(r.song_title || '').toLowerCase().includes(q) ||
+        String(r.artist || '').toLowerCase().includes(q)
+      );
+      return filtered.slice(0, limit);
+    }
+
+    function renderPopular() {
+      const rows = filterRows(state.latest);
+      const html = rows.map((r, idx) => `
+        <article class="song">
+          <div class="row">
+            <div>
+              <div class="song-title">#${idx + 1} ${escapeHtml(r.song_title || 'Unknown song')}</div>
+              <div class="song-meta">${escapeHtml(r.artist || 'Unknown artist')} · ${escapeHtml(r.source_name || 'source')}</div>
+              <div class="song-meta">Recordings: ${r.recordings_num != null ? fmtInt.format(r.recordings_num) : '—'}</div>
+            </div>
+            <div class="pill">${r.recordings_num != null ? fmtShort.format(r.recordings_num) : '—'}</div>
+          </div>
+        </article>
+      `).join('');
+      document.getElementById('popularList').innerHTML = html || '<div class="song">No matching songs found.</div>';
+    }
+
+    function renderMovers() {
+      const rows = filterRows(state.movers);
+      const html = rows.map((r, idx) => `
+        <article class="song">
+          <div class="row">
+            <div>
+              <div class="song-title">#${idx + 1} ${escapeHtml(r.song_title || 'Unknown song')}</div>
+              <div class="song-meta">${escapeHtml(r.artist || 'Unknown artist')} · ${escapeHtml(r.source_name || 'source')}</div>
+              <div class="song-meta">${fmtInt.format(r.previous_recordings || 0)} → ${fmtInt.format(r.current_recordings || 0)} in ~${escapeHtml(r.hours_window || 24)}h</div>
+            </div>
+            <div class="pill growth">+${fmtInt.format(r.growth || 0)}</div>
+          </div>
+        </article>
+      `).join('');
+      document.getElementById('moversList').innerHTML = html || '<div class="song">Not enough history yet. After a few automated runs, this list will fill in.</div>';
+    }
+
+    function switchTab(tab) {
+      state.active = tab;
+      document.getElementById('tabPopular').classList.toggle('active', tab === 'popular');
+      document.getElementById('tabMovers').classList.toggle('active', tab === 'movers');
+      document.getElementById('popularSection').classList.toggle('hidden', tab !== 'popular');
+      document.getElementById('moversSection').classList.toggle('hidden', tab !== 'movers');
+    }
+
+    async function loadJson(path) {
+      const res = await fetch(path + '?v=' + Date.now(), { cache: 'no-store' });
+      if (!res.ok) throw new Error(`Failed to load ${path}`);
+      return res.json();
+    }
+
+    async function boot() {
+      try {
+        const [latest, movers, status] = await Promise.all([
+          loadJson('./data/latest.json'),
+          loadJson('./data/top_movers.json'),
+          loadJson('./data/status.json'),
+        ]);
+        state.latest = latest;
+        state.movers = movers;
+        state.status = status;
+        renderStatus();
+        renderPopular();
+        renderMovers();
+      } catch (err) {
+        document.getElementById('notes').innerHTML = 'Could not load tracker data yet. Run the update script or GitHub Action first.';
+        console.error(err);
+      }
+    }
+
+    document.getElementById('tabPopular').addEventListener('click', () => switchTab('popular'));
+    document.getElementById('tabMovers').addEventListener('click', () => switchTab('movers'));
+    document.getElementById('search').addEventListener('input', () => {
+      renderPopular();
+      renderMovers();
+    });
+    document.getElementById('limitSelect').addEventListener('change', () => {
+      renderPopular();
+      renderMovers();
+    });
+
+    boot();
+  </script>
+</body>
+</html>
