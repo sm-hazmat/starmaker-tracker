@@ -1,20 +1,20 @@
 [
   {
-    "song_title": "Morgan Wallen",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 120,
-    "previous_recordings": 118,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
     "song_title": "Ella Langley",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 31,
     "previous_recordings": 29,
     "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Morgan Wallen",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 120,
+    "previous_recordings": 119,
+    "growth": 1,
     "hours_window": 24
   }
 ]
