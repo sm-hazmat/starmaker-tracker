@@ -1,47 +1,11 @@
 [
   {
-    "song_title": "Lady Gaga",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 291000,
-    "previous_recordings": 7000,
-    "growth": 284000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Rihanna",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 182000,
-    "previous_recordings": 2000,
-    "growth": 180000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 134000,
     "previous_recordings": 72000,
     "growth": 62000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Morgan Wallen",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 121,
-    "previous_recordings": 120,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Ella Langley",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 31,
-    "previous_recordings": 30,
-    "growth": 1,
     "hours_window": 24
   }
 ]
