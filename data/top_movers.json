@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 294000,
+    "previous_recordings": 154000,
+    "growth": 140000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 128000,
+    "growth": 73000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "One Direction",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 20000,
+    "previous_recordings": 2000,
+    "growth": 18000,
+    "hours_window": 24
+  }
+]
