@@ -1,11 +1,29 @@
 [
   {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 165000,
+    "previous_recordings": 14000,
+    "growth": 151000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 134000,
+    "previous_recordings": 72000,
+    "growth": 62000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 183,
+    "current_recordings": 185,
     "previous_recordings": 180,
-    "growth": 3,
+    "growth": 5,
     "hours_window": 24
   }
 ]
