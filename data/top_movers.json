@@ -1,5 +1,23 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 294000,
+    "previous_recordings": 154000,
+    "growth": 140000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mariah Carey",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 110000,
+    "previous_recordings": 66000,
+    "growth": 44000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Hozier",
     "artist": "Points",
     "source_name": "playlist",
