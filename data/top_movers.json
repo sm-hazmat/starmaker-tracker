@@ -1,11 +1,38 @@
 [
   {
+    "song_title": "Céline Dion",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 688000,
+    "previous_recordings": 4000,
+    "growth": 684000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Miley Cyrus",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 228000,
+    "previous_recordings": 2000,
+    "growth": 226000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 134000,
+    "previous_recordings": 72000,
+    "growth": 62000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 196,
+    "current_recordings": 198,
     "previous_recordings": 185,
-    "growth": 11,
+    "growth": 13,
     "hours_window": 24
   },
   {
