@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "Spice Girls",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 61000,
-    "previous_recordings": 2000,
-    "growth": 59000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "John Denver",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 26000,
-    "previous_recordings": 2000,
-    "growth": 24000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 196,
-    "previous_recordings": 183,
-    "growth": 13,
+    "previous_recordings": 185,
+    "growth": 11,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lil Uzi Vert",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 49,
+    "previous_recordings": 48,
+    "growth": 1,
     "hours_window": 24
   }
 ]
