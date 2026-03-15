@@ -1,11 +1,38 @@
 [
   {
-    "song_title": "Hozier",
+    "song_title": "Anna Kendrick",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 80000,
-    "previous_recordings": 79000,
-    "growth": 1000,
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 14000,
+    "growth": 200000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 165000,
+    "previous_recordings": 1000,
+    "growth": 164000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 134000,
+    "previous_recordings": 72000,
+    "growth": 62000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "JVKE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 52000,
+    "previous_recordings": 23000,
+    "growth": 29000,
     "hours_window": 24
   },
   {
@@ -13,8 +40,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 204,
-    "previous_recordings": 200,
-    "growth": 4,
+    "previous_recordings": 201,
+    "growth": 3,
     "hours_window": 24
   },
   {
@@ -30,9 +57,9 @@
     "song_title": "Lil Uzi Vert",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 50,
+    "current_recordings": 51,
     "previous_recordings": 49,
-    "growth": 1,
+    "growth": 2,
     "hours_window": 24
   }
 ]
