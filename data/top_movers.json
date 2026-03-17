@@ -12,9 +12,27 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 214,
+    "current_recordings": 216,
     "previous_recordings": 209,
-    "growth": 5,
+    "growth": 7,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Kendrick Lamar/SZA",
+    "artist": "luther (with sza)",
+    "source_name": "playlist",
+    "current_recordings": 822,
+    "previous_recordings": 821,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lil Uzi Vert",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 52,
+    "previous_recordings": 51,
+    "growth": 1,
     "hours_window": 24
   }
 ]
