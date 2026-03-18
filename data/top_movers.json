@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Avenged Sevenfold",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 2000,
+    "previous_recordings": 1000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 221,
-    "previous_recordings": 216,
-    "growth": 5,
+    "previous_recordings": 217,
+    "growth": 4,
     "hours_window": 24
   },
   {
