@@ -1,47 +1,38 @@
 [
   {
-    "song_title": "Elvis Presley",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 484000,
-    "previous_recordings": 3000,
-    "growth": 481000,
+    "current_recordings": 134000,
+    "previous_recordings": 72000,
+    "growth": 62000,
     "hours_window": 24
   },
   {
     "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 294000,
+    "current_recordings": 205000,
     "previous_recordings": 154000,
-    "growth": 140000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Idina Menzel",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 128000,
-    "growth": 73000,
+    "growth": 51000,
     "hours_window": 24
   },
   {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 437,
+    "current_recordings": 438,
     "previous_recordings": 416,
-    "growth": 21,
+    "growth": 22,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 222,
+    "current_recordings": 224,
     "previous_recordings": 218,
-    "growth": 4,
+    "growth": 6,
     "hours_window": 24
   },
   {
@@ -58,8 +49,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 55,
-    "previous_recordings": 53,
-    "growth": 2,
+    "previous_recordings": 54,
+    "growth": 1,
     "hours_window": 24
   }
 ]
