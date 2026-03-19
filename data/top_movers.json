@@ -1,29 +1,47 @@
 [
   {
-    "song_title": "Dominic Fike",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 440,
-    "previous_recordings": 423,
-    "growth": 17,
+    "source_name": "songs",
+    "current_recordings": 294000,
+    "previous_recordings": 154000,
+    "growth": 140000,
     "hours_window": 24
   },
   {
-    "song_title": "Kendrick Lamar/SZA",
-    "artist": "luther (with sza)",
+    "song_title": "Idina Menzel",
+    "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 825,
-    "previous_recordings": 822,
-    "growth": 3,
+    "current_recordings": 201000,
+    "previous_recordings": 128000,
+    "growth": 73000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Dominic Fike",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 442,
+    "previous_recordings": 425,
+    "growth": 17,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 224,
+    "current_recordings": 225,
     "previous_recordings": 221,
-    "growth": 3,
+    "growth": 4,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Kendrick Lamar/SZA",
+    "artist": "luther (with sza)",
+    "source_name": "playlist",
+    "current_recordings": 825,
+    "previous_recordings": 823,
+    "growth": 2,
     "hours_window": 24
   },
   {
