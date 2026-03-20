@@ -4,8 +4,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 462,
-    "previous_recordings": 442,
-    "growth": 20,
+    "previous_recordings": 443,
+    "growth": 19,
     "hours_window": 24
   },
   {
@@ -13,8 +13,17 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 230,
-    "previous_recordings": 225,
-    "growth": 5,
+    "previous_recordings": 226,
+    "growth": 4,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lil Uzi Vert",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 56,
+    "previous_recordings": 55,
+    "growth": 1,
     "hours_window": 24
   }
 ]
