@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 134000,
-    "previous_recordings": 72000,
-    "growth": 62000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 451,
-    "previous_recordings": 436,
-    "growth": 15,
+    "current_recordings": 454,
+    "previous_recordings": 437,
+    "growth": 17,
     "hours_window": 24
   },
   {
@@ -31,8 +22,8 @@
     "artist": "luther (with sza)",
     "source_name": "playlist",
     "current_recordings": 825,
-    "previous_recordings": 823,
-    "growth": 2,
+    "previous_recordings": 824,
+    "growth": 1,
     "hours_window": 24
   }
 ]
