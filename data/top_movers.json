@@ -1,29 +1,29 @@
 [
   {
-    "song_title": "Benson Boone",
+    "song_title": "Lady Gaga/Bruno Mars",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 8000,
-    "previous_recordings": 840,
-    "growth": 7160,
+    "current_recordings": 10000,
+    "previous_recordings": 5000,
+    "growth": 5000,
     "hours_window": 24
   },
   {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 471,
-    "previous_recordings": 451,
-    "growth": 20,
+    "current_recordings": 484,
+    "previous_recordings": 454,
+    "growth": 30,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 232,
+    "current_recordings": 233,
     "previous_recordings": 227,
-    "growth": 5,
+    "growth": 6,
     "hours_window": 24
   },
   {
