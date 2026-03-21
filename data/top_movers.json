@@ -1,19 +1,28 @@
 [
   {
+    "song_title": "Benson Boone",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 8000,
+    "previous_recordings": 840,
+    "growth": 7160,
+    "hours_window": 24
+  },
+  {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 464,
-    "previous_recordings": 443,
-    "growth": 21,
+    "current_recordings": 471,
+    "previous_recordings": 451,
+    "growth": 20,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 231,
-    "previous_recordings": 226,
+    "current_recordings": 232,
+    "previous_recordings": 227,
     "growth": 5,
     "hours_window": 24
   },
