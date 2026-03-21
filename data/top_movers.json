@@ -1,47 +1,29 @@
 [
   {
-    "song_title": "Ruth B",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 231000,
-    "previous_recordings": 18000,
-    "growth": 213000,
+    "current_recordings": 294000,
+    "previous_recordings": 154000,
+    "growth": 140000,
     "hours_window": 24
   },
   {
-    "song_title": "Adele",
+    "song_title": "Mariah Carey",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 165000,
-    "previous_recordings": 1000,
-    "growth": 164000,
+    "current_recordings": 110000,
+    "previous_recordings": 7000,
+    "growth": 103000,
     "hours_window": 24
   },
   {
-    "song_title": "Rihanna",
+    "song_title": "Idina Menzel",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 182000,
-    "previous_recordings": 25000,
-    "growth": 157000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 134000,
-    "previous_recordings": 72000,
-    "growth": 62000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 48000,
-    "previous_recordings": 6000,
-    "growth": 42000,
+    "current_recordings": 201000,
+    "previous_recordings": 128000,
+    "growth": 73000,
     "hours_window": 24
   },
   {
@@ -68,15 +50,6 @@
     "source_name": "playlist",
     "current_recordings": 826,
     "previous_recordings": 825,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lil Uzi Vert",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 57,
-    "previous_recordings": 56,
     "growth": 1,
     "hours_window": 24
   }
