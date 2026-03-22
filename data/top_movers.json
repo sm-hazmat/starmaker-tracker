@@ -1,28 +1,19 @@
 [
   {
-    "song_title": "Lady Gaga/Bruno Mars",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 27000,
-    "previous_recordings": 5000,
-    "growth": 22000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 507,
-    "previous_recordings": 487,
-    "growth": 20,
+    "current_recordings": 521,
+    "previous_recordings": 490,
+    "growth": 31,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 243,
-    "previous_recordings": 234,
+    "current_recordings": 244,
+    "previous_recordings": 235,
     "growth": 9,
     "hours_window": 24
   },
