@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 294000,
+    "previous_recordings": 154000,
+    "growth": 140000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
@@ -20,7 +29,7 @@
   {
     "song_title": "Kendrick Lamar/SZA",
     "artist": "luther (with sza)",
-    "source_name": "songs",
+    "source_name": "playlist",
     "current_recordings": 827,
     "previous_recordings": 825,
     "growth": 2,
