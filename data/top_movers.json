@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Lady Gaga/Bruno Mars",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 27000,
+    "previous_recordings": 5000,
+    "growth": 22000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
@@ -18,20 +27,11 @@
     "hours_window": 24
   },
   {
-    "song_title": "Aimee Carty",
-    "artist": "2 days into college(Remaster)",
-    "source_name": "songs",
-    "current_recordings": 346,
-    "previous_recordings": 341,
-    "growth": 5,
-    "hours_window": 24
-  },
-  {
     "song_title": "Kendrick Lamar/SZA",
     "artist": "luther (with sza)",
     "source_name": "playlist",
-    "current_recordings": 828,
-    "previous_recordings": 825,
+    "current_recordings": 829,
+    "previous_recordings": 826,
     "growth": 3,
     "hours_window": 24
   }
