@@ -1,38 +1,20 @@
 [
   {
-    "song_title": "Adele",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 25000,
-    "previous_recordings": 1000,
-    "growth": 24000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lady Gaga/Bruno Mars",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 12000,
-    "previous_recordings": 5000,
-    "growth": 7000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "KATSEYE",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 4000,
-    "previous_recordings": 787,
-    "growth": 3213,
-    "hours_window": 24
-  },
-  {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 499,
-    "previous_recordings": 471,
-    "growth": 28,
+    "current_recordings": 502,
+    "previous_recordings": 484,
+    "growth": 18,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Kendrick Lamar/SZA",
+    "artist": "luther (with sza)",
+    "source_name": "playlist",
+    "current_recordings": 827,
+    "previous_recordings": 825,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -40,17 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 235,
-    "previous_recordings": 232,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Kendrick Lamar/SZA",
-    "artist": "luther (with sza)",
-    "source_name": "playlist",
-    "current_recordings": 826,
-    "previous_recordings": 825,
-    "growth": 1,
+    "previous_recordings": 233,
+    "growth": 2,
     "hours_window": 24
   }
 ]
