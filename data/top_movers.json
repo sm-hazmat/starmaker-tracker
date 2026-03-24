@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 129000,
+    "previous_recordings": 128000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 556,
-    "previous_recordings": 537,
-    "growth": 19,
+    "previous_recordings": 539,
+    "growth": 17,
     "hours_window": 24
   },
   {
@@ -13,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 259,
-    "previous_recordings": 252,
-    "growth": 7,
+    "previous_recordings": 254,
+    "growth": 5,
     "hours_window": 24
   },
   {
