@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Ruth B",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 231000,
-    "previous_recordings": 18000,
-    "growth": 213000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 134000,
-    "previous_recordings": 72000,
-    "growth": 62000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
@@ -30,9 +12,9 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 259,
+    "current_recordings": 260,
     "previous_recordings": 254,
-    "growth": 5,
+    "growth": 6,
     "hours_window": 24
   },
   {
