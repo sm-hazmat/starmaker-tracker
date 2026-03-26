@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 205000,
+    "previous_recordings": 154000,
+    "growth": 51000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 566,
+    "current_recordings": 573,
     "previous_recordings": 521,
-    "growth": 45,
+    "growth": 52,
     "hours_window": 24
   },
   {
@@ -13,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 589,
-    "previous_recordings": 571,
-    "growth": 18,
+    "previous_recordings": 572,
+    "growth": 17,
     "hours_window": 24
   },
   {
