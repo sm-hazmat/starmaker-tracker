@@ -1,14 +1,5 @@
 [
   {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 205000,
-    "previous_recordings": 154000,
-    "growth": 51000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
@@ -21,9 +12,9 @@
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 589,
+    "current_recordings": 591,
     "previous_recordings": 572,
-    "growth": 17,
+    "growth": 19,
     "hours_window": 24
   },
   {
@@ -33,6 +24,15 @@
     "current_recordings": 271,
     "previous_recordings": 267,
     "growth": 4,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Kendrick Lamar/SZA",
+    "artist": "luther (with sza)",
+    "source_name": "playlist",
+    "current_recordings": 834,
+    "previous_recordings": 833,
+    "growth": 1,
     "hours_window": 24
   },
   {
