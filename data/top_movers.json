@@ -1,11 +1,29 @@
 [
   {
+    "song_title": "Rihanna",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 182000,
+    "previous_recordings": 17000,
+    "growth": 165000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 134000,
+    "previous_recordings": 72000,
+    "growth": 62000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 573,
-    "previous_recordings": 521,
-    "growth": 52,
+    "current_recordings": 577,
+    "previous_recordings": 527,
+    "growth": 50,
     "hours_window": 24
   },
   {
@@ -21,9 +39,9 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 271,
+    "current_recordings": 273,
     "previous_recordings": 267,
-    "growth": 4,
+    "growth": 6,
     "hours_window": 24
   },
   {
