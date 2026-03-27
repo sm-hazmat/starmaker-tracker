@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 134000,
+    "previous_recordings": 72000,
+    "growth": 62000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 610,
-    "previous_recordings": 573,
-    "growth": 37,
+    "current_recordings": 615,
+    "previous_recordings": 577,
+    "growth": 38,
     "hours_window": 24
   },
   {
@@ -21,9 +30,18 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 280,
-    "previous_recordings": 271,
-    "growth": 9,
+    "current_recordings": 281,
+    "previous_recordings": 273,
+    "growth": 8,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Noah Kahan",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 9,
+    "previous_recordings": 7,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -32,15 +50,6 @@
     "source_name": "playlist",
     "current_recordings": 11,
     "previous_recordings": 10,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Noah Kahan",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 8,
-    "previous_recordings": 7,
     "growth": 1,
     "hours_window": 24
   }
