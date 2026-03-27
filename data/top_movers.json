@@ -1,37 +1,19 @@
 [
   {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 205000,
-    "previous_recordings": 154000,
-    "growth": 51000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "JVKE",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 52000,
-    "previous_recordings": 4000,
-    "growth": 48000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 584,
-    "previous_recordings": 531,
-    "growth": 53,
+    "current_recordings": 591,
+    "previous_recordings": 535,
+    "growth": 56,
     "hours_window": 24
   },
   {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 601,
-    "previous_recordings": 579,
+    "current_recordings": 602,
+    "previous_recordings": 580,
     "growth": 22,
     "hours_window": 24
   },
@@ -39,9 +21,9 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 273,
-    "previous_recordings": 267,
-    "growth": 6,
+    "current_recordings": 275,
+    "previous_recordings": 268,
+    "growth": 7,
     "hours_window": 24
   },
   {
@@ -51,6 +33,24 @@
     "current_recordings": 835,
     "previous_recordings": 833,
     "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Bad Bunny",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 11,
+    "previous_recordings": 10,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Noah Kahan",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 8,
+    "previous_recordings": 7,
+    "growth": 1,
     "hours_window": 24
   }
 ]
