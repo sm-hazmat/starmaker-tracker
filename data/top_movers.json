@@ -1,20 +1,29 @@
 [
   {
+    "song_title": "Michael Jackson",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 22000,
+    "previous_recordings": 1000,
+    "growth": 21000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
     "current_recordings": 620,
-    "previous_recordings": 584,
-    "growth": 36,
+    "previous_recordings": 591,
+    "growth": 29,
     "hours_window": 24
   },
   {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 618,
-    "previous_recordings": 601,
-    "growth": 17,
+    "current_recordings": 621,
+    "previous_recordings": 602,
+    "growth": 19,
     "hours_window": 24
   },
   {
@@ -22,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 284,
-    "previous_recordings": 273,
-    "growth": 11,
+    "previous_recordings": 275,
+    "growth": 9,
     "hours_window": 24
   },
   {
@@ -31,16 +40,7 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 9,
-    "previous_recordings": 7,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Bad Bunny",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 11,
-    "previous_recordings": 10,
+    "previous_recordings": 8,
     "growth": 1,
     "hours_window": 24
   }
