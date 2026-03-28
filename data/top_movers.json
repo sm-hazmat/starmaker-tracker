@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "Michael Jackson",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 22000,
-    "previous_recordings": 1000,
-    "growth": 21000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 620,
-    "previous_recordings": 591,
-    "growth": 29,
+    "current_recordings": 622,
+    "previous_recordings": 592,
+    "growth": 30,
     "hours_window": 24
   },
   {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 621,
-    "previous_recordings": 602,
-    "growth": 19,
+    "current_recordings": 625,
+    "previous_recordings": 605,
+    "growth": 20,
     "hours_window": 24
   },
   {
