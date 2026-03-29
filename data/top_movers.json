@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Jim Croce",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 134000,
-    "previous_recordings": 72000,
-    "growth": 62000,
+    "current_recordings": 25000,
+    "previous_recordings": 5000,
+    "growth": 20000,
     "hours_window": 24
   },
   {
@@ -21,9 +21,9 @@
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 670,
-    "previous_recordings": 622,
-    "growth": 48,
+    "current_recordings": 674,
+    "previous_recordings": 628,
+    "growth": 46,
     "hours_window": 24
   },
   {
@@ -39,8 +39,8 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 300,
-    "previous_recordings": 284,
+    "current_recordings": 302,
+    "previous_recordings": 286,
     "growth": 16,
     "hours_window": 24
   },
