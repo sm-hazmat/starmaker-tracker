@@ -1,32 +1,5 @@
 [
   {
-    "song_title": "Lady Gaga",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 291000,
-    "previous_recordings": 4000,
-    "growth": 287000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Miley Cyrus",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 228000,
-    "previous_recordings": 15000,
-    "growth": 213000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Adele",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 165000,
-    "previous_recordings": 1000,
-    "growth": 164000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -57,8 +30,8 @@
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 649,
-    "previous_recordings": 633,
+    "current_recordings": 652,
+    "previous_recordings": 636,
     "growth": 16,
     "hours_window": 24
   },
