@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Anna Kendrick",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 214000,
-    "previous_recordings": 30000,
-    "growth": 184000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 134000,
-    "previous_recordings": 72000,
-    "growth": 62000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Charlie Puth",
     "artist": "Points",
     "source_name": "playlist",
@@ -30,17 +12,17 @@
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 679,
+    "current_recordings": 685,
     "previous_recordings": 651,
-    "growth": 28,
+    "growth": 34,
     "hours_window": 24
   },
   {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 646,
-    "previous_recordings": 630,
+    "current_recordings": 649,
+    "previous_recordings": 633,
     "growth": 16,
     "hours_window": 24
   },
@@ -49,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 307,
-    "previous_recordings": 292,
-    "growth": 15,
+    "previous_recordings": 293,
+    "growth": 14,
     "hours_window": 24
   },
   {
