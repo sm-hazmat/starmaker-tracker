@@ -1,29 +1,56 @@
 [
   {
-    "song_title": "Bts",
-    "artist": "SWIM",
-    "source_name": "playlist",
-    "current_recordings": 704,
-    "previous_recordings": 674,
-    "growth": 30,
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 294000,
+    "previous_recordings": 154000,
+    "growth": 140000,
     "hours_window": 24
   },
   {
-    "song_title": "Tame Impala",
+    "song_title": "Idina Menzel",
     "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "The Chainsmokers",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 93000,
+    "previous_recordings": 27000,
+    "growth": 66000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Bts",
+    "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 320,
-    "previous_recordings": 302,
-    "growth": 18,
+    "current_recordings": 707,
+    "previous_recordings": 679,
+    "growth": 28,
     "hours_window": 24
   },
   {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 661,
-    "previous_recordings": 644,
+    "current_recordings": 663,
+    "previous_recordings": 646,
     "growth": 17,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Tame Impala",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 321,
+    "previous_recordings": 307,
+    "growth": 14,
     "hours_window": 24
   }
 ]
