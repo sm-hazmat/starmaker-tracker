@@ -3,26 +3,26 @@
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 694,
-    "previous_recordings": 670,
-    "growth": 24,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Dominic Fike",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 659,
-    "previous_recordings": 642,
-    "growth": 17,
+    "current_recordings": 704,
+    "previous_recordings": 674,
+    "growth": 30,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 317,
-    "previous_recordings": 300,
+    "current_recordings": 320,
+    "previous_recordings": 302,
+    "growth": 18,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Dominic Fike",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 661,
+    "previous_recordings": 644,
     "growth": 17,
     "hours_window": 24
   }
