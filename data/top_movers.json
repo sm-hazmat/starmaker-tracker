@@ -1,11 +1,29 @@
 [
   {
+    "song_title": "BLACKPINK",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 55000,
+    "previous_recordings": 7000,
+    "growth": 48000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "JVKE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 52000,
+    "previous_recordings": 24000,
+    "growth": 28000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
     "current_recordings": 710,
-    "previous_recordings": 685,
-    "growth": 25,
+    "previous_recordings": 688,
+    "growth": 22,
     "hours_window": 24
   },
   {
