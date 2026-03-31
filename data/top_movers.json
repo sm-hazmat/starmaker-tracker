@@ -12,18 +12,18 @@
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 717,
-    "previous_recordings": 693,
-    "growth": 24,
+    "current_recordings": 723,
+    "previous_recordings": 694,
+    "growth": 29,
     "hours_window": 24
   },
   {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 675,
-    "previous_recordings": 656,
-    "growth": 19,
+    "current_recordings": 677,
+    "previous_recordings": 659,
+    "growth": 18,
     "hours_window": 24
   },
   {
@@ -31,8 +31,17 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 323,
-    "previous_recordings": 312,
-    "growth": 11,
+    "previous_recordings": 317,
+    "growth": 6,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Kendrick Lamar/SZA",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 837,
+    "previous_recordings": 836,
+    "growth": 1,
     "hours_window": 24
   }
 ]
