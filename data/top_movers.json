@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Miley Cyrus",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 228000,
+    "previous_recordings": 15000,
+    "growth": 213000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 205000,
+    "current_recordings": 294000,
     "previous_recordings": 154000,
-    "growth": 51000,
+    "growth": 140000,
     "hours_window": 24
   },
   {
@@ -18,11 +27,11 @@
     "hours_window": 24
   },
   {
-    "song_title": "Lukas Graham",
+    "song_title": "Billie Eilish",
     "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 51000,
-    "previous_recordings": 50000,
+    "source_name": "playlist",
+    "current_recordings": 73000,
+    "previous_recordings": 72000,
     "growth": 1000,
     "hours_window": 24
   },
@@ -30,27 +39,27 @@
     "song_title": "Bts",
     "artist": "SWIM",
     "source_name": "playlist",
-    "current_recordings": 731,
-    "previous_recordings": 704,
-    "growth": 27,
+    "current_recordings": 738,
+    "previous_recordings": 710,
+    "growth": 28,
     "hours_window": 24
   },
   {
     "song_title": "Dominic Fike",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 681,
-    "previous_recordings": 661,
-    "growth": 20,
+    "current_recordings": 685,
+    "previous_recordings": 668,
+    "growth": 17,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 324,
-    "previous_recordings": 320,
-    "growth": 4,
+    "current_recordings": 326,
+    "previous_recordings": 321,
+    "growth": 5,
     "hours_window": 24
   },
   {
@@ -59,6 +68,15 @@
     "source_name": "playlist",
     "current_recordings": 837,
     "previous_recordings": 836,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "TATE MCRAE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 548,
+    "previous_recordings": 547,
     "growth": 1,
     "hours_window": 24
   }
