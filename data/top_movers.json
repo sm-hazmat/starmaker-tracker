@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 134000,
+    "previous_recordings": 73000,
+    "growth": 61000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 48000,
+    "previous_recordings": 27000,
+    "growth": 21000,
+    "hours_window": 24
+  }
+]
