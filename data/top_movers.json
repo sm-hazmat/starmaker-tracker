@@ -3,8 +3,8 @@
     "song_title": "Harry Styles",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 63,
-    "previous_recordings": 61,
+    "current_recordings": 64,
+    "previous_recordings": 62,
     "growth": 2,
     "hours_window": 24
   },
@@ -14,6 +14,15 @@
     "source_name": "playlist",
     "current_recordings": 75,
     "previous_recordings": 74,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Sabrina Carpenter",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 54,
+    "previous_recordings": 53,
     "growth": 1,
     "hours_window": 24
   }
