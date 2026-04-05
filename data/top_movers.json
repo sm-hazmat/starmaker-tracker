@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Miley Cyrus",
+    "song_title": "Ruth B",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 228000,
-    "previous_recordings": 23000,
-    "growth": 205000,
+    "current_recordings": 231000,
+    "previous_recordings": 8000,
+    "growth": 223000,
     "hours_window": 24
   },
   {
@@ -15,6 +15,24 @@
     "current_recordings": 294000,
     "previous_recordings": 154000,
     "growth": 140000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mariah Carey",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 111000,
+    "previous_recordings": 27000,
+    "growth": 84000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Maroon 5",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 51000,
+    "previous_recordings": 16000,
+    "growth": 35000,
     "hours_window": 24
   },
   {
