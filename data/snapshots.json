@@ -1,361 +1,5 @@
 [
   {
-    "scraped_at": "2026-03-25T20:01:06+00:00",
-    "rows": [
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
-        "source_name": "playlist",
-        "song_title": "John Legend",
-        "artist": "Points",
-        "recordings_raw": "791K recordings",
-        "recordings_num": 791000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
-        "source_name": "playlist",
-        "song_title": "Ed Sheeran",
-        "artist": "Points",
-        "recordings_raw": "659K recordings",
-        "recordings_num": 659000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
-        "source_name": "playlist",
-        "song_title": "Ellie Goulding",
-        "artist": "Points",
-        "recordings_raw": "402K recordings",
-        "recordings_num": 402000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
-        "source_name": "playlist",
-        "song_title": "Charlie Puth",
-        "artist": "Points",
-        "recordings_raw": "347K recordings",
-        "recordings_num": 347000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
-        "source_name": "playlist",
-        "song_title": "Shawn Mendes",
-        "artist": "Points",
-        "recordings_raw": "228K recordings",
-        "recordings_num": 228000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
-        "source_name": "playlist",
-        "song_title": "Bruno Mars",
-        "artist": "Points",
-        "recordings_raw": "164K recordings",
-        "recordings_num": 164000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
-        "source_name": "playlist",
-        "song_title": "Lewis Capaldi",
-        "artist": "Points",
-        "recordings_raw": "154K recordings",
-        "recordings_num": 154000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
-        "source_name": "playlist",
-        "song_title": "Hozier",
-        "artist": "Points",
-        "recordings_raw": "80K recordings",
-        "recordings_num": 80000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
-        "source_name": "playlist",
-        "song_title": "Billie Eilish",
-        "artist": "Points",
-        "recordings_raw": "72K recordings",
-        "recordings_num": 72000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Enrique Iglesias",
-        "artist": "Points",
-        "recordings_raw": "19K recordings",
-        "recordings_num": 19000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "djo",
-        "artist": "Points",
-        "recordings_raw": "9K recordings",
-        "recordings_num": 9000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Aretha Franklin",
-        "artist": "Points",
-        "recordings_raw": "8K recordings",
-        "recordings_num": 8000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Toni Gonzaga",
-        "artist": "Points",
-        "recordings_raw": "8K recordings",
-        "recordings_num": 8000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Styx",
-        "artist": "Points",
-        "recordings_raw": "5K recordings",
-        "recordings_num": 5000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Annie Lennox",
-        "artist": "Points",
-        "recordings_raw": "3K recordings",
-        "recordings_num": 3000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Keith Sweat",
-        "artist": "Points",
-        "recordings_raw": "3K recordings",
-        "recordings_num": 3000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Shirley Bassey",
-        "artist": "Points",
-        "recordings_raw": "3K recordings",
-        "recordings_num": 3000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Garth Brooks",
-        "artist": "Points",
-        "recordings_raw": "2K recordings",
-        "recordings_num": 2000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Don Williams",
-        "artist": "Points",
-        "recordings_raw": "2K recordings",
-        "recordings_num": 2000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Faith Evans",
-        "artist": "Points",
-        "recordings_raw": "2K recordings",
-        "recordings_num": 2000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "R. Kelly",
-        "artist": "Points",
-        "recordings_raw": "2K recordings",
-        "recordings_num": 2000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "Lola Young",
-        "artist": "Points",
-        "recordings_raw": "2K recordings",
-        "recordings_num": 2000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Travis Tritt",
-        "artist": "Points",
-        "recordings_raw": "1K recordings",
-        "recordings_num": 1000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Little Mix",
-        "artist": "Points",
-        "recordings_raw": "1K recordings",
-        "recordings_num": 1000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Chris Brown/Usher/Rick Ross",
-        "artist": "Points",
-        "recordings_raw": "1K recordings",
-        "recordings_num": 1000
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "Kendrick Lamar/SZA",
-        "artist": "luther (with sza)",
-        "recordings_raw": "833 recordings",
-        "recordings_num": 833
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Pleasure P",
-        "artist": "Points",
-        "recordings_raw": "811 recordings",
-        "recordings_num": 811
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Patty Loveless",
-        "artist": "Points",
-        "recordings_raw": "773 recordings",
-        "recordings_num": 773
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Postmodern Jukebox",
-        "artist": "Points",
-        "recordings_raw": "667 recordings",
-        "recordings_num": 667
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Gary Stewart",
-        "artist": "Points",
-        "recordings_raw": "608 recordings",
-        "recordings_num": 608
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "Dominic Fike",
-        "artist": "Points",
-        "recordings_raw": "571 recordings",
-        "recordings_num": 571
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "Bts",
-        "artist": "SWIM",
-        "recordings_raw": "521 recordings",
-        "recordings_num": 521
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "blackbear",
-        "artist": "Points",
-        "recordings_raw": "483 recordings",
-        "recordings_num": 483
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:04+00:00",
-        "source_url": "https://www.starmakerstudios.com/en/songs",
-        "source_name": "songs",
-        "song_title": "Tove Lo",
-        "artist": "Points",
-        "recordings_raw": "319 recordings",
-        "recordings_num": 319
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "Tame Impala",
-        "artist": "Points",
-        "recordings_raw": "267 recordings",
-        "recordings_num": 267
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "Bad Bunny",
-        "artist": "Points",
-        "recordings_raw": "10 recordings",
-        "recordings_num": 10
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "Noah Kahan",
-        "artist": "Points",
-        "recordings_raw": "6 recordings",
-        "recordings_num": 6
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "Sam Fender/Olivia Dean",
-        "artist": "Points",
-        "recordings_raw": "2 recordings",
-        "recordings_num": 2
-      },
-      {
-        "scraped_at": "2026-03-25T20:01:06+00:00",
-        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
-        "source_name": "playlist",
-        "song_title": "Twenty One Pilots",
-        "artist": "Drag Path",
-        "recordings_raw": "1 recordings",
-        "recordings_num": 1
-      }
-    ]
-  },
-  {
     "scraped_at": "2026-03-25T22:03:16+00:00",
     "rows": [
       {
@@ -50117,6 +49761,344 @@
       },
       {
         "scraped_at": "2026-04-06T19:57:32+00:00",
+        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
+        "source_name": "playlist",
+        "song_title": "Charli XCX",
+        "artist": "Always Everywhere",
+        "recordings_raw": "0 recordings",
+        "recordings_num": 0
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-06T20:47:58+00:00",
+    "rows": [
+      {
+        "scraped_at": "2026-04-06T20:47:55+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+        "source_name": "playlist",
+        "song_title": "John Legend",
+        "artist": "Points",
+        "recordings_raw": "791K recordings",
+        "recordings_num": 791000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:55+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+        "source_name": "playlist",
+        "song_title": "Ed Sheeran",
+        "artist": "Points",
+        "recordings_raw": "660K recordings",
+        "recordings_num": 660000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:55+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+        "source_name": "playlist",
+        "song_title": "Ellie Goulding",
+        "artist": "Points",
+        "recordings_raw": "402K recordings",
+        "recordings_num": 402000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:55+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+        "source_name": "playlist",
+        "song_title": "Charlie Puth",
+        "artist": "Points",
+        "recordings_raw": "348K recordings",
+        "recordings_num": 348000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:55+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+        "source_name": "playlist",
+        "song_title": "Shawn Mendes",
+        "artist": "Points",
+        "recordings_raw": "228K recordings",
+        "recordings_num": 228000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:55+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+        "source_name": "playlist",
+        "song_title": "Bruno Mars",
+        "artist": "Points",
+        "recordings_raw": "164K recordings",
+        "recordings_num": 164000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Billie Eilish/Khalid",
+        "artist": "Points",
+        "recordings_raw": "155K recordings",
+        "recordings_num": 155000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:55+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+        "source_name": "playlist",
+        "song_title": "Lewis Capaldi",
+        "artist": "Points",
+        "recordings_raw": "154K recordings",
+        "recordings_num": 154000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Kenny Rogers",
+        "artist": "Points",
+        "recordings_raw": "84K recordings",
+        "recordings_num": 84000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:55+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+        "source_name": "playlist",
+        "song_title": "Hozier",
+        "artist": "Points",
+        "recordings_raw": "80K recordings",
+        "recordings_num": 80000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "*NSYNC",
+        "artist": "Points",
+        "recordings_raw": "79K recordings",
+        "recordings_num": 79000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Angela Bofill",
+        "artist": "Points",
+        "recordings_raw": "78K recordings",
+        "recordings_num": 78000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:55+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/playlist/starmaker-top-songs/294",
+        "source_name": "playlist",
+        "song_title": "Billie Eilish",
+        "artist": "Points",
+        "recordings_raw": "73K recordings",
+        "recordings_num": 73000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Madonna",
+        "artist": "Points",
+        "recordings_raw": "72K recordings",
+        "recordings_num": 72000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Benson Boone",
+        "artist": "Points",
+        "recordings_raw": "27K recordings",
+        "recordings_num": 27000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Martin Garrix/Bebe Rexha",
+        "artist": "Points",
+        "recordings_raw": "24K recordings",
+        "recordings_num": 24000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Shakira",
+        "artist": "Points",
+        "recordings_raw": "18K recordings",
+        "recordings_num": 18000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Stranger Things",
+        "artist": "Points",
+        "recordings_raw": "12K recordings",
+        "recordings_num": 12000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Anne Murray",
+        "artist": "Points",
+        "recordings_raw": "9K recordings",
+        "recordings_num": 9000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "djo",
+        "artist": "Points",
+        "recordings_raw": "9K recordings",
+        "recordings_num": 9000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "KATSEYE",
+        "artist": "Points",
+        "recordings_raw": "8K recordings",
+        "recordings_num": 8000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Miranda Lambert",
+        "artist": "Points",
+        "recordings_raw": "8K recordings",
+        "recordings_num": 8000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Stephanie Mills",
+        "artist": "Points",
+        "recordings_raw": "6K recordings",
+        "recordings_num": 6000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "John Anderson",
+        "artist": "Points",
+        "recordings_raw": "6K recordings",
+        "recordings_num": 6000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Aaliyah",
+        "artist": "Points",
+        "recordings_raw": "5K recordings",
+        "recordings_num": 5000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Garth Brooks",
+        "artist": "Points",
+        "recordings_raw": "3K recordings",
+        "recordings_num": 3000
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Zara Larsson (자라 라슨)",
+        "artist": "Lush Life",
+        "recordings_raw": "394 recordings",
+        "recordings_num": 394
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:56+00:00",
+        "source_url": "https://www.starmakerstudios.com/en/songs",
+        "source_name": "songs",
+        "song_title": "Marty",
+        "artist": "Peppa Pig",
+        "recordings_raw": "253 recordings",
+        "recordings_num": 253
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:58+00:00",
+        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
+        "source_name": "playlist",
+        "song_title": "Sombr",
+        "artist": "Points",
+        "recordings_raw": "81 recordings",
+        "recordings_num": 81
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:58+00:00",
+        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
+        "source_name": "playlist",
+        "song_title": "Harry Styles",
+        "artist": "Points",
+        "recordings_raw": "66 recordings",
+        "recordings_num": 66
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:58+00:00",
+        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
+        "source_name": "playlist",
+        "song_title": "Sabrina Carpenter",
+        "artist": "Points",
+        "recordings_raw": "56 recordings",
+        "recordings_num": 56
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:58+00:00",
+        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
+        "source_name": "playlist",
+        "song_title": "Charlie Puth Ft. Utada Hikaru",
+        "artist": "98 songs",
+        "recordings_raw": "7 recordings",
+        "recordings_num": 7
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:58+00:00",
+        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
+        "source_name": "playlist",
+        "song_title": "Tate McRae",
+        "artist": "Points",
+        "recordings_raw": "5 recordings",
+        "recordings_num": 5
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:58+00:00",
+        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
+        "source_name": "playlist",
+        "song_title": "Kygo/Khalid/Gryffin",
+        "artist": "Points",
+        "recordings_raw": "2 recordings",
+        "recordings_num": 2
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:58+00:00",
+        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
+        "source_name": "playlist",
+        "song_title": "PinkPantheress/Zara",
+        "artist": "Points",
+        "recordings_raw": "1 recordings",
+        "recordings_num": 1
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:58+00:00",
+        "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
+        "source_name": "playlist",
+        "song_title": "Danny L Harle/Dua Lipa",
+        "artist": "Points",
+        "recordings_raw": "1 recordings",
+        "recordings_num": 1
+      },
+      {
+        "scraped_at": "2026-04-06T20:47:58+00:00",
         "source_url": "https://www.starmakerstudios.com/playlist/%E6%9C%AC%E5%91%A8us%E7%86%B1%E9%96%80100/1357",
         "source_name": "playlist",
         "song_title": "Charli XCX",
