@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Lady Gaga/bruno mars",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 100000,
+    "previous_recordings": 140,
+    "growth": 99860,
+    "hours_window": 24
+  },
+  {
     "song_title": "PinkPantheress/Zara",
     "artist": "Points",
     "source_name": "playlist",
@@ -14,15 +23,6 @@
     "source_name": "playlist",
     "current_recordings": 81,
     "previous_recordings": 80,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Sabrina Carpenter",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 56,
-    "previous_recordings": 55,
     "growth": 1,
     "hours_window": 24
   }
