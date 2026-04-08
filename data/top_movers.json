@@ -1,20 +1,65 @@
 [
   {
-    "song_title": "The Carpenters",
+    "song_title": "Anne Murray",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 224000,
-    "previous_recordings": 31000,
-    "growth": 193000,
+    "current_recordings": 230000,
+    "previous_recordings": 9000,
+    "growth": 221000,
     "hours_window": 24
   },
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Lady Gaga",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 206000,
-    "previous_recordings": 154000,
-    "growth": 52000,
+    "current_recordings": 291000,
+    "previous_recordings": 121000,
+    "growth": 170000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 165000,
+    "previous_recordings": 5000,
+    "growth": 160000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 135000,
+    "previous_recordings": 73000,
+    "growth": 62000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 48000,
+    "previous_recordings": 1000,
+    "growth": 47000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Imagine Dragons",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 143000,
+    "previous_recordings": 97000,
+    "growth": 46000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "salem ilese",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 42000,
+    "previous_recordings": 10000,
+    "growth": 32000,
     "hours_window": 24
   }
 ]
