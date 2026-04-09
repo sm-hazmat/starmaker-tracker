@@ -1,11 +1,29 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Tame Impala/JENNIE",
     "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 135000,
-    "previous_recordings": 73000,
-    "growth": 62000,
+    "source_name": "playlist",
+    "current_recordings": 1000,
+    "previous_recordings": 995,
+    "growth": 5,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Miami XO",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 42,
+    "previous_recordings": 39,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Temper City",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 12,
+    "previous_recordings": 10,
+    "growth": 2,
     "hours_window": 24
   }
 ]
