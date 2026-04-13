@@ -1,11 +1,29 @@
 [
   {
+    "song_title": "Miley Cyrus",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 228000,
+    "previous_recordings": 16000,
+    "growth": 212000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 135000,
+    "previous_recordings": 73000,
+    "growth": 62000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Miami XO",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 60,
-    "previous_recordings": 54,
-    "growth": 6,
+    "current_recordings": 61,
+    "previous_recordings": 59,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -13,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 21,
-    "previous_recordings": 17,
-    "growth": 4,
+    "previous_recordings": 20,
+    "growth": 1,
     "hours_window": 24
   }
 ]
