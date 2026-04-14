@@ -1,38 +1,11 @@
 [
   {
-    "song_title": "Ruth B",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 231000,
-    "previous_recordings": 19000,
-    "growth": 212000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Anna Kendrick",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 214000,
-    "previous_recordings": 31000,
-    "growth": 183000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 295000,
     "previous_recordings": 154000,
     "growth": 141000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 49000,
-    "previous_recordings": 13000,
-    "growth": 36000,
     "hours_window": 24
   },
   {
@@ -48,9 +21,9 @@
     "song_title": "Temper City",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 21,
+    "current_recordings": 22,
     "previous_recordings": 20,
-    "growth": 1,
+    "growth": 2,
     "hours_window": 24
   }
 ]
