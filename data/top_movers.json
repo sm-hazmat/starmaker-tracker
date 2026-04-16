@@ -1,14 +1,5 @@
 [
   {
-    "song_title": "Gracie Abrams",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 21000,
-    "previous_recordings": 4000,
-    "growth": 17000,
-    "hours_window": 24
-  },
-  {
     "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
@@ -42,15 +33,6 @@
     "current_recordings": 851,
     "previous_recordings": 849,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Omar Courtz",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 12,
-    "previous_recordings": 11,
-    "growth": 1,
     "hours_window": 24
   }
 ]
