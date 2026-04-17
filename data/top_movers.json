@@ -1,10 +1,46 @@
 [
   {
+    "song_title": "Calum Scott",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 509000,
+    "previous_recordings": 7000,
+    "growth": 502000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Anna Kendrick",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 31000,
+    "growth": 183000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Ellie Goulding",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 403000,
     "previous_recordings": 402000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 74000,
+    "previous_recordings": 73000,
     "growth": 1000,
     "hours_window": 24
   },
