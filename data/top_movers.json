@@ -1,19 +1,19 @@
 [
   {
+    "song_title": "BTS",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 41000,
+    "previous_recordings": 3000,
+    "growth": 38000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Ellie Goulding",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 403000,
     "previous_recordings": 402000,
-    "growth": 1000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "TONES AND I",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 342000,
-    "previous_recordings": 341000,
     "growth": 1000,
     "hours_window": 24
   },
