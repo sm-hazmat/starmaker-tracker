@@ -1,32 +1,5 @@
 [
   {
-    "song_title": "Air Supply",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 411000,
-    "previous_recordings": 165000,
-    "growth": 246000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Imagine Dragons",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 143000,
-    "previous_recordings": 32000,
-    "growth": 111000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 135000,
-    "previous_recordings": 73000,
-    "growth": 62000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Ellie Goulding",
     "artist": "Points",
     "source_name": "playlist",
@@ -39,9 +12,9 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 544,
-    "previous_recordings": 519,
-    "growth": 25,
+    "current_recordings": 546,
+    "previous_recordings": 523,
+    "growth": 23,
     "hours_window": 24
   },
   {
@@ -49,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 852,
-    "previous_recordings": 850,
-    "growth": 2,
+    "previous_recordings": 851,
+    "growth": 1,
     "hours_window": 24
   },
   {
