@@ -1,11 +1,29 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 557,
-    "previous_recordings": 546,
-    "growth": 11,
+    "current_recordings": 559,
+    "previous_recordings": 549,
+    "growth": 10,
     "hours_window": 24
   },
   {
