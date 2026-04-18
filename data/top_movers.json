@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 206000,
+    "previous_recordings": 154000,
+    "growth": 52000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 559,
-    "previous_recordings": 549,
-    "growth": 10,
+    "current_recordings": 562,
+    "previous_recordings": 554,
+    "growth": 8,
     "hours_window": 24
   },
   {
