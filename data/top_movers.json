@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 135000,
-    "previous_recordings": 74000,
-    "growth": 61000,
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
     "hours_window": 24
   },
   {
@@ -30,9 +39,9 @@
     "song_title": "Lil Uzi Vert",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 76,
-    "previous_recordings": 74,
-    "growth": 2,
+    "current_recordings": 77,
+    "previous_recordings": 76,
+    "growth": 1,
     "hours_window": 24
   }
 ]
