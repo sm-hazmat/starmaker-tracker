@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "BTS",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 41000,
+    "previous_recordings": 3000,
+    "growth": 38000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 556,
-    "previous_recordings": 543,
-    "growth": 13,
+    "previous_recordings": 544,
+    "growth": 12,
     "hours_window": 24
   },
   {
