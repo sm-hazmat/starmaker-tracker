@@ -1,14 +1,5 @@
 [
   {
-    "song_title": "Moira Dela Torre",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 104000,
-    "previous_recordings": 63000,
-    "growth": 41000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
@@ -27,20 +18,20 @@
     "hours_window": 24
   },
   {
+    "song_title": "Omar Courtz",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 14,
+    "previous_recordings": 12,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
     "song_title": "Kendrick Lamar/SZA",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 855,
     "previous_recordings": 854,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Omar Courtz",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 13,
-    "previous_recordings": 12,
     "growth": 1,
     "hours_window": 24
   }
