@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "James Arthur",
+    "song_title": "Imagine Dragons",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 116000,
-    "previous_recordings": 9000,
-    "growth": 107000,
+    "current_recordings": 143000,
+    "previous_recordings": 32000,
+    "growth": 111000,
     "hours_window": 24
   },
   {
@@ -27,20 +27,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Omar Courtz",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 15,
-    "previous_recordings": 13,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
     "song_title": "RAYE/Hans Zimmer",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 24,
     "previous_recordings": 23,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Omar Courtz",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 15,
+    "previous_recordings": 14,
     "growth": 1,
     "hours_window": 24
   }
