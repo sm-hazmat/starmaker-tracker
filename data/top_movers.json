@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Imagine Dragons",
+    "song_title": "Rihanna",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 143000,
-    "previous_recordings": 32000,
-    "growth": 111000,
+    "current_recordings": 182000,
+    "previous_recordings": 13000,
+    "growth": 169000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 165000,
+    "previous_recordings": 2000,
+    "growth": 163000,
     "hours_window": 24
   },
   {
@@ -21,8 +30,8 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 603,
-    "previous_recordings": 588,
+    "current_recordings": 604,
+    "previous_recordings": 589,
     "growth": 15,
     "hours_window": 24
   },
