@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Gracie Abrams",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 21000,
+    "previous_recordings": 383,
+    "growth": 20617,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 633,
+    "current_recordings": 638,
     "previous_recordings": 620,
-    "growth": 13,
+    "growth": 18,
     "hours_window": 24
   },
   {
