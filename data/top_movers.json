@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Randy VanWarmer",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 206000,
-    "previous_recordings": 154000,
-    "growth": 52000,
+    "current_recordings": 221000,
+    "previous_recordings": 220000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 627,
-    "previous_recordings": 615,
+    "current_recordings": 628,
+    "previous_recordings": 616,
     "growth": 12,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lil Uzi Vert",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 79,
-    "previous_recordings": 78,
-    "growth": 1,
     "hours_window": 24
   },
   {
