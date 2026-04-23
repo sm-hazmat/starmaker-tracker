@@ -9,6 +9,24 @@
     "hours_window": 24
   },
   {
+    "song_title": "Matty Track Acoustic",
+    "artist": "Dust in the wind |Acoustic- KS Matty",
+    "source_name": "songs",
+    "current_recordings": 230,
+    "previous_recordings": 228,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Daniel Caesar",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 208,
+    "previous_recordings": 206,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
     "song_title": "RAYE/Hans Zimmer",
     "artist": "Points",
     "source_name": "playlist",
@@ -23,6 +41,15 @@
     "source_name": "playlist",
     "current_recordings": 16,
     "previous_recordings": 15,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Dexter/The Moonrocks",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 1,
+    "previous_recordings": 0,
     "growth": 1,
     "hours_window": 24
   }
