@@ -3,18 +3,9 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 640,
-    "previous_recordings": 625,
-    "growth": 15,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Matty Track Acoustic",
-    "artist": "Dust in the wind |Acoustic- KS Matty",
-    "source_name": "songs",
-    "current_recordings": 230,
-    "previous_recordings": 228,
-    "growth": 2,
+    "current_recordings": 641,
+    "previous_recordings": 627,
+    "growth": 14,
     "hours_window": 24
   },
   {
@@ -32,15 +23,6 @@
     "source_name": "playlist",
     "current_recordings": 25,
     "previous_recordings": 24,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Omar Courtz",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 16,
-    "previous_recordings": 15,
     "growth": 1,
     "hours_window": 24
   },
