@@ -1,5 +1,32 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Britney Spears",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 108000,
+    "previous_recordings": 13000,
+    "growth": 95000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Bts",
     "artist": "Points",
     "source_name": "playlist",
@@ -41,6 +68,15 @@
     "source_name": "playlist",
     "current_recordings": 17,
     "previous_recordings": 16,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Sam Fender/Olivia Dean",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 3,
+    "previous_recordings": 2,
     "growth": 1,
     "hours_window": 24
   }
