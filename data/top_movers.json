@@ -1,20 +1,29 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 135000,
-    "previous_recordings": 74000,
-    "growth": 61000,
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Bryan Adams",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 112000,
+    "previous_recordings": 71000,
+    "growth": 41000,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 660,
+    "current_recordings": 662,
     "previous_recordings": 644,
-    "growth": 16,
+    "growth": 18,
     "hours_window": 24
   },
   {
