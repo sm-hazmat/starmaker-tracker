@@ -1,38 +1,11 @@
 [
   {
-    "song_title": "Tame Impala",
+    "song_title": "Justin Bieber",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 651,
-    "previous_recordings": 638,
-    "growth": 13,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Daniel Caesar",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 210,
-    "previous_recordings": 208,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Noah Kahan",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 14,
-    "previous_recordings": 13,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Dexter/The Moonrocks",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 1,
-    "previous_recordings": 0,
-    "growth": 1,
+    "source_name": "songs",
+    "current_recordings": 69000,
+    "previous_recordings": 12000,
+    "growth": 57000,
     "hours_window": 24
   }
 ]
