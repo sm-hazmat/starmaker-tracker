@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Keyshia Cole",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 17000,
-    "previous_recordings": 6000,
-    "growth": 11000,
+    "current_recordings": 135000,
+    "previous_recordings": 74000,
+    "growth": 61000,
     "hours_window": 24
   },
   {
@@ -15,15 +15,6 @@
     "current_recordings": 4000,
     "previous_recordings": 3000,
     "growth": 1000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Daniel Caesar",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 960,
-    "previous_recordings": 210,
-    "growth": 750,
     "hours_window": 24
   },
   {
@@ -42,6 +33,15 @@
     "current_recordings": 27,
     "previous_recordings": 25,
     "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Daniel Caesar",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 211,
+    "previous_recordings": 210,
+    "growth": 1,
     "hours_window": 24
   },
   {
