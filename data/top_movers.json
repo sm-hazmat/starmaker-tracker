@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mariah Carey",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 111000,
+    "previous_recordings": 27000,
+    "growth": 84000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Bts",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 4000,
+    "previous_recordings": 3000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Tame Impala",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 691,
+    "previous_recordings": 652,
+    "growth": 39,
+    "hours_window": 24
+  },
+  {
+    "song_title": "RAYE/Hans Zimmer",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 27,
+    "previous_recordings": 25,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Daniel Caesar",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 211,
+    "previous_recordings": 210,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Omar Courtz",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 17,
+    "previous_recordings": 16,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Sam Fender/Olivia Dean",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 3,
+    "previous_recordings": 2,
+    "growth": 1,
+    "hours_window": 24
+  }
+]
