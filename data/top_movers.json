@@ -1,29 +1,11 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Keyshia Cole",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 295000,
-    "previous_recordings": 154000,
-    "growth": 141000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mariah Carey",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 111000,
-    "previous_recordings": 27000,
-    "growth": 84000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Idina Menzel",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 129000,
-    "growth": 72000,
+    "current_recordings": 17000,
+    "previous_recordings": 6000,
+    "growth": 11000,
     "hours_window": 24
   },
   {
@@ -36,12 +18,21 @@
     "hours_window": 24
   },
   {
+    "song_title": "Daniel Caesar",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 960,
+    "previous_recordings": 210,
+    "growth": 750,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 691,
-    "previous_recordings": 652,
-    "growth": 39,
+    "current_recordings": 695,
+    "previous_recordings": 653,
+    "growth": 42,
     "hours_window": 24
   },
   {
@@ -51,15 +42,6 @@
     "current_recordings": 27,
     "previous_recordings": 25,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Daniel Caesar",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 211,
-    "previous_recordings": 210,
-    "growth": 1,
     "hours_window": 24
   },
   {
