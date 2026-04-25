@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 206000,
+    "previous_recordings": 154000,
+    "growth": 52000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Bts",
     "artist": "Points",
     "source_name": "playlist",
@@ -13,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 695,
-    "previous_recordings": 653,
-    "growth": 42,
+    "previous_recordings": 654,
+    "growth": 41,
     "hours_window": 24
   },
   {
