@@ -1,20 +1,20 @@
 [
   {
-    "song_title": "George Strait",
+    "song_title": "Debby Boone",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 5000,
-    "previous_recordings": 3000,
-    "growth": 2000,
+    "current_recordings": 84000,
+    "previous_recordings": 83000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 705,
-    "previous_recordings": 669,
-    "growth": 36,
+    "current_recordings": 706,
+    "previous_recordings": 691,
+    "growth": 15,
     "hours_window": 24
   },
   {
@@ -23,15 +23,6 @@
     "source_name": "playlist",
     "current_recordings": 212,
     "previous_recordings": 211,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "RAYE/Hans Zimmer",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 27,
-    "previous_recordings": 26,
     "growth": 1,
     "hours_window": 24
   },
