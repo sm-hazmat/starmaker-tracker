@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Miley Cyrus",
+    "song_title": "Air Supply",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 228000,
-    "previous_recordings": 6000,
-    "growth": 222000,
+    "current_recordings": 411000,
+    "previous_recordings": 93000,
+    "growth": 318000,
     "hours_window": 24
   },
   {
@@ -15,6 +15,15 @@
     "current_recordings": 135000,
     "previous_recordings": 74000,
     "growth": 61000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lady Gaga",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 291000,
+    "previous_recordings": 234000,
+    "growth": 57000,
     "hours_window": 24
   },
   {
