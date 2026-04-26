@@ -1,29 +1,29 @@
 [
   {
-    "song_title": "Imagine Dragons",
+    "song_title": "Miley Cyrus",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 143000,
-    "previous_recordings": 32000,
-    "growth": 111000,
+    "current_recordings": 228000,
+    "previous_recordings": 1000,
+    "growth": 227000,
     "hours_window": 24
   },
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Idina Menzel",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 135000,
-    "previous_recordings": 74000,
-    "growth": 61000,
+    "current_recordings": 201000,
+    "previous_recordings": 2000,
+    "growth": 199000,
     "hours_window": 24
   },
   {
-    "song_title": "Olivia Rodrigo",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 49000,
-    "previous_recordings": 3000,
-    "growth": 46000,
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
     "hours_window": 24
   },
   {
@@ -45,20 +45,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Noah Kahan",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 16,
-    "previous_recordings": 14,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
     "song_title": "Daniel Caesar",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 213,
     "previous_recordings": 212,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Noah Kahan",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 16,
+    "previous_recordings": 15,
     "growth": 1,
     "hours_window": 24
   }
