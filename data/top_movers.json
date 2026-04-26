@@ -1,5 +1,23 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Ariana Grande",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 44000,
+    "previous_recordings": 43000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
@@ -32,15 +50,6 @@
     "source_name": "playlist",
     "current_recordings": 15,
     "previous_recordings": 14,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Dexter/The Moonrocks",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 2,
-    "previous_recordings": 1,
     "growth": 1,
     "hours_window": 24
   }
