@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Debby Boone",
+    "song_title": "Anna Kendrick",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 84000,
-    "previous_recordings": 83000,
-    "growth": 1000,
+    "current_recordings": 214000,
+    "previous_recordings": 31000,
+    "growth": 183000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
     "hours_window": 24
   },
   {
@@ -13,16 +22,16 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 706,
-    "previous_recordings": 691,
-    "growth": 15,
+    "previous_recordings": 695,
+    "growth": 11,
     "hours_window": 24
   },
   {
-    "song_title": "Daniel Caesar",
+    "song_title": "Omar Courtz",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 212,
-    "previous_recordings": 211,
+    "current_recordings": 18,
+    "previous_recordings": 17,
     "growth": 1,
     "hours_window": 24
   },
