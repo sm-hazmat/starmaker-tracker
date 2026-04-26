@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Miley Cyrus",
+    "song_title": "Anna Kendrick",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 228000,
-    "previous_recordings": 1000,
-    "growth": 227000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Idina Menzel",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 129000,
-    "previous_recordings": 2000,
-    "growth": 127000,
+    "current_recordings": 214000,
+    "previous_recordings": 31000,
+    "growth": 183000,
     "hours_window": 24
   },
   {
@@ -31,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 720,
-    "previous_recordings": 703,
-    "growth": 17,
+    "previous_recordings": 705,
+    "growth": 15,
     "hours_window": 24
   },
   {
@@ -45,20 +36,20 @@
     "hours_window": 24
   },
   {
+    "song_title": "Noah Kahan",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 16,
+    "previous_recordings": 14,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
     "song_title": "Daniel Caesar",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 213,
     "previous_recordings": 212,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Noah Kahan",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 15,
-    "previous_recordings": 14,
     "growth": 1,
     "hours_window": 24
   }
