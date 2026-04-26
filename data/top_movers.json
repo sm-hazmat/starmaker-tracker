@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Air Supply",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 411000,
-    "previous_recordings": 126000,
-    "growth": 285000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Idina Menzel",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 129000,
-    "previous_recordings": 4000,
-    "growth": 125000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -27,30 +9,12 @@
     "hours_window": 24
   },
   {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 49000,
-    "previous_recordings": 8000,
-    "growth": 41000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 716,
     "previous_recordings": 699,
     "growth": 17,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Daniel Caesar",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 212,
-    "previous_recordings": 211,
-    "growth": 1,
     "hours_window": 24
   },
   {
