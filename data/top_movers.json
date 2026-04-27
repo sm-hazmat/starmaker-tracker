@@ -3,8 +3,8 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 738,
-    "previous_recordings": 720,
+    "current_recordings": 740,
+    "previous_recordings": 722,
     "growth": 18,
     "hours_window": 24
   },
@@ -18,20 +18,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Noah Kahan",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 17,
-    "previous_recordings": 15,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
     "song_title": "Omar Courtz",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 20,
     "previous_recordings": 19,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Noah Kahan",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 17,
+    "previous_recordings": 16,
     "growth": 1,
     "hours_window": 24
   }
