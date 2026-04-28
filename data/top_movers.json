@@ -1,14 +1,5 @@
 [
   {
-    "song_title": "Miley Cyrus",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 228000,
-    "previous_recordings": 15000,
-    "growth": 213000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -18,21 +9,12 @@
     "hours_window": 24
   },
   {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 49000,
-    "previous_recordings": 3000,
-    "growth": 46000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Katy Perry",
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 61000,
-    "previous_recordings": 28000,
-    "growth": 33000,
+    "previous_recordings": 6000,
+    "growth": 55000,
     "hours_window": 24
   },
   {
@@ -40,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 754,
-    "previous_recordings": 734,
-    "growth": 20,
+    "previous_recordings": 738,
+    "growth": 16,
     "hours_window": 24
   },
   {
