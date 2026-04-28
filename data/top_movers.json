@@ -1,11 +1,47 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 295000,
+    "previous_recordings": 154000,
+    "growth": 141000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 165000,
+    "previous_recordings": 24000,
+    "growth": 141000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 49000,
+    "previous_recordings": 6000,
+    "growth": 43000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 36000,
+    "previous_recordings": 32000,
+    "growth": 4000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 740,
-    "previous_recordings": 723,
-    "growth": 17,
+    "current_recordings": 742,
+    "previous_recordings": 724,
+    "growth": 18,
     "hours_window": 24
   },
   {
@@ -18,11 +54,11 @@
     "hours_window": 24
   },
   {
-    "song_title": "Omar Courtz",
+    "song_title": "Sam Fender/Olivia Dean",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 20,
-    "previous_recordings": 19,
+    "current_recordings": 4,
+    "previous_recordings": 3,
     "growth": 1,
     "hours_window": 24
   }
