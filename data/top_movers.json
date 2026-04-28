@@ -1,20 +1,47 @@
 [
   {
-    "song_title": "Adele",
+    "song_title": "Miley Cyrus",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 166000,
-    "previous_recordings": 165000,
-    "growth": 1000,
+    "current_recordings": 228000,
+    "previous_recordings": 15000,
+    "growth": 213000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 135000,
+    "previous_recordings": 74000,
+    "growth": 61000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 49000,
+    "previous_recordings": 3000,
+    "growth": 46000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Katy Perry",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 61000,
+    "previous_recordings": 28000,
+    "growth": 33000,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 751,
+    "current_recordings": 754,
     "previous_recordings": 734,
-    "growth": 17,
+    "growth": 20,
     "hours_window": 24
   },
   {
