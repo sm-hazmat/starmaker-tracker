@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Sabrina Carpenter",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 16000,
-    "previous_recordings": 66,
-    "growth": 15934,
+    "current_recordings": 206000,
+    "previous_recordings": 154000,
+    "growth": 52000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 27000,
+    "previous_recordings": 3000,
+    "growth": 24000,
     "hours_window": 24
   },
   {
