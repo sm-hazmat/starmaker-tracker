@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Lukas Graham",
+    "song_title": "Alabama",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 51000,
-    "growth": 87000,
+    "current_recordings": 5000,
+    "previous_recordings": 2000,
+    "growth": 3000,
     "hours_window": 24
   },
   {
@@ -14,6 +14,15 @@
     "source_name": "playlist",
     "current_recordings": 74,
     "previous_recordings": 73,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Sabrina Carpenter",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 67,
+    "previous_recordings": 66,
     "growth": 1,
     "hours_window": 24
   },
