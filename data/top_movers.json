@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Sofia the First",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 40000,
-    "previous_recordings": 8000,
-    "growth": 32000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Keyshia Cole",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 17000,
-    "previous_recordings": 6000,
-    "growth": 11000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Harry Styles",
     "artist": "Points",
     "source_name": "playlist",
