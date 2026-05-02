@@ -1,29 +1,11 @@
 [
   {
-    "song_title": "Imagine Dragons",
+    "song_title": "Olivia Rodrigo",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 143000,
-    "previous_recordings": 32000,
-    "growth": 111000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 135000,
-    "previous_recordings": 74000,
-    "growth": 61000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "PinkPantheress/Zara",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 8,
-    "previous_recordings": 6,
-    "growth": 2,
+    "current_recordings": 27000,
+    "previous_recordings": 8000,
+    "growth": 19000,
     "hours_window": 24
   }
 ]
