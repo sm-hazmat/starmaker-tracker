@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Sabrina Carpenter",
+    "song_title": "The Beatles",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 20000,
-    "previous_recordings": 67,
-    "growth": 19933,
+    "current_recordings": 182000,
+    "previous_recordings": 95000,
+    "growth": 87000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 207000,
+    "previous_recordings": 154000,
+    "growth": 53000,
     "hours_window": 24
   },
   {
