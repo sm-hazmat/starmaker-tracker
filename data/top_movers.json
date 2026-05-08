@@ -9,6 +9,15 @@
     "hours_window": 24
   },
   {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 49000,
+    "previous_recordings": 6000,
+    "growth": 43000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Anyma & LISA",
     "artist": "Bad Angel",
     "source_name": "playlist",
@@ -30,8 +39,8 @@
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 380,
-    "previous_recordings": 370,
+    "current_recordings": 381,
+    "previous_recordings": 371,
     "growth": 10,
     "hours_window": 24
   },
