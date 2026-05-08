@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Anna Kendrick",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 214000,
-    "previous_recordings": 31000,
-    "growth": 183000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 136000,
-    "previous_recordings": 74000,
-    "growth": 62000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Anyma & LISA",
     "artist": "Bad Angel",
     "source_name": "playlist",
@@ -40,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 380,
-    "previous_recordings": 369,
-    "growth": 11,
+    "previous_recordings": 370,
+    "growth": 10,
     "hours_window": 24
   },
   {
