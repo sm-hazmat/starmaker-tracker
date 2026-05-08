@@ -1,20 +1,38 @@
 [
   {
+    "song_title": "Rihanna",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 182000,
+    "previous_recordings": 17000,
+    "growth": 165000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 136000,
+    "previous_recordings": 74000,
+    "growth": 62000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Anyma & LISA",
     "artist": "Bad Angel",
     "source_name": "playlist",
-    "current_recordings": 481,
-    "previous_recordings": 468,
-    "growth": 13,
+    "current_recordings": 487,
+    "previous_recordings": 469,
+    "growth": 18,
     "hours_window": 24
   },
   {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 896,
-    "previous_recordings": 888,
-    "growth": 8,
+    "current_recordings": 900,
+    "previous_recordings": 889,
+    "growth": 11,
     "hours_window": 24
   },
   {
