@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 136000,
-    "previous_recordings": 74000,
-    "growth": 62000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 49000,
-    "previous_recordings": 6000,
-    "growth": 43000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Anyma & LISA",
     "artist": "Bad Angel",
     "source_name": "playlist",
@@ -30,8 +12,8 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 903,
-    "previous_recordings": 893,
+    "current_recordings": 904,
+    "previous_recordings": 894,
     "growth": 10,
     "hours_window": 24
   },
@@ -42,15 +24,6 @@
     "current_recordings": 381,
     "previous_recordings": 371,
     "growth": 10,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Daniel Caesar",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 226,
-    "previous_recordings": 225,
-    "growth": 1,
     "hours_window": 24
   }
 ]
