@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "JVKE",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 52000,
-    "previous_recordings": 19000,
-    "growth": 33000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mitski",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 38000,
-    "previous_recordings": 10000,
-    "growth": 28000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Ed Sheeran",
     "artist": "Points",
     "source_name": "playlist",
@@ -31,8 +13,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 925,
-    "previous_recordings": 909,
-    "growth": 16,
+    "previous_recordings": 911,
+    "growth": 14,
     "hours_window": 24
   },
   {
@@ -40,8 +22,8 @@
     "artist": "Bad Angel",
     "source_name": "playlist",
     "current_recordings": 509,
-    "previous_recordings": 498,
-    "growth": 11,
+    "previous_recordings": 500,
+    "growth": 9,
     "hours_window": 24
   },
   {
