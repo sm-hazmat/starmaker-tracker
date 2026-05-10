@@ -9,11 +9,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Mitski",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 38000,
+    "previous_recordings": 10000,
+    "growth": 28000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Ed Sheeran",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 75000,
-    "previous_recordings": 74000,
+    "current_recordings": 661000,
+    "previous_recordings": 660000,
     "growth": 1000,
     "hours_window": 24
   },
@@ -21,18 +30,18 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 922,
+    "current_recordings": 925,
     "previous_recordings": 909,
-    "growth": 13,
+    "growth": 16,
     "hours_window": 24
   },
   {
     "song_title": "Anyma & LISA",
     "artist": "Bad Angel",
     "source_name": "playlist",
-    "current_recordings": 507,
+    "current_recordings": 509,
     "previous_recordings": 498,
-    "growth": 9,
+    "growth": 11,
     "hours_window": 24
   },
   {
