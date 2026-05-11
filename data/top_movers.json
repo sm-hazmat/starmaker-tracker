@@ -9,12 +9,21 @@
     "hours_window": 24
   },
   {
+    "song_title": "Bts",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 5000,
+    "previous_recordings": 4000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 933,
-    "previous_recordings": 918,
-    "growth": 15,
+    "current_recordings": 937,
+    "previous_recordings": 919,
+    "growth": 18,
     "hours_window": 24
   },
   {
@@ -30,18 +39,18 @@
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 393,
+    "current_recordings": 394,
     "previous_recordings": 391,
-    "growth": 2,
+    "growth": 3,
     "hours_window": 24
   },
   {
     "song_title": "Daniel Caesar",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 229,
+    "current_recordings": 230,
     "previous_recordings": 227,
-    "growth": 2,
+    "growth": 3,
     "hours_window": 24
   }
 ]
