@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Air Supply",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 508000,
+    "previous_recordings": 412000,
+    "growth": 96000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
@@ -12,18 +21,18 @@
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 967,
+    "current_recordings": 968,
     "previous_recordings": 951,
-    "growth": 16,
+    "growth": 17,
     "hours_window": 24
   },
   {
     "song_title": "Anyma & LISA",
     "artist": "Bad Angel",
     "source_name": "playlist",
-    "current_recordings": 527,
+    "current_recordings": 528,
     "previous_recordings": 520,
-    "growth": 7,
+    "growth": 8,
     "hours_window": 24
   },
   {
