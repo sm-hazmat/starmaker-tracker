@@ -1,29 +1,11 @@
 [
   {
-    "song_title": "Bts",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 5000,
-    "previous_recordings": 4000,
-    "growth": 1000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 951,
-    "previous_recordings": 933,
-    "growth": 18,
-    "hours_window": 24
-  },
-  {
-    "song_title": "SIENNA SPIRO",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 400,
-    "previous_recordings": 393,
-    "growth": 7,
+    "previous_recordings": 937,
+    "growth": 14,
     "hours_window": 24
   },
   {
@@ -36,11 +18,29 @@
     "hours_window": 24
   },
   {
+    "song_title": "SIENNA SPIRO",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 400,
+    "previous_recordings": 394,
+    "growth": 6,
+    "hours_window": 24
+  },
+  {
     "song_title": "Daniel Caesar",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 230,
-    "previous_recordings": 229,
+    "current_recordings": 231,
+    "previous_recordings": 230,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Dexter/The Moonrocks",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 5,
+    "previous_recordings": 4,
     "growth": 1,
     "hours_window": 24
   }
