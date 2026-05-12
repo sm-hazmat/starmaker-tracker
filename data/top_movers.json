@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 207000,
+    "previous_recordings": 154000,
+    "growth": 53000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 967,
-    "previous_recordings": 949,
-    "growth": 18,
+    "previous_recordings": 951,
+    "growth": 16,
     "hours_window": 24
   },
   {
@@ -21,9 +30,9 @@
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 402,
+    "current_recordings": 403,
     "previous_recordings": 396,
-    "growth": 6,
+    "growth": 7,
     "hours_window": 24
   },
   {
