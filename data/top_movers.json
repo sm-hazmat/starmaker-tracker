@@ -1,41 +1,5 @@
 [
   {
-    "song_title": "Lady Gaga",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 291000,
-    "previous_recordings": 97000,
-    "growth": 194000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Rihanna",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 182000,
-    "previous_recordings": 107000,
-    "growth": 75000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 136000,
-    "previous_recordings": 75000,
-    "growth": 61000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lil Nas X",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 66000,
-    "previous_recordings": 32000,
-    "growth": 34000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Tame Impala",
     "artist": "Points",
     "source_name": "playlist",
@@ -45,20 +9,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Anyma & LISA",
-    "artist": "Bad Angel",
+    "song_title": "SIENNA SPIRO",
+    "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 528,
-    "previous_recordings": 520,
+    "current_recordings": 405,
+    "previous_recordings": 397,
     "growth": 8,
     "hours_window": 24
   },
   {
-    "song_title": "SIENNA SPIRO",
-    "artist": "Points",
+    "song_title": "Anyma & LISA",
+    "artist": "Bad Angel",
     "source_name": "playlist",
-    "current_recordings": 403,
-    "previous_recordings": 396,
+    "current_recordings": 529,
+    "previous_recordings": 522,
     "growth": 7,
     "hours_window": 24
   },
