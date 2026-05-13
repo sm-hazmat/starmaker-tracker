@@ -1,37 +1,46 @@
 [
   {
-    "song_title": "Céline Dion",
+    "song_title": "Elvis Presley",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 688000,
-    "previous_recordings": 65000,
-    "growth": 623000,
+    "current_recordings": 488000,
+    "previous_recordings": 6000,
+    "growth": 482000,
     "hours_window": 24
   },
   {
-    "song_title": "Anne Murray",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 231000,
-    "previous_recordings": 81000,
-    "growth": 150000,
+    "current_recordings": 295000,
+    "previous_recordings": 207000,
+    "growth": 88000,
     "hours_window": 24
   },
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Olivia Rodrigo",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 136000,
-    "previous_recordings": 75000,
-    "growth": 61000,
+    "current_recordings": 49000,
+    "previous_recordings": 27000,
+    "growth": 22000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 5000,
+    "previous_recordings": 4000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 411,
-    "previous_recordings": 402,
+    "current_recordings": 412,
+    "previous_recordings": 403,
     "growth": 9,
     "hours_window": 24
   },
