@@ -2,19 +2,10 @@
   {
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 958,
-    "previous_recordings": 425,
-    "growth": 533,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Tame Impala",
-    "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 1000,
-    "previous_recordings": 992,
-    "growth": 8,
+    "current_recordings": 430,
+    "previous_recordings": 425,
+    "growth": 5,
     "hours_window": 24
   },
   {
@@ -24,6 +15,15 @@
     "current_recordings": 239,
     "previous_recordings": 236,
     "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Tame Impala",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 1000,
+    "previous_recordings": 998,
+    "growth": 2,
     "hours_window": 24
   },
   {
