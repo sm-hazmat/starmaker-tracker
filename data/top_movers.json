@@ -1,20 +1,56 @@
 [
   {
+    "song_title": "Bee Gees",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 108000,
+    "previous_recordings": 13000,
+    "growth": 95000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 207000,
+    "previous_recordings": 154000,
+    "growth": 53000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Stranger Things",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 12000,
+    "previous_recordings": 4000,
+    "growth": 8000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 3000,
+    "previous_recordings": 2000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 445,
-    "previous_recordings": 430,
-    "growth": 15,
+    "previous_recordings": 431,
+    "growth": 14,
     "hours_window": 24
   },
   {
     "song_title": "Daniel Caesar",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 241,
+    "current_recordings": 242,
     "previous_recordings": 239,
-    "growth": 2,
+    "growth": 3,
     "hours_window": 24
   },
   {
