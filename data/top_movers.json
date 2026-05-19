@@ -1,5 +1,23 @@
 [
   {
+    "song_title": "Lady Gaga",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 292000,
+    "previous_recordings": 97000,
+    "growth": 195000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Rihanna",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 182000,
+    "previous_recordings": 107000,
+    "growth": 75000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -9,12 +27,12 @@
     "hours_window": 24
   },
   {
-    "song_title": "Katy Perry",
+    "song_title": "Lil Nas X",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 61000,
-    "previous_recordings": 1000,
-    "growth": 60000,
+    "current_recordings": 66000,
+    "previous_recordings": 32000,
+    "growth": 34000,
     "hours_window": 24
   },
   {
