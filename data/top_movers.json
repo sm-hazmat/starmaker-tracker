@@ -1,20 +1,65 @@
 [
   {
+    "song_title": "Air Supply",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 412000,
+    "previous_recordings": 48000,
+    "growth": 364000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shawn Mendes/Camila Cabello",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 146000,
+    "previous_recordings": 16000,
+    "growth": 130000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 136000,
+    "previous_recordings": 75000,
+    "growth": 61000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 166000,
+    "previous_recordings": 107000,
+    "growth": 59000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 49000,
+    "previous_recordings": 27000,
+    "growth": 22000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Michael Jackson",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 24000,
+    "previous_recordings": 19000,
+    "growth": 5000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 228,
     "previous_recordings": 225,
     "growth": 3,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Huntrix",
-    "artist": "G0LDEN",
-    "source_name": "playlist",
-    "current_recordings": 894,
-    "previous_recordings": 893,
-    "growth": 1,
     "hours_window": 24
   }
 ]
