@@ -1,20 +1,47 @@
 [
   {
-    "song_title": "Justin Bieber(JBiebs)",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 30,
-    "previous_recordings": 28,
-    "growth": 2,
+    "source_name": "songs",
+    "current_recordings": 296000,
+    "previous_recordings": 154000,
+    "growth": 142000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Michael Jackson",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 54000,
+    "previous_recordings": 19000,
+    "growth": 35000,
     "hours_window": 24
   },
   {
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 229,
+    "current_recordings": 230,
     "previous_recordings": 228,
-    "growth": 1,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Justin Bieber(JBiebs)",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 30,
+    "previous_recordings": 28,
+    "growth": 2,
     "hours_window": 24
   }
 ]
