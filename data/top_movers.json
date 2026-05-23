@@ -1,29 +1,11 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Anne Murray",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 296000,
-    "previous_recordings": 154000,
-    "growth": 142000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Idina Menzel",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 129000,
-    "growth": 72000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Michael Jackson",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 54000,
-    "previous_recordings": 19000,
-    "growth": 35000,
+    "current_recordings": 196000,
+    "previous_recordings": 35000,
+    "growth": 161000,
     "hours_window": 24
   },
   {
@@ -42,6 +24,15 @@
     "current_recordings": 30,
     "previous_recordings": 28,
     "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Huntrix",
+    "artist": "G0LDEN",
+    "source_name": "playlist",
+    "current_recordings": 895,
+    "previous_recordings": 894,
+    "growth": 1,
     "hours_window": 24
   }
 ]
