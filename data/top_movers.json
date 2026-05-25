@@ -1,20 +1,20 @@
 [
   {
+    "song_title": "Anna Kendrick",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 31000,
+    "growth": 183000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 136000,
     "previous_recordings": 75000,
     "growth": 61000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Huntrix",
-    "artist": "G0LDEN",
-    "source_name": "playlist",
-    "current_recordings": 898,
-    "previous_recordings": 896,
-    "growth": 2,
     "hours_window": 24
   }
 ]
