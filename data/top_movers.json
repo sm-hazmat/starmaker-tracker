@@ -1,10 +1,37 @@
 [
   {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 136000,
+    "previous_recordings": 75000,
+    "growth": 61000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 49000,
+    "previous_recordings": 27000,
+    "growth": 22000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Huntrix",
     "artist": "G0LDEN",
     "source_name": "playlist",
-    "current_recordings": 899,
+    "current_recordings": 900,
     "previous_recordings": 898,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Justin Bieber(JBiebs)",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 31,
+    "previous_recordings": 30,
     "growth": 1,
     "hours_window": 24
   }
