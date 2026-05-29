@@ -1,11 +1,29 @@
 [
   {
-    "song_title": "Adele",
+    "song_title": "Air Supply",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 166000,
-    "previous_recordings": 18000,
-    "growth": 148000,
+    "current_recordings": 412000,
+    "previous_recordings": 126000,
+    "growth": 286000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lady Gaga",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 292000,
+    "previous_recordings": 97000,
+    "growth": 195000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Rihanna",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 183000,
+    "previous_recordings": 108000,
+    "growth": 75000,
     "hours_window": 24
   },
   {
@@ -18,21 +36,21 @@
     "hours_window": 24
   },
   {
-    "song_title": "Michael Jackson",
+    "song_title": "Lil Nas X",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 19000,
-    "previous_recordings": 13000,
-    "growth": 6000,
+    "current_recordings": 66000,
+    "previous_recordings": 32000,
+    "growth": 34000,
     "hours_window": 24
   },
   {
     "song_title": "Olivia Rodrigo",
     "artist": "the cure",
     "source_name": "playlist",
-    "current_recordings": 73,
-    "previous_recordings": 65,
-    "growth": 8,
+    "current_recordings": 74,
+    "previous_recordings": 67,
+    "growth": 7,
     "hours_window": 24
   },
   {
@@ -41,15 +59,6 @@
     "source_name": "playlist",
     "current_recordings": 294,
     "previous_recordings": 293,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lola Young",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 3,
-    "previous_recordings": 2,
     "growth": 1,
     "hours_window": 24
   }
