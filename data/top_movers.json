@@ -1,20 +1,20 @@
 [
   {
-    "song_title": "Lady Gaga/Bruno Mars",
+    "song_title": "Lukas Graham",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 33000,
-    "previous_recordings": 10000,
-    "growth": 23000,
+    "current_recordings": 139000,
+    "previous_recordings": 51000,
+    "growth": 88000,
     "hours_window": 24
   },
   {
-    "song_title": "Michael Jackson",
+    "song_title": "Gracie Abrams",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 24000,
-    "previous_recordings": 19000,
-    "growth": 5000,
+    "current_recordings": 22000,
+    "previous_recordings": 6,
+    "growth": 21994,
     "hours_window": 24
   },
   {
@@ -22,8 +22,8 @@
     "artist": "the cure",
     "source_name": "playlist",
     "current_recordings": 78,
-    "previous_recordings": 73,
-    "growth": 5,
+    "previous_recordings": 74,
+    "growth": 4,
     "hours_window": 24
   }
 ]
