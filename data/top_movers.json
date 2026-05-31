@@ -1,20 +1,29 @@
 [
   {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 296000,
-    "previous_recordings": 154000,
-    "growth": 142000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Lady Gaga",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 97000,
+    "current_recordings": 292000,
     "previous_recordings": 3000,
-    "growth": 94000,
+    "growth": 289000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Ruth B",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 232000,
+    "previous_recordings": 19000,
+    "growth": 213000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 136000,
+    "previous_recordings": 75000,
+    "growth": 61000,
     "hours_window": 24
   },
   {
