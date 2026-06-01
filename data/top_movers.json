@@ -12,9 +12,18 @@
     "song_title": "Olivia Rodrigo",
     "artist": "the cure",
     "source_name": "playlist",
-    "current_recordings": 87,
+    "current_recordings": 88,
     "previous_recordings": 84,
-    "growth": 3,
+    "growth": 4,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Maisie Peters",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 1,
+    "previous_recordings": 0,
+    "growth": 1,
     "hours_window": 24
   }
 ]
