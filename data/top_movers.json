@@ -1,38 +1,11 @@
 [
   {
-    "song_title": "Elvis Presley",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 490000,
-    "previous_recordings": 58000,
-    "growth": 432000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Meghan Trainor",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 192000,
-    "previous_recordings": 34000,
-    "growth": 158000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 296000,
-    "previous_recordings": 154000,
-    "growth": 142000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Olivia Rodrigo",
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 50000,
-    "previous_recordings": 14000,
-    "growth": 36000,
+    "previous_recordings": 49000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
