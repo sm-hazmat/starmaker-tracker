@@ -1,38 +1,11 @@
 [
   {
-    "song_title": "Lady Gaga",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 292000,
-    "previous_recordings": 97000,
-    "growth": 195000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Rihanna",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 183000,
-    "previous_recordings": 108000,
-    "growth": 75000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 136000,
-    "previous_recordings": 76000,
-    "growth": 60000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lil Nas X",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 66000,
-    "previous_recordings": 32000,
-    "growth": 34000,
+    "current_recordings": 296000,
+    "previous_recordings": 154000,
+    "growth": 142000,
     "hours_window": 24
   },
   {
@@ -48,8 +21,8 @@
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 557,
-    "previous_recordings": 552,
+    "current_recordings": 558,
+    "previous_recordings": 553,
     "growth": 5,
     "hours_window": 24
   },
@@ -57,18 +30,9 @@
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 236,
+    "current_recordings": 237,
     "previous_recordings": 235,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Omar Courtz",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 100,
-    "previous_recordings": 99,
-    "growth": 1,
+    "growth": 2,
     "hours_window": 24
   }
 ]
