@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 296000,
-    "previous_recordings": 154000,
-    "growth": 142000,
+    "current_recordings": 136000,
+    "previous_recordings": 76000,
+    "growth": 60000,
     "hours_window": 24
   },
   {
@@ -30,9 +30,9 @@
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 237,
+    "current_recordings": 239,
     "previous_recordings": 235,
-    "growth": 2,
+    "growth": 4,
     "hours_window": 24
   }
 ]
