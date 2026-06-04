@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 136000,
-    "previous_recordings": 76000,
-    "growth": 60000,
+    "current_recordings": 296000,
+    "previous_recordings": 154000,
+    "growth": 142000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
     "hours_window": 24
   },
   {
@@ -18,21 +27,21 @@
     "hours_window": 24
   },
   {
-    "song_title": "SIENNA SPIRO",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 558,
-    "previous_recordings": 553,
-    "growth": 5,
-    "hours_window": 24
-  },
-  {
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 239,
     "previous_recordings": 235,
     "growth": 4,
+    "hours_window": 24
+  },
+  {
+    "song_title": "SIENNA SPIRO",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 558,
+    "previous_recordings": 556,
+    "growth": 2,
     "hours_window": 24
   }
 ]
