@@ -1,5 +1,23 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 296000,
+    "previous_recordings": 154000,
+    "growth": 142000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
+    "hours_window": 24
+  },
+  {
     "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
@@ -12,9 +30,9 @@
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 563,
+    "current_recordings": 564,
     "previous_recordings": 557,
-    "growth": 6,
+    "growth": 7,
     "hours_window": 24
   },
   {
@@ -22,8 +40,26 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 239,
-    "previous_recordings": 235,
-    "growth": 4,
+    "previous_recordings": 236,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Omar Courtz",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 102,
+    "previous_recordings": 100,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Dexter/The Moonrocks",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 19,
+    "previous_recordings": 17,
+    "growth": 2,
     "hours_window": 24
   }
 ]
