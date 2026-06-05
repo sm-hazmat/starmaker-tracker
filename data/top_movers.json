@@ -9,12 +9,12 @@
     "hours_window": 24
   },
   {
-    "song_title": "KATSEYE",
+    "song_title": "SIENNA SPIRO",
     "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 3000,
-    "previous_recordings": 2000,
-    "growth": 1000,
+    "source_name": "playlist",
+    "current_recordings": 563,
+    "previous_recordings": 557,
+    "growth": 6,
     "hours_window": 24
   },
   {
@@ -24,15 +24,6 @@
     "current_recordings": 239,
     "previous_recordings": 235,
     "growth": 4,
-    "hours_window": 24
-  },
-  {
-    "song_title": "SIENNA SPIRO",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 560,
-    "previous_recordings": 557,
-    "growth": 3,
     "hours_window": 24
   }
 ]
