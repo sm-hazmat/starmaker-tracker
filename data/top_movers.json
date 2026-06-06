@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 296000,
-    "previous_recordings": 154000,
-    "growth": 142000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Idina Menzel",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 129000,
-    "growth": 72000,
-    "hours_window": 24
-  },
-  {
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
@@ -27,21 +9,30 @@
     "hours_window": 24
   },
   {
-    "song_title": "PinkPantheress/Zara",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 28,
-    "previous_recordings": 25,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 241,
     "previous_recordings": 239,
     "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "PinkPantheress/Zara",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 28,
+    "previous_recordings": 26,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Omar Courtz",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 104,
+    "previous_recordings": 103,
+    "growth": 1,
     "hours_window": 24
   },
   {
