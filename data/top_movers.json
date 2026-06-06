@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "KATSEYE",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 296000,
-    "previous_recordings": 154000,
-    "growth": 142000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Idina Menzel",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 129000,
-    "growth": 72000,
+    "current_recordings": 21000,
+    "previous_recordings": 10000,
+    "growth": 11000,
     "hours_window": 24
   },
   {
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 573,
+    "current_recordings": 574,
     "previous_recordings": 568,
-    "growth": 5,
+    "growth": 6,
     "hours_window": 24
   },
   {
@@ -50,6 +41,15 @@
     "source_name": "playlist",
     "current_recordings": 103,
     "previous_recordings": 102,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Dexter/The Moonrocks",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 20,
+    "previous_recordings": 19,
     "growth": 1,
     "hours_window": 24
   }
