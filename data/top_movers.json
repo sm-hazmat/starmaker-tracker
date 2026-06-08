@@ -1,5 +1,32 @@
 [
   {
+    "song_title": "Anna Kendrick",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 10000,
+    "growth": 204000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Rihanna",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 183000,
+    "previous_recordings": 18000,
+    "growth": 165000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Air Supply",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 412000,
+    "previous_recordings": 321000,
+    "growth": 91000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -9,21 +36,30 @@
     "hours_window": 24
   },
   {
-    "song_title": "SIENNA SPIRO",
+    "song_title": "Olivia Rodrigo",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 589,
-    "previous_recordings": 583,
-    "growth": 6,
+    "source_name": "songs",
+    "current_recordings": 50000,
+    "previous_recordings": 9000,
+    "growth": 41000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 5000,
+    "previous_recordings": 1000,
+    "growth": 4000,
     "hours_window": 24
   },
   {
     "song_title": "PinkPantheress/Zara",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 35,
+    "current_recordings": 36,
     "previous_recordings": 29,
-    "growth": 6,
+    "growth": 7,
     "hours_window": 24
   },
   {
