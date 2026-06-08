@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 136000,
+    "previous_recordings": 76000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
     "song_title": "SIENNA SPIRO",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 589,
-    "previous_recordings": 578,
-    "growth": 11,
+    "previous_recordings": 583,
+    "growth": 6,
     "hours_window": 24
   },
   {
@@ -21,18 +30,9 @@
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 244,
-    "previous_recordings": 242,
+    "current_recordings": 245,
+    "previous_recordings": 243,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Omar Courtz",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 105,
-    "previous_recordings": 104,
-    "growth": 1,
     "hours_window": 24
   }
 ]
