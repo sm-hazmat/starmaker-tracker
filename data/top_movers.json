@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "SIENNA SPIRO",
+    "song_title": "KATSEYE",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 596,
-    "previous_recordings": 589,
-    "growth": 7,
+    "source_name": "songs",
+    "current_recordings": 6000,
+    "previous_recordings": 5000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
@@ -24,15 +24,6 @@
     "current_recordings": 107,
     "previous_recordings": 105,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "PinkPantheress/Zara",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 36,
-    "previous_recordings": 35,
-    "growth": 1,
     "hours_window": 24
   }
 ]
