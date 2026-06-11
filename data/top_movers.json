@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "song_title": "Drake, Future/Molly Santana",
+    "artist": "Ran To Atlanta",
+    "source_name": "playlist",
+    "current_recordings": 12,
+    "previous_recordings": 9,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Drake",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 17,
+    "previous_recordings": 15,
+    "growth": 2,
+    "hours_window": 24
+  }
+]
