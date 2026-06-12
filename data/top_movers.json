@@ -3,9 +3,18 @@
     "song_title": "Ella Langley",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 186,
+    "current_recordings": 187,
     "previous_recordings": 184,
-    "growth": 2,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Drake",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 18,
+    "previous_recordings": 17,
+    "growth": 1,
     "hours_window": 24
   }
 ]
