@@ -1,29 +1,47 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Air Supply",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 296000,
-    "previous_recordings": 154000,
-    "growth": 142000,
+    "current_recordings": 412000,
+    "previous_recordings": 14000,
+    "growth": 398000,
     "hours_window": 24
   },
   {
-    "song_title": "Idina Menzel",
+    "song_title": "Lady Gaga",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 129000,
-    "growth": 72000,
+    "current_recordings": 292000,
+    "previous_recordings": 98000,
+    "growth": 194000,
     "hours_window": 24
   },
   {
-    "song_title": "duck",
+    "song_title": "Rihanna",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 8000,
-    "previous_recordings": 1000,
-    "growth": 7000,
+    "current_recordings": 183000,
+    "previous_recordings": 108000,
+    "growth": 75000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 137000,
+    "previous_recordings": 76000,
+    "growth": 61000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lil Nas X",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 66000,
+    "previous_recordings": 32000,
+    "growth": 34000,
     "hours_window": 24
   },
   {
