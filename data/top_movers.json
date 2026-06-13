@@ -1,20 +1,20 @@
 [
   {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 208000,
-    "previous_recordings": 154000,
-    "growth": 54000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Ella Langley",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 193,
     "previous_recordings": 187,
     "growth": 6,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Drop dead",
+    "source_name": "playlist",
+    "current_recordings": 74,
+    "previous_recordings": 72,
+    "growth": 2,
     "hours_window": 24
   },
   {
