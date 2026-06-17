@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Miley Cyrus",
+    "song_title": "Adele",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 229000,
-    "previous_recordings": 6000,
-    "growth": 223000,
+    "current_recordings": 166000,
+    "previous_recordings": 2000,
+    "growth": 164000,
     "hours_window": 24
   },
   {
@@ -15,15 +15,6 @@
     "current_recordings": 137000,
     "previous_recordings": 76000,
     "growth": 61000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 50000,
-    "previous_recordings": 14000,
-    "growth": 36000,
     "hours_window": 24
   }
 ]
