@@ -1,10 +1,46 @@
 [
   {
+    "song_title": "Anna Kendrick",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 32000,
+    "growth": 182000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 166000,
+    "previous_recordings": 2000,
+    "growth": 164000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 137000,
+    "previous_recordings": 76000,
+    "growth": 61000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Ella Langley",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 197,
+    "current_recordings": 198,
     "previous_recordings": 196,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Ella Langley/Morgan Wallen",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 31,
+    "previous_recordings": 30,
     "growth": 1,
     "hours_window": 24
   }
