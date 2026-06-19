@@ -1,20 +1,20 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Air Supply",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 297000,
-    "previous_recordings": 154000,
-    "growth": 143000,
+    "current_recordings": 412000,
+    "previous_recordings": 36000,
+    "growth": 376000,
     "hours_window": 24
   },
   {
-    "song_title": "Idina Menzel",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 129000,
-    "growth": 72000,
+    "current_recordings": 137000,
+    "previous_recordings": 76000,
+    "growth": 61000,
     "hours_window": 24
   },
   {
@@ -22,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 265,
-    "previous_recordings": 260,
-    "growth": 5,
+    "previous_recordings": 261,
+    "growth": 4,
     "hours_window": 24
   },
   {
@@ -33,6 +33,15 @@
     "current_recordings": 32,
     "previous_recordings": 29,
     "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Slayyyter",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 9,
+    "previous_recordings": 8,
+    "growth": 1,
     "hours_window": 24
   }
 ]
