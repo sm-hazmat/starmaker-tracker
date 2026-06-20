@@ -1,10 +1,28 @@
 [
   {
-    "song_title": "Dexter/The Moonrocks",
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 28000,
+    "previous_recordings": 6000,
+    "growth": 22000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Air Supply",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 36000,
+    "previous_recordings": 15000,
+    "growth": 21000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "PinkPantheress/Zara",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 32,
-    "previous_recordings": 29,
+    "current_recordings": 45,
+    "previous_recordings": 42,
     "growth": 3,
     "hours_window": 24
   },
@@ -12,18 +30,9 @@
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 266,
-    "previous_recordings": 264,
+    "current_recordings": 267,
+    "previous_recordings": 265,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "PinkPantheress/Zara",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 43,
-    "previous_recordings": 42,
-    "growth": 1,
     "hours_window": 24
   },
   {
