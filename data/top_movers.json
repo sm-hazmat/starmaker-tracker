@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Olivia Rodrigo",
+    "song_title": "Alex Warren",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 28000,
-    "previous_recordings": 6000,
-    "growth": 22000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Air Supply",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 36000,
-    "previous_recordings": 15000,
-    "growth": 21000,
+    "current_recordings": 4000,
+    "previous_recordings": 2000,
+    "growth": 2000,
     "hours_window": 24
   },
   {
@@ -39,9 +30,9 @@
     "song_title": "Slayyyter",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 9,
+    "current_recordings": 10,
     "previous_recordings": 8,
-    "growth": 1,
+    "growth": 2,
     "hours_window": 24
   }
 ]
