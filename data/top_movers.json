@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "song_title": "Air Supply",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 413000,
+    "previous_recordings": 15000,
+    "growth": 398000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "James Arthur",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 116000,
+    "previous_recordings": 10000,
+    "growth": 106000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Anne Murray",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 231000,
+    "previous_recordings": 155000,
+    "growth": 76000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 137000,
+    "previous_recordings": 76000,
+    "growth": 61000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 50000,
+    "previous_recordings": 10000,
+    "growth": 40000,
+    "hours_window": 24
+  }
+]
