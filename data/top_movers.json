@@ -1,5 +1,50 @@
 [
   {
+    "song_title": "Lionel Richie",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 58000,
+    "previous_recordings": 57000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Auli'i Cravalho",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 13000,
+    "previous_recordings": 12000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Ruth B.",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 895,
+    "previous_recordings": 888,
+    "growth": 7,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Deja Vu (Piano Version)",
+    "source_name": "songs",
+    "current_recordings": 873,
+    "previous_recordings": 869,
+    "growth": 4,
+    "hours_window": 24
+  },
+  {
+    "song_title": "fitterkarma",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 29,
+    "previous_recordings": 26,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
     "song_title": "MADONNA/Sabrina Carpenter",
     "artist": "Points",
     "source_name": "playlist",
@@ -9,11 +54,56 @@
     "hours_window": 24
   },
   {
+    "song_title": "Ruth B.",
+    "artist": "Dandelions",
+    "source_name": "songs",
+    "current_recordings": 324,
+    "previous_recordings": 323,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Kitchie Nadal",
+    "artist": "Wag Na Wag Mong Sasabihin (Acoustic Version)",
+    "source_name": "songs",
+    "current_recordings": 318,
+    "previous_recordings": 317,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Charles Strouse/Alicia Morton",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 115,
+    "previous_recordings": 114,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
     "song_title": "Sabrina Carpenter",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 85,
     "previous_recordings": 84,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "TV Girl",
+    "artist": "Hate Yourself",
+    "source_name": "songs",
+    "current_recordings": 43,
+    "previous_recordings": 42,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Zara /PinkPantheress",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 7,
+    "previous_recordings": 6,
     "growth": 1,
     "hours_window": 24
   }
