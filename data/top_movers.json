@@ -1,47 +1,20 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lady Gaga/bruno mars",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 137000,
-    "previous_recordings": 77000,
-    "growth": 60000,
+    "current_recordings": 103000,
+    "previous_recordings": 34000,
+    "growth": 69000,
     "hours_window": 24
   },
   {
-    "song_title": "Maroon 5",
+    "song_title": "Gabriella Flores",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 51000,
-    "previous_recordings": 2,
-    "growth": 50998,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 50000,
-    "previous_recordings": 551,
-    "growth": 49449,
-    "hours_window": 24
-  },
-  {
-    "song_title": "MADONNA/Sabrina Carpenter",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 36,
-    "previous_recordings": 35,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Zara /PinkPantheress",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 7,
-    "previous_recordings": 6,
-    "growth": 1,
+    "current_recordings": 578,
+    "previous_recordings": 515,
+    "growth": 63,
     "hours_window": 24
   }
 ]
