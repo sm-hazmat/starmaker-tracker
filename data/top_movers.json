@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Michael Jackson",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 30000,
+    "previous_recordings": 2000,
+    "growth": 28000,
+    "hours_window": 24
+  },
+  {
     "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
