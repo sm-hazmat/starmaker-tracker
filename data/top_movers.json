@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Justin Bieber",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 35000,
-    "previous_recordings": 7000,
-    "growth": 28000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 28000,
-    "previous_recordings": 6000,
-    "growth": 22000,
+    "current_recordings": 137000,
+    "previous_recordings": 77000,
+    "growth": 60000,
     "hours_window": 24
   },
   {
@@ -23,6 +14,15 @@
     "source_name": "playlist",
     "current_recordings": 165000,
     "previous_recordings": 164000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Oliver Tree",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 14000,
+    "previous_recordings": 13000,
     "growth": 1000,
     "hours_window": 24
   },
