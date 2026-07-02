@@ -1,5 +1,23 @@
 [
   {
+    "song_title": "Justin Bieber",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 35000,
+    "previous_recordings": 7000,
+    "growth": 28000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 28000,
+    "previous_recordings": 6000,
+    "growth": 22000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Bruno Mars",
     "artist": "Points",
     "source_name": "playlist",
@@ -12,9 +30,9 @@
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 466,
-    "previous_recordings": 458,
-    "growth": 8,
+    "current_recordings": 467,
+    "previous_recordings": 462,
+    "growth": 5,
     "hours_window": 24
   },
   {
