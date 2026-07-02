@@ -1,14 +1,5 @@
 [
   {
-    "song_title": "Victor Wood",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 99000,
-    "previous_recordings": 38000,
-    "growth": 61000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Ellie Goulding",
     "artist": "Points",
     "source_name": "playlist",
@@ -36,20 +27,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 106,
-    "previous_recordings": 103,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
     "song_title": "Huntrix",
     "artist": "G0LDEN",
     "source_name": "playlist",
     "current_recordings": 948,
     "previous_recordings": 947,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shakira",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 106,
+    "previous_recordings": 105,
     "growth": 1,
     "hours_window": 24
   }
