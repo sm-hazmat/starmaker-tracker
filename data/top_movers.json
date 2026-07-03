@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Duncan Laurence/FLETCHER",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 137000,
-    "previous_recordings": 77000,
-    "growth": 60000,
+    "current_recordings": 26000,
+    "previous_recordings": 1000,
+    "growth": 25000,
     "hours_window": 24
   },
   {
@@ -31,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 467,
-    "previous_recordings": 462,
-    "growth": 5,
+    "previous_recordings": 463,
+    "growth": 4,
     "hours_window": 24
   },
   {
@@ -41,15 +41,6 @@
     "source_name": "playlist",
     "current_recordings": 948,
     "previous_recordings": 947,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 106,
-    "previous_recordings": 105,
     "growth": 1,
     "hours_window": 24
   }
