@@ -9,12 +9,12 @@
     "hours_window": 24
   },
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 297000,
-    "previous_recordings": 154000,
-    "growth": 143000,
+    "current_recordings": 137000,
+    "previous_recordings": 77000,
+    "growth": 60000,
     "hours_window": 24
   },
   {
@@ -39,9 +39,18 @@
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 468,
+    "current_recordings": 469,
     "previous_recordings": 464,
-    "growth": 4,
+    "growth": 5,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Justen de Wildt",
+    "artist": "Cheerio",
+    "source_name": "playlist",
+    "current_recordings": 1,
+    "previous_recordings": 0,
+    "growth": 1,
     "hours_window": 24
   }
 ]
