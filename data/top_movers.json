@@ -1,19 +1,19 @@
 [
   {
-    "song_title": "Duncan Laurence/FLETCHER",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 26000,
-    "previous_recordings": 1000,
-    "growth": 25000,
+    "current_recordings": 137000,
+    "previous_recordings": 77000,
+    "growth": 60000,
     "hours_window": 24
   },
   {
-    "song_title": "Bruno Mars",
+    "song_title": "Ed Sheeran",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 165000,
-    "previous_recordings": 164000,
+    "current_recordings": 662000,
+    "previous_recordings": 661000,
     "growth": 1000,
     "hours_window": 24
   },
@@ -27,12 +27,21 @@
     "hours_window": 24
   },
   {
+    "song_title": "Connie Francis",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 4000,
+    "previous_recordings": 3000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 467,
+    "current_recordings": 468,
     "previous_recordings": 463,
-    "growth": 4,
+    "growth": 5,
     "hours_window": 24
   },
   {
