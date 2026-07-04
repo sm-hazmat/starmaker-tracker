@@ -1,56 +1,11 @@
 [
   {
-    "song_title": "Lady Gaga",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 292000,
-    "previous_recordings": 98000,
-    "growth": 194000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Rihanna",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 183000,
-    "previous_recordings": 108000,
-    "growth": 75000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 137000,
-    "previous_recordings": 77000,
-    "growth": 60000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lil Nas X",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 66000,
-    "previous_recordings": 32000,
-    "growth": 34000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 475,
-    "previous_recordings": 468,
-    "growth": 7,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Justen de Wildt",
-    "artist": "Cheerio",
-    "source_name": "playlist",
-    "current_recordings": 1,
-    "previous_recordings": 0,
-    "growth": 1,
+    "previous_recordings": 469,
+    "growth": 6,
     "hours_window": 24
   }
 ]
