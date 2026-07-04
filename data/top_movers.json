@@ -1,28 +1,19 @@
 [
   {
-    "song_title": "Garth Brooks",
+    "song_title": "KATSEYE",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 43000,
-    "previous_recordings": 2000,
-    "growth": 41000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Ed Sheeran",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 662000,
-    "previous_recordings": 661000,
-    "growth": 1000,
+    "current_recordings": 7000,
+    "previous_recordings": 3000,
+    "growth": 4000,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 473,
-    "previous_recordings": 467,
+    "current_recordings": 474,
+    "previous_recordings": 468,
     "growth": 6,
     "hours_window": 24
   },
