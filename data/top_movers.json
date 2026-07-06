@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 137000,
+    "previous_recordings": 77000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 491,
-    "previous_recordings": 479,
-    "growth": 12,
+    "current_recordings": 492,
+    "previous_recordings": 481,
+    "growth": 11,
     "hours_window": 24
   },
   {
