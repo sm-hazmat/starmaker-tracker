@@ -1,11 +1,47 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Mitski",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 137000,
-    "previous_recordings": 77000,
-    "growth": 60000,
+    "current_recordings": 42000,
+    "previous_recordings": 11000,
+    "growth": 31000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Alex Warren",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 9000,
+    "previous_recordings": 4000,
+    "growth": 5000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Dave/Tems",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 303,
+    "previous_recordings": 301,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "PinkPantheress/Zara",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 62,
+    "previous_recordings": 60,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Sabrina Carpenter",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 43,
+    "previous_recordings": 42,
+    "growth": 1,
     "hours_window": 24
   }
 ]
