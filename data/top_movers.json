@@ -3,27 +3,36 @@
     "song_title": "Mitski",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 42000,
-    "previous_recordings": 11000,
-    "growth": 31000,
+    "current_recordings": 11000,
+    "previous_recordings": 3000,
+    "growth": 8000,
     "hours_window": 24
   },
   {
-    "song_title": "Alex Warren",
+    "song_title": "KATSEYE",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 9000,
-    "previous_recordings": 4000,
-    "growth": 5000,
+    "current_recordings": 11000,
+    "previous_recordings": 5000,
+    "growth": 6000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Chris Grey",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 11000,
+    "previous_recordings": 7000,
+    "growth": 4000,
     "hours_window": 24
   },
   {
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 303,
+    "current_recordings": 305,
     "previous_recordings": 301,
-    "growth": 2,
+    "growth": 4,
     "hours_window": 24
   },
   {
@@ -31,16 +40,7 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 62,
-    "previous_recordings": 60,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Sabrina Carpenter",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 43,
-    "previous_recordings": 42,
+    "previous_recordings": 61,
     "growth": 1,
     "hours_window": 24
   }
