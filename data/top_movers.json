@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 137000,
-    "previous_recordings": 77000,
-    "growth": 60000,
+    "current_recordings": 297000,
+    "previous_recordings": 154000,
+    "growth": 143000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Justin Bieber",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 19000,
+    "previous_recordings": 2000,
+    "growth": 17000,
     "hours_window": 24
   },
   {
