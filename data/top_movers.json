@@ -1,29 +1,11 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Lukas Graham",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 298000,
-    "previous_recordings": 154000,
-    "growth": 144000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Idina Menzel",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 129000,
-    "growth": 72000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Journey",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 71000,
-    "previous_recordings": 5000,
-    "growth": 66000,
+    "current_recordings": 52000,
+    "previous_recordings": 51000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
@@ -48,9 +30,9 @@
     "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 71,
+    "current_recordings": 72,
     "previous_recordings": 67,
-    "growth": 4,
+    "growth": 5,
     "hours_window": 24
   },
   {
