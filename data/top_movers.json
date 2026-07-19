@@ -1,5 +1,23 @@
 [
   {
+    "song_title": "Anna Kendrick",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 33000,
+    "growth": 181000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 138000,
+    "previous_recordings": 78000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
@@ -18,29 +36,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 77,
-    "previous_recordings": 74,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 143,
-    "previous_recordings": 141,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
     "song_title": "Huntrix",
     "artist": "G0LDEN",
     "source_name": "playlist",
     "current_recordings": 962,
     "previous_recordings": 961,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 77,
+    "previous_recordings": 76,
     "growth": 1,
     "hours_window": 24
   }
