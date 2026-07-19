@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lukas Graham",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 78000,
-    "growth": 60000,
+    "current_recordings": 140000,
+    "previous_recordings": 52000,
+    "growth": 88000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KitschKrieg/Blumengarten/shirin david",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 182,
+    "previous_recordings": 171,
+    "growth": 11,
     "hours_window": 24
   },
   {
@@ -15,15 +24,6 @@
     "current_recordings": 616,
     "previous_recordings": 606,
     "growth": 10,
-    "hours_window": 24
-  },
-  {
-    "song_title": "KitschKrieg/Blumengarten/shirin david",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 180,
-    "previous_recordings": 171,
-    "growth": 9,
     "hours_window": 24
   },
   {
