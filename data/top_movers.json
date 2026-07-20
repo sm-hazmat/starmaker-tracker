@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Miley Cyrus",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 229000,
+    "previous_recordings": 16000,
+    "growth": 213000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -9,21 +18,39 @@
     "hours_window": 24
   },
   {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 51000,
+    "previous_recordings": 28000,
+    "growth": 23000,
+    "hours_window": 24
+  },
+  {
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 192,
+    "current_recordings": 194,
     "previous_recordings": 177,
-    "growth": 15,
+    "growth": 17,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 622,
-    "previous_recordings": 611,
-    "growth": 11,
+    "current_recordings": 624,
+    "previous_recordings": 612,
+    "growth": 12,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Huntrix",
+    "artist": "G0LDEN",
+    "source_name": "playlist",
+    "current_recordings": 963,
+    "previous_recordings": 962,
+    "growth": 1,
     "hours_window": 24
   },
   {
