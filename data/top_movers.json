@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Ruth B",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 232000,
+    "previous_recordings": 19000,
+    "growth": 213000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -21,18 +30,18 @@
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 197,
+    "current_recordings": 198,
     "previous_recordings": 180,
-    "growth": 17,
+    "growth": 18,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 624,
+    "current_recordings": 627,
     "previous_recordings": 615,
-    "growth": 9,
+    "growth": 12,
     "hours_window": 24
   },
   {
