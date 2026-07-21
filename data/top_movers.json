@@ -1,47 +1,20 @@
 [
   {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 298000,
-    "previous_recordings": 154000,
-    "growth": 144000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Idina Menzel",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 129000,
-    "growth": 72000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Oliver Tree",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 16000,
-    "previous_recordings": 15000,
-    "growth": 1000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 636,
+    "current_recordings": 638,
     "previous_recordings": 624,
-    "growth": 12,
+    "growth": 14,
     "hours_window": 24
   },
   {
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 201,
-    "previous_recordings": 194,
-    "growth": 7,
+    "current_recordings": 202,
+    "previous_recordings": 197,
+    "growth": 5,
     "hours_window": 24
   },
   {
