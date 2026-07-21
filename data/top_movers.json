@@ -9,24 +9,6 @@
     "hours_window": 24
   },
   {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 210000,
-    "previous_recordings": 154000,
-    "growth": 56000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Michael Jackson",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 25000,
-    "previous_recordings": 22000,
-    "growth": 3000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Oliver Tree",
     "artist": "Points",
     "source_name": "playlist",
@@ -39,9 +21,9 @@
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 634,
+    "current_recordings": 636,
     "previous_recordings": 622,
-    "growth": 12,
+    "growth": 14,
     "hours_window": 24
   },
   {
@@ -49,8 +31,17 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 201,
-    "previous_recordings": 191,
-    "growth": 10,
+    "previous_recordings": 192,
+    "growth": 9,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 79,
+    "previous_recordings": 77,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -68,15 +59,6 @@
     "source_name": "playlist",
     "current_recordings": 144,
     "previous_recordings": 143,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 78,
-    "previous_recordings": 77,
     "growth": 1,
     "hours_window": 24
   }
