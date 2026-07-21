@@ -1,29 +1,29 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Mariah Carey",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 298000,
-    "previous_recordings": 154000,
-    "growth": 144000,
+    "current_recordings": 379000,
+    "previous_recordings": 7000,
+    "growth": 372000,
     "hours_window": 24
   },
   {
-    "song_title": "Idina Menzel",
+    "song_title": "Marco Sison",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 201000,
-    "previous_recordings": 129000,
-    "growth": 72000,
+    "current_recordings": 52000,
+    "previous_recordings": 51000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 638,
+    "current_recordings": 642,
     "previous_recordings": 627,
-    "growth": 11,
+    "growth": 15,
     "hours_window": 24
   },
   {
@@ -42,15 +42,6 @@
     "current_recordings": 79,
     "previous_recordings": 77,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 144,
-    "previous_recordings": 143,
-    "growth": 1,
     "hours_window": 24
   }
 ]
