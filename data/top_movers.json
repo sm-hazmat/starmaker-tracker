@@ -1,11 +1,47 @@
 [
   {
+    "song_title": "Air Supply",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 413000,
+    "previous_recordings": 128000,
+    "growth": 285000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "James Arthur",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 116000,
+    "previous_recordings": 10000,
+    "growth": 106000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 138000,
+    "previous_recordings": 78000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 39000,
+    "previous_recordings": 6000,
+    "growth": 33000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 651,
+    "current_recordings": 652,
     "previous_recordings": 644,
-    "growth": 7,
+    "growth": 8,
     "hours_window": 24
   },
   {
@@ -13,25 +49,25 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 213,
-    "previous_recordings": 207,
-    "growth": 6,
+    "previous_recordings": 208,
+    "growth": 5,
     "hours_window": 24
   },
   {
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 145,
+    "current_recordings": 146,
     "previous_recordings": 144,
-    "growth": 1,
+    "growth": 2,
     "hours_window": 24
   },
   {
     "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 80,
-    "previous_recordings": 79,
+    "current_recordings": 81,
+    "previous_recordings": 80,
     "growth": 1,
     "hours_window": 24
   }
