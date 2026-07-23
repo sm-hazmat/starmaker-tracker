@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "Ruth B",
+    "song_title": "Neil Sedaka",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 232000,
-    "previous_recordings": 19000,
-    "growth": 213000,
+    "current_recordings": 129000,
+    "previous_recordings": 1000,
+    "growth": 128000,
     "hours_window": 24
   },
   {
-    "song_title": "Adele",
+    "song_title": "Maroon 5",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 166000,
-    "previous_recordings": 61000,
-    "growth": 105000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 78000,
-    "growth": 60000,
+    "current_recordings": 140000,
+    "previous_recordings": 51000,
+    "growth": 89000,
     "hours_window": 24
   },
   {
@@ -31,16 +22,16 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 658,
-    "previous_recordings": 651,
-    "growth": 7,
+    "previous_recordings": 652,
+    "growth": 6,
     "hours_window": 24
   },
   {
-    "song_title": "Mauvais djo",
+    "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 83,
-    "previous_recordings": 80,
+    "current_recordings": 149,
+    "previous_recordings": 146,
     "growth": 3,
     "hours_window": 24
   },
@@ -72,11 +63,11 @@
     "hours_window": 24
   },
   {
-    "song_title": "Shakira",
+    "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 147,
-    "previous_recordings": 145,
+    "current_recordings": 83,
+    "previous_recordings": 81,
     "growth": 2,
     "hours_window": 24
   }
