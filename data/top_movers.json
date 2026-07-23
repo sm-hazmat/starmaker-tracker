@@ -1,20 +1,20 @@
 [
   {
-    "song_title": "Maroon 5",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 140000,
-    "previous_recordings": 51000,
-    "growth": 89000,
+    "current_recordings": 210000,
+    "previous_recordings": 154000,
+    "growth": 56000,
     "hours_window": 24
   },
   {
-    "song_title": "Justin Bieber",
+    "song_title": "Shakira/Burna Boy",
     "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 63000,
-    "previous_recordings": 19000,
-    "growth": 44000,
+    "source_name": "playlist",
+    "current_recordings": 655,
+    "previous_recordings": 651,
+    "growth": 4,
     "hours_window": 24
   },
   {
@@ -24,24 +24,6 @@
     "current_recordings": 215,
     "previous_recordings": 211,
     "growth": 4,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 11,
-    "previous_recordings": 7,
-    "growth": 4,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira/Burna Boy",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 653,
-    "previous_recordings": 650,
-    "growth": 3,
     "hours_window": 24
   },
   {
@@ -68,6 +50,15 @@
     "source_name": "playlist",
     "current_recordings": 147,
     "previous_recordings": 145,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Hadise",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 11,
+    "previous_recordings": 9,
     "growth": 2,
     "hours_window": 24
   }
