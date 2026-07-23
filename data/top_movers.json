@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Maroon 5",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 140000,
-    "previous_recordings": 51000,
-    "growth": 89000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 658,
+    "current_recordings": 664,
     "previous_recordings": 652,
-    "growth": 6,
+    "growth": 12,
     "hours_window": 24
   },
   {
@@ -36,15 +27,6 @@
     "hours_window": 24
   },
   {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 13,
-    "previous_recordings": 10,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
     "song_title": "Huntrix",
     "artist": "G0LDEN",
     "source_name": "playlist",
@@ -59,6 +41,15 @@
     "source_name": "playlist",
     "current_recordings": 83,
     "previous_recordings": 81,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Hadise",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 13,
+    "previous_recordings": 11,
     "growth": 2,
     "hours_window": 24
   }
