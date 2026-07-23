@@ -9,15 +9,6 @@
     "hours_window": 24
   },
   {
-    "song_title": "KitschKrieg/Blumengarten/shirin david",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 216,
-    "previous_recordings": 213,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
@@ -51,6 +42,15 @@
     "current_recordings": 13,
     "previous_recordings": 11,
     "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KitschKrieg/Blumengarten/shirin david",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 216,
+    "previous_recordings": 215,
+    "growth": 1,
     "hours_window": 24
   }
 ]
