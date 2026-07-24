@@ -1,20 +1,29 @@
 [
   {
-    "song_title": "MilkyyMelodies",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 969,
-    "previous_recordings": 367,
-    "growth": 602,
+    "current_recordings": 298000,
+    "previous_recordings": 154000,
+    "growth": 144000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 51000,
+    "previous_recordings": 15000,
+    "growth": 36000,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 666,
+    "current_recordings": 667,
     "previous_recordings": 652,
-    "growth": 14,
+    "growth": 15,
     "hours_window": 24
   },
   {
@@ -27,29 +36,11 @@
     "hours_window": 24
   },
   {
-    "song_title": "Huntrix",
-    "artist": "G0LDEN",
-    "source_name": "playlist",
-    "current_recordings": 965,
-    "previous_recordings": 963,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 149,
     "previous_recordings": 147,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 83,
-    "previous_recordings": 81,
     "growth": 2,
     "hours_window": 24
   },
@@ -60,6 +51,24 @@
     "current_recordings": 13,
     "previous_recordings": 11,
     "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Huntrix",
+    "artist": "G0LDEN",
+    "source_name": "playlist",
+    "current_recordings": 965,
+    "previous_recordings": 964,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 83,
+    "previous_recordings": 82,
+    "growth": 1,
     "hours_window": 24
   }
 ]
