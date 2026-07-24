@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Elvis Presley",
+    "song_title": "Miley Cyrus",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 493000,
-    "previous_recordings": 15000,
-    "growth": 478000,
+    "current_recordings": 229000,
+    "previous_recordings": 16000,
+    "growth": 213000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 166000,
+    "previous_recordings": 7000,
+    "growth": 159000,
     "hours_window": 24
   },
   {
@@ -13,35 +22,26 @@
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 298000,
-    "previous_recordings": 154000,
-    "growth": 144000,
+    "previous_recordings": 210000,
+    "growth": 88000,
     "hours_window": 24
   },
   {
-    "song_title": "Chris Stapleton",
+    "song_title": "Justin Bieber",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 73000,
-    "previous_recordings": 8000,
-    "growth": 65000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Ariana Grande",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 44000,
-    "previous_recordings": 16000,
-    "growth": 28000,
+    "current_recordings": 19000,
+    "previous_recordings": 7000,
+    "growth": 12000,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 670,
-    "previous_recordings": 653,
-    "growth": 17,
+    "current_recordings": 674,
+    "previous_recordings": 655,
+    "growth": 19,
     "hours_window": 24
   },
   {
