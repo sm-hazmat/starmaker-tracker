@@ -4,17 +4,8 @@
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 231000,
-    "previous_recordings": 51000,
-    "growth": 180000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Adele",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 166000,
-    "previous_recordings": 7000,
-    "growth": 159000,
+    "previous_recordings": 148000,
+    "growth": 83000,
     "hours_window": 24
   },
   {
@@ -29,10 +20,10 @@
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 3000,
-    "previous_recordings": 658,
-    "growth": 2342,
+    "source_name": "playlist",
+    "current_recordings": 686,
+    "previous_recordings": 664,
+    "growth": 22,
     "hours_window": 24
   },
   {
