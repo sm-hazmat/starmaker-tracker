@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "KATSEYE",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 11000,
-    "previous_recordings": 3000,
-    "growth": 8000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 680,
+    "current_recordings": 684,
     "previous_recordings": 658,
-    "growth": 22,
+    "growth": 26,
     "hours_window": 24
   },
   {
@@ -30,9 +21,9 @@
     "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 88,
+    "current_recordings": 89,
     "previous_recordings": 83,
-    "growth": 5,
+    "growth": 6,
     "hours_window": 24
   },
   {
@@ -45,12 +36,12 @@
     "hours_window": 24
   },
   {
-    "song_title": "Shakira",
+    "song_title": "Hadise",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 149,
-    "previous_recordings": 147,
-    "growth": 2,
+    "current_recordings": 14,
+    "previous_recordings": 13,
+    "growth": 1,
     "hours_window": 24
   }
 ]
