@@ -1,56 +1,29 @@
 [
   {
-    "song_title": "Miley Cyrus",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 229000,
-    "previous_recordings": 16000,
-    "growth": 213000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Adele",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 166000,
-    "previous_recordings": 7000,
-    "growth": 159000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 298000,
-    "previous_recordings": 210000,
-    "growth": 88000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Justin Bieber",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 19000,
-    "previous_recordings": 7000,
-    "growth": 12000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 674,
-    "previous_recordings": 655,
-    "growth": 19,
+    "previous_recordings": 657,
+    "growth": 17,
     "hours_window": 24
   },
   {
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 221,
+    "current_recordings": 222,
     "previous_recordings": 215,
-    "growth": 6,
+    "growth": 7,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 86,
+    "previous_recordings": 83,
+    "growth": 3,
     "hours_window": 24
   },
   {
@@ -63,20 +36,11 @@
     "hours_window": 24
   },
   {
-    "song_title": "Hadise",
-    "artist": "Points",
+    "song_title": "Huntrix",
+    "artist": "G0LDEN",
     "source_name": "playlist",
-    "current_recordings": 13,
-    "previous_recordings": 11,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 84,
-    "previous_recordings": 83,
+    "current_recordings": 966,
+    "previous_recordings": 965,
     "growth": 1,
     "hours_window": 24
   }
