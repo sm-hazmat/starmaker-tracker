@@ -1,11 +1,38 @@
 [
   {
-    "song_title": "Oliver Tree",
+    "song_title": "Elvis Presley",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 16000,
-    "previous_recordings": 623,
-    "growth": 15377,
+    "current_recordings": 493000,
+    "previous_recordings": 15000,
+    "growth": 478000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 298000,
+    "previous_recordings": 154000,
+    "growth": 144000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Chris Stapleton",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 73000,
+    "previous_recordings": 8000,
+    "growth": 65000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Ariana Grande",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 44000,
+    "previous_recordings": 16000,
+    "growth": 28000,
     "hours_window": 24
   },
   {
@@ -48,8 +75,8 @@
     "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 83,
-    "previous_recordings": 82,
+    "current_recordings": 84,
+    "previous_recordings": 83,
     "growth": 1,
     "hours_window": 24
   }
