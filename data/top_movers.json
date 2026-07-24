@@ -3,9 +3,9 @@
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 674,
+    "current_recordings": 680,
     "previous_recordings": 657,
-    "growth": 17,
+    "growth": 23,
     "hours_window": 24
   },
   {
@@ -21,9 +21,18 @@
     "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 86,
+    "current_recordings": 88,
     "previous_recordings": 83,
-    "growth": 3,
+    "growth": 5,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Huntrix",
+    "artist": "G0LDEN",
+    "source_name": "playlist",
+    "current_recordings": 967,
+    "previous_recordings": 965,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -33,15 +42,6 @@
     "current_recordings": 149,
     "previous_recordings": 147,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Huntrix",
-    "artist": "G0LDEN",
-    "source_name": "playlist",
-    "current_recordings": 966,
-    "previous_recordings": 965,
-    "growth": 1,
     "hours_window": 24
   }
 ]
