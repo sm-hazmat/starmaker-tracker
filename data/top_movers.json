@@ -1,11 +1,38 @@
 [
   {
+    "song_title": "Anne Murray",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 231000,
+    "previous_recordings": 51000,
+    "growth": 180000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 166000,
+    "previous_recordings": 7000,
+    "growth": 159000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 138000,
+    "previous_recordings": 78000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 684,
+    "source_name": "songs",
+    "current_recordings": 3000,
     "previous_recordings": 658,
-    "growth": 26,
+    "growth": 2342,
     "hours_window": 24
   },
   {
@@ -13,8 +40,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 225,
-    "previous_recordings": 215,
-    "growth": 10,
+    "previous_recordings": 216,
+    "growth": 9,
     "hours_window": 24
   },
   {
