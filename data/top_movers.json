@@ -1,20 +1,29 @@
 [
   {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 11000,
+    "previous_recordings": 3000,
+    "growth": 8000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 680,
-    "previous_recordings": 657,
-    "growth": 23,
+    "previous_recordings": 658,
+    "growth": 22,
     "hours_window": 24
   },
   {
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 222,
+    "current_recordings": 225,
     "previous_recordings": 215,
-    "growth": 7,
+    "growth": 10,
     "hours_window": 24
   },
   {
