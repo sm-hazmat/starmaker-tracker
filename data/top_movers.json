@@ -1,5 +1,23 @@
 [
   {
+    "song_title": "Lady Gaga",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 292000,
+    "previous_recordings": 98000,
+    "growth": 194000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Rihanna",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 183000,
+    "previous_recordings": 108000,
+    "growth": 75000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -9,12 +27,21 @@
     "hours_window": 24
   },
   {
-    "song_title": "Olivia Rodrigo",
+    "song_title": "Lil Nas X",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 51000,
-    "previous_recordings": 28000,
-    "growth": 23000,
+    "current_recordings": 66000,
+    "previous_recordings": 32000,
+    "growth": 34000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shawn Mendes/Camila Cabello",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 147000,
+    "previous_recordings": 146000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
@@ -27,21 +54,21 @@
     "hours_window": 24
   },
   {
+    "song_title": "KitschKrieg/Blumengarten/shirin david",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 227,
+    "previous_recordings": 221,
+    "growth": 6,
+    "hours_window": 24
+  },
+  {
     "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 90,
-    "previous_recordings": 83,
-    "growth": 7,
-    "hours_window": 24
-  },
-  {
-    "song_title": "KitschKrieg/Blumengarten/shirin david",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 226,
-    "previous_recordings": 221,
-    "growth": 5,
+    "previous_recordings": 84,
+    "growth": 6,
     "hours_window": 24
   },
   {
