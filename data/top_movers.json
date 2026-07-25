@@ -1,50 +1,5 @@
 [
   {
-    "song_title": "Lady Gaga",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 292000,
-    "previous_recordings": 98000,
-    "growth": 194000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Rihanna",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 183000,
-    "previous_recordings": 108000,
-    "growth": 75000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 78000,
-    "growth": 60000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lil Nas X",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 66000,
-    "previous_recordings": 32000,
-    "growth": 34000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shawn Mendes/Camila Cabello",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 147000,
-    "previous_recordings": 146000,
-    "growth": 1000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
@@ -57,9 +12,9 @@
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 227,
-    "previous_recordings": 221,
-    "growth": 6,
+    "current_recordings": 230,
+    "previous_recordings": 222,
+    "growth": 8,
     "hours_window": 24
   },
   {
@@ -67,16 +22,16 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 90,
-    "previous_recordings": 84,
-    "growth": 6,
+    "previous_recordings": 86,
+    "growth": 4,
     "hours_window": 24
   },
   {
     "song_title": "Huntrix",
     "artist": "G0LDEN",
     "source_name": "playlist",
-    "current_recordings": 967,
-    "previous_recordings": 965,
+    "current_recordings": 968,
+    "previous_recordings": 966,
     "growth": 2,
     "hours_window": 24
   },
