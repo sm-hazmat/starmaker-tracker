@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Shakira/Burna Boy",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 701,
+    "previous_recordings": 686,
+    "growth": 15,
+    "hours_window": 24
+  },
+  {
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
@@ -12,9 +21,9 @@
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 152,
+    "current_recordings": 153,
     "previous_recordings": 149,
-    "growth": 3,
+    "growth": 4,
     "hours_window": 24
   },
   {
@@ -23,6 +32,15 @@
     "source_name": "playlist",
     "current_recordings": 91,
     "previous_recordings": 89,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Hadise",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 16,
+    "previous_recordings": 14,
     "growth": 2,
     "hours_window": 24
   },
