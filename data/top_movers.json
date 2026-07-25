@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 138000,
+    "previous_recordings": 78000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
@@ -22,17 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 153,
-    "previous_recordings": 149,
-    "growth": 4,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 91,
-    "previous_recordings": 89,
-    "growth": 2,
+    "previous_recordings": 150,
+    "growth": 3,
     "hours_window": 24
   },
   {
@@ -50,6 +50,15 @@
     "source_name": "playlist",
     "current_recordings": 968,
     "previous_recordings": 967,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 91,
+    "previous_recordings": 90,
     "growth": 1,
     "hours_window": 24
   }
