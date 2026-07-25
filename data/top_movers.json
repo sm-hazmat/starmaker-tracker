@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Oliver Tree",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 16000,
+    "previous_recordings": 630,
+    "growth": 15370,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 694,
-    "previous_recordings": 674,
-    "growth": 20,
+    "current_recordings": 696,
+    "previous_recordings": 680,
+    "growth": 16,
     "hours_window": 24
   },
   {
@@ -22,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 90,
-    "previous_recordings": 86,
-    "growth": 4,
+    "previous_recordings": 88,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -31,8 +40,8 @@
     "artist": "G0LDEN",
     "source_name": "playlist",
     "current_recordings": 968,
-    "previous_recordings": 966,
-    "growth": 2,
+    "previous_recordings": 967,
+    "growth": 1,
     "hours_window": 24
   },
   {
