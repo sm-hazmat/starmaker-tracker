@@ -1,20 +1,29 @@
 [
   {
-    "song_title": "KATSEYE",
+    "song_title": "Anne Murray",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 11000,
-    "previous_recordings": 8000,
-    "growth": 3000,
+    "current_recordings": 232000,
+    "previous_recordings": 231000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Katy Perry",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 62000,
+    "previous_recordings": 61000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 707,
+    "current_recordings": 712,
     "previous_recordings": 696,
-    "growth": 11,
+    "growth": 16,
     "hours_window": 24
   },
   {
