@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Bread",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 105000,
+    "previous_recordings": 24000,
+    "growth": 81000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
@@ -9,39 +18,30 @@
     "hours_window": 24
   },
   {
-    "song_title": "KitschKrieg/Blumengarten/shirin david",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 233,
-    "previous_recordings": 227,
-    "growth": 6,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 154,
+    "current_recordings": 156,
     "previous_recordings": 150,
-    "growth": 4,
+    "growth": 6,
     "hours_window": 24
   },
   {
     "song_title": "Hadise",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 18,
+    "current_recordings": 19,
     "previous_recordings": 14,
-    "growth": 4,
+    "growth": 5,
     "hours_window": 24
   },
   {
-    "song_title": "Huntrix",
-    "artist": "G0LDEN",
+    "song_title": "KitschKrieg/Blumengarten/shirin david",
+    "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 968,
-    "previous_recordings": 967,
-    "growth": 1,
+    "current_recordings": 233,
+    "previous_recordings": 230,
+    "growth": 3,
     "hours_window": 24
   },
   {
