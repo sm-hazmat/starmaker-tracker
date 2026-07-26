@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Miley Cyrus",
+    "song_title": "KATSEYE",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 229000,
-    "previous_recordings": 16000,
-    "growth": 213000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 78000,
-    "growth": 60000,
+    "current_recordings": 11000,
+    "previous_recordings": 8000,
+    "growth": 3000,
     "hours_window": 24
   },
   {
@@ -27,15 +18,6 @@
     "hours_window": 24
   },
   {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 156,
-    "previous_recordings": 150,
-    "growth": 6,
-    "hours_window": 24
-  },
-  {
     "song_title": "Hadise",
     "artist": "Points",
     "source_name": "playlist",
@@ -45,11 +27,11 @@
     "hours_window": 24
   },
   {
-    "song_title": "KitschKrieg/Blumengarten/shirin david",
+    "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 234,
-    "previous_recordings": 230,
+    "current_recordings": 156,
+    "previous_recordings": 152,
     "growth": 4,
     "hours_window": 24
   },
@@ -57,9 +39,18 @@
     "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 92,
+    "current_recordings": 94,
     "previous_recordings": 90,
-    "growth": 2,
+    "growth": 4,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KitschKrieg/Blumengarten/shirin david",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 234,
+    "previous_recordings": 231,
+    "growth": 3,
     "hours_window": 24
   }
 ]
