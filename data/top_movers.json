@@ -1,14 +1,5 @@
 [
   {
-    "song_title": "Anna Kendrick",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 214000,
-    "previous_recordings": 33000,
-    "growth": 181000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -18,21 +9,12 @@
     "hours_window": 24
   },
   {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 51000,
-    "previous_recordings": 28000,
-    "growth": 23000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 731,
-    "previous_recordings": 707,
-    "growth": 24,
+    "current_recordings": 734,
+    "previous_recordings": 712,
+    "growth": 22,
     "hours_window": 24
   },
   {
@@ -59,6 +41,15 @@
     "source_name": "playlist",
     "current_recordings": 969,
     "previous_recordings": 968,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Hadise",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 21,
+    "previous_recordings": 20,
     "growth": 1,
     "hours_window": 24
   }
