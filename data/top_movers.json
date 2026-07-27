@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Melanie Martinez",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 51000,
-    "previous_recordings": 7000,
-    "growth": 44000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 725,
-    "previous_recordings": 706,
-    "growth": 19,
+    "current_recordings": 731,
+    "previous_recordings": 707,
+    "growth": 24,
     "hours_window": 24
   },
   {
@@ -22,8 +13,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 98,
-    "previous_recordings": 91,
-    "growth": 7,
+    "previous_recordings": 92,
+    "growth": 6,
     "hours_window": 24
   },
   {
@@ -31,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 239,
-    "previous_recordings": 233,
-    "growth": 6,
+    "previous_recordings": 234,
+    "growth": 5,
     "hours_window": 24
   },
   {
@@ -41,15 +32,6 @@
     "source_name": "playlist",
     "current_recordings": 969,
     "previous_recordings": 968,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 20,
-    "previous_recordings": 19,
     "growth": 1,
     "hours_window": 24
   }
