@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 138000,
+    "previous_recordings": 78000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
     "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
@@ -12,9 +21,9 @@
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 744,
-    "previous_recordings": 723,
-    "growth": 21,
+    "current_recordings": 745,
+    "previous_recordings": 725,
+    "growth": 20,
     "hours_window": 24
   },
   {
@@ -22,35 +31,26 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 247,
-    "previous_recordings": 238,
-    "growth": 9,
+    "previous_recordings": 239,
+    "growth": 8,
     "hours_window": 24
   },
   {
     "song_title": "Hadise",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 22,
+    "current_recordings": 24,
     "previous_recordings": 20,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Huntrix",
-    "artist": "G0LDEN",
-    "source_name": "playlist",
-    "current_recordings": 969,
-    "previous_recordings": 968,
-    "growth": 1,
+    "growth": 4,
     "hours_window": 24
   },
   {
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 157,
+    "current_recordings": 158,
     "previous_recordings": 156,
-    "growth": 1,
+    "growth": 2,
     "hours_window": 24
   },
   {
