@@ -3,27 +3,9 @@
     "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 298000,
+    "current_recordings": 210000,
     "previous_recordings": 154000,
-    "growth": 144000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lady Gaga",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 98000,
-    "previous_recordings": 14000,
-    "growth": 84000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 51000,
-    "previous_recordings": 593,
-    "growth": 50407,
+    "growth": 56000,
     "hours_window": 24
   },
   {
@@ -57,8 +39,8 @@
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 159,
-    "previous_recordings": 156,
+    "current_recordings": 160,
+    "previous_recordings": 157,
     "growth": 3,
     "hours_window": 24
   },
@@ -66,8 +48,8 @@
     "song_title": "Hadise",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 24,
-    "previous_recordings": 21,
+    "current_recordings": 25,
+    "previous_recordings": 22,
     "growth": 3,
     "hours_window": 24
   },
