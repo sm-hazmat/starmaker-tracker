@@ -12,9 +12,9 @@
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 750,
-    "previous_recordings": 731,
-    "growth": 19,
+    "current_recordings": 752,
+    "previous_recordings": 734,
+    "growth": 18,
     "hours_window": 24
   },
   {
@@ -27,20 +27,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 24,
-    "previous_recordings": 20,
-    "growth": 4,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 159,
     "previous_recordings": 156,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Hadise",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 24,
+    "previous_recordings": 21,
     "growth": 3,
     "hours_window": 24
   },
