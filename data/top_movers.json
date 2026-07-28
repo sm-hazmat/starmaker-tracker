@@ -21,9 +21,9 @@
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 246,
+    "current_recordings": 247,
     "previous_recordings": 238,
-    "growth": 8,
+    "growth": 9,
     "hours_window": 24
   },
   {
@@ -50,6 +50,15 @@
     "source_name": "playlist",
     "current_recordings": 157,
     "previous_recordings": 156,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 99,
+    "previous_recordings": 98,
     "growth": 1,
     "hours_window": 24
   }
