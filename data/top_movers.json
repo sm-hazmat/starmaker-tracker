@@ -1,14 +1,5 @@
 [
   {
-    "song_title": "Lukas Graham",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 140000,
-    "previous_recordings": 52000,
-    "growth": 88000,
-    "hours_window": 24
-  },
-  {
     "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
@@ -21,9 +12,9 @@
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 740,
-    "previous_recordings": 721,
-    "growth": 19,
+    "current_recordings": 744,
+    "previous_recordings": 723,
+    "growth": 21,
     "hours_window": 24
   },
   {
@@ -33,15 +24,6 @@
     "current_recordings": 246,
     "previous_recordings": 238,
     "growth": 8,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 98,
-    "previous_recordings": 96,
-    "growth": 2,
     "hours_window": 24
   },
   {
