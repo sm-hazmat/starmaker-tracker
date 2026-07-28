@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Mymp",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 29000,
-    "previous_recordings": 7000,
-    "growth": 22000,
+    "current_recordings": 138000,
+    "previous_recordings": 78000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "John Legend",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 796000,
+    "previous_recordings": 795000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
@@ -13,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 738,
-    "previous_recordings": 717,
-    "growth": 21,
+    "previous_recordings": 719,
+    "growth": 19,
     "hours_window": 24
   },
   {
@@ -22,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 245,
-    "previous_recordings": 237,
-    "growth": 8,
+    "previous_recordings": 238,
+    "growth": 7,
     "hours_window": 24
   },
   {
@@ -31,8 +40,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 98,
-    "previous_recordings": 95,
-    "growth": 3,
+    "previous_recordings": 96,
+    "growth": 2,
     "hours_window": 24
   },
   {
