@@ -3,9 +3,27 @@
     "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 210000,
+    "current_recordings": 298000,
     "previous_recordings": 154000,
-    "growth": 56000,
+    "growth": 144000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lady Gaga",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 98000,
+    "previous_recordings": 14000,
+    "growth": 84000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 51000,
+    "previous_recordings": 593,
+    "growth": 50407,
     "hours_window": 24
   },
   {
@@ -21,8 +39,8 @@
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 752,
-    "previous_recordings": 734,
+    "current_recordings": 756,
+    "previous_recordings": 738,
     "growth": 18,
     "hours_window": 24
   },
@@ -30,9 +48,9 @@
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 249,
+    "current_recordings": 251,
     "previous_recordings": 242,
-    "growth": 7,
+    "growth": 9,
     "hours_window": 24
   },
   {
