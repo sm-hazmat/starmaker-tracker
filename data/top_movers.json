@@ -1,32 +1,5 @@
 [
   {
-    "song_title": "Anna Kendrick",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 214000,
-    "previous_recordings": 33000,
-    "growth": 181000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Adele",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 166000,
-    "previous_recordings": 3000,
-    "growth": 163000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 298000,
-    "previous_recordings": 154000,
-    "growth": 144000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
@@ -48,9 +21,9 @@
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 161,
+    "current_recordings": 162,
     "previous_recordings": 159,
-    "growth": 2,
+    "growth": 3,
     "hours_window": 24
   },
   {
