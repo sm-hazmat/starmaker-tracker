@@ -1,28 +1,19 @@
 [
   {
-    "song_title": "Lukas Graham",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 140000,
-    "previous_recordings": 52000,
-    "growth": 88000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 759,
-    "previous_recordings": 738,
-    "growth": 21,
+    "current_recordings": 760,
+    "previous_recordings": 740,
+    "growth": 20,
     "hours_window": 24
   },
   {
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 254,
-    "previous_recordings": 245,
+    "current_recordings": 255,
+    "previous_recordings": 246,
     "growth": 9,
     "hours_window": 24
   },
