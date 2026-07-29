@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Lady Gaga",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 292000,
-    "previous_recordings": 98000,
-    "growth": 194000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Rihanna",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 183000,
-    "previous_recordings": 108000,
-    "growth": 75000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -27,21 +9,12 @@
     "hours_window": 24
   },
   {
-    "song_title": "Lil Nas X",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 66000,
-    "previous_recordings": 32000,
-    "growth": 34000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 769,
+    "current_recordings": 775,
     "previous_recordings": 756,
-    "growth": 13,
+    "growth": 19,
     "hours_window": 24
   },
   {
@@ -54,29 +27,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Shakira",
+    "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 162,
-    "previous_recordings": 159,
+    "current_recordings": 103,
+    "previous_recordings": 100,
     "growth": 3,
     "hours_window": 24
   },
   {
-    "song_title": "Mauvais djo",
+    "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 102,
-    "previous_recordings": 100,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 26,
-    "previous_recordings": 24,
+    "current_recordings": 162,
+    "previous_recordings": 160,
     "growth": 2,
     "hours_window": 24
   },
@@ -86,6 +50,15 @@
     "source_name": "playlist",
     "current_recordings": 970,
     "previous_recordings": 969,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Hadise",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 26,
+    "previous_recordings": 25,
     "growth": 1,
     "hours_window": 24
   }
