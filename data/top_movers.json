@@ -1,5 +1,23 @@
 [
   {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 24000,
+    "previous_recordings": 5000,
+    "growth": 19000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Post Malone",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 7000,
+    "previous_recordings": 3000,
+    "growth": 4000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
@@ -13,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 262,
-    "previous_recordings": 247,
-    "growth": 15,
+    "previous_recordings": 249,
+    "growth": 13,
     "hours_window": 24
   },
   {
@@ -22,16 +40,7 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 161,
-    "previous_recordings": 158,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 101,
-    "previous_recordings": 99,
+    "previous_recordings": 159,
     "growth": 2,
     "hours_window": 24
   },
@@ -41,6 +50,15 @@
     "source_name": "playlist",
     "current_recordings": 970,
     "previous_recordings": 969,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 101,
+    "previous_recordings": 100,
     "growth": 1,
     "hours_window": 24
   },
