@@ -1,11 +1,47 @@
 [
   {
+    "song_title": "Miley Cyrus",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 229000,
+    "previous_recordings": 16000,
+    "growth": 213000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Anna Kendrick",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 33000,
+    "growth": 181000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 166000,
+    "previous_recordings": 3000,
+    "growth": 163000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 138000,
     "previous_recordings": 78000,
     "growth": 60000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Alex Warren",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 9000,
+    "previous_recordings": 4000,
+    "growth": 5000,
     "hours_window": 24
   },
   {
@@ -21,9 +57,9 @@
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 262,
-    "previous_recordings": 251,
-    "growth": 11,
+    "current_recordings": 263,
+    "previous_recordings": 254,
+    "growth": 9,
     "hours_window": 24
   },
   {
@@ -45,20 +81,20 @@
     "hours_window": 24
   },
   {
+    "song_title": "Hadise",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 27,
+    "previous_recordings": 25,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
     "song_title": "Huntrix",
     "artist": "G0LDEN",
     "source_name": "playlist",
     "current_recordings": 970,
     "previous_recordings": 969,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 26,
-    "previous_recordings": 25,
     "growth": 1,
     "hours_window": 24
   }
