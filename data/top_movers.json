@@ -13,26 +13,17 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 256,
-    "previous_recordings": 246,
-    "growth": 10,
+    "previous_recordings": 247,
+    "growth": 9,
     "hours_window": 24
   },
   {
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 160,
+    "current_recordings": 161,
     "previous_recordings": 157,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 101,
-    "previous_recordings": 98,
-    "growth": 3,
+    "growth": 4,
     "hours_window": 24
   },
   {
@@ -42,6 +33,15 @@
     "current_recordings": 25,
     "previous_recordings": 22,
     "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 101,
+    "previous_recordings": 99,
+    "growth": 2,
     "hours_window": 24
   }
 ]
