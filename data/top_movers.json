@@ -1,29 +1,38 @@
 [
   {
-    "song_title": "KATSEYE",
+    "song_title": "Anna Kendrick",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 24000,
-    "previous_recordings": 5000,
-    "growth": 19000,
+    "current_recordings": 214000,
+    "previous_recordings": 33000,
+    "growth": 181000,
     "hours_window": 24
   },
   {
-    "song_title": "Post Malone",
+    "song_title": "Adele",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 7000,
+    "current_recordings": 166000,
     "previous_recordings": 3000,
-    "growth": 4000,
+    "growth": 163000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 298000,
+    "previous_recordings": 154000,
+    "growth": 144000,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 765,
-    "previous_recordings": 750,
-    "growth": 15,
+    "current_recordings": 769,
+    "previous_recordings": 752,
+    "growth": 17,
     "hours_window": 24
   },
   {
@@ -45,29 +54,29 @@
     "hours_window": 24
   },
   {
-    "song_title": "Huntrix",
-    "artist": "G0LDEN",
-    "source_name": "playlist",
-    "current_recordings": 970,
-    "previous_recordings": 969,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
     "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 101,
+    "current_recordings": 102,
     "previous_recordings": 100,
-    "growth": 1,
+    "growth": 2,
     "hours_window": 24
   },
   {
     "song_title": "Hadise",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 25,
+    "current_recordings": 26,
     "previous_recordings": 24,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Huntrix",
+    "artist": "G0LDEN",
+    "source_name": "playlist",
+    "current_recordings": 970,
+    "previous_recordings": 969,
     "growth": 1,
     "hours_window": 24
   }
