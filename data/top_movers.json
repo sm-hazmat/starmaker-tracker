@@ -1,20 +1,47 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 298000,
+    "previous_recordings": 154000,
+    "growth": 144000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Justin Bieber",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 19000,
+    "previous_recordings": 2000,
+    "growth": 17000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 763,
-    "previous_recordings": 744,
-    "growth": 19,
+    "previous_recordings": 745,
+    "growth": 18,
     "hours_window": 24
   },
   {
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 259,
+    "current_recordings": 262,
     "previous_recordings": 247,
-    "growth": 12,
+    "growth": 15,
     "hours_window": 24
   },
   {
@@ -22,16 +49,7 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 161,
-    "previous_recordings": 157,
-    "growth": 4,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 25,
-    "previous_recordings": 22,
+    "previous_recordings": 158,
     "growth": 3,
     "hours_window": 24
   },
@@ -42,6 +60,15 @@
     "current_recordings": 101,
     "previous_recordings": 99,
     "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Hadise",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 25,
+    "previous_recordings": 24,
+    "growth": 1,
     "hours_window": 24
   }
 ]
