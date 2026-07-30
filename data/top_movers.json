@@ -1,19 +1,10 @@
 [
   {
-    "song_title": "Regina Spektor",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 16000,
-    "previous_recordings": 3000,
-    "growth": 13000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 775,
-    "previous_recordings": 756,
+    "current_recordings": 778,
+    "previous_recordings": 759,
     "growth": 19,
     "hours_window": 24
   },
@@ -21,18 +12,18 @@
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 263,
+    "current_recordings": 265,
     "previous_recordings": 254,
-    "growth": 9,
+    "growth": 11,
     "hours_window": 24
   },
   {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 103,
-    "previous_recordings": 100,
-    "growth": 3,
+    "song_title": "bruno mars/Lady Gaga",
+    "artist": "Die With A Smile (Female Part Only)",
+    "source_name": "songs",
+    "current_recordings": 782,
+    "previous_recordings": 773,
+    "growth": 9,
     "hours_window": 24
   },
   {
@@ -41,6 +32,15 @@
     "source_name": "playlist",
     "current_recordings": 162,
     "previous_recordings": 160,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 103,
+    "previous_recordings": 101,
     "growth": 2,
     "hours_window": 24
   },
