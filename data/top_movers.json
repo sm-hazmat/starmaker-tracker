@@ -3,9 +3,9 @@
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 780,
+    "current_recordings": 781,
     "previous_recordings": 762,
-    "growth": 18,
+    "growth": 19,
     "hours_window": 24
   },
   {
@@ -18,12 +18,12 @@
     "hours_window": 24
   },
   {
-    "song_title": "Shakira",
+    "song_title": "Hadise",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 162,
-    "previous_recordings": 160,
-    "growth": 2,
+    "current_recordings": 28,
+    "previous_recordings": 25,
+    "growth": 3,
     "hours_window": 24
   },
   {
@@ -36,20 +36,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 27,
-    "previous_recordings": 25,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
     "song_title": "Huntrix",
     "artist": "G0LDEN",
     "source_name": "playlist",
     "current_recordings": 970,
     "previous_recordings": 969,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shakira",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 162,
+    "previous_recordings": 161,
     "growth": 1,
     "hours_window": 24
   }
