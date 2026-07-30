@@ -1,11 +1,29 @@
 [
   {
+    "song_title": "Justin Bieber",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 36000,
+    "previous_recordings": 19000,
+    "growth": 17000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shakira",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 13000,
+    "previous_recordings": 161,
+    "growth": 12839,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 789,
-    "previous_recordings": 765,
-    "growth": 24,
+    "current_recordings": 797,
+    "previous_recordings": 769,
+    "growth": 28,
     "hours_window": 24
   },
   {
@@ -22,8 +40,17 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 29,
-    "previous_recordings": 25,
-    "growth": 4,
+    "previous_recordings": 26,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Huntrix",
+    "artist": "G0LDEN",
+    "source_name": "playlist",
+    "current_recordings": 972,
+    "previous_recordings": 970,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -31,26 +58,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 104,
-    "previous_recordings": 101,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 163,
-    "previous_recordings": 161,
+    "previous_recordings": 102,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Huntrix",
-    "artist": "G0LDEN",
-    "source_name": "playlist",
-    "current_recordings": 971,
-    "previous_recordings": 970,
-    "growth": 1,
     "hours_window": 24
   }
 ]
