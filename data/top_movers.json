@@ -1,38 +1,38 @@
 [
   {
-    "song_title": "Justin Bieber",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 36000,
-    "previous_recordings": 2000,
-    "growth": 34000,
+    "current_recordings": 138000,
+    "previous_recordings": 78000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shakira",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 19000,
+    "previous_recordings": 163,
+    "growth": 18837,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 816,
+    "current_recordings": 819,
     "previous_recordings": 784,
-    "growth": 32,
+    "growth": 35,
     "hours_window": 24
   },
   {
     "song_title": "KitschKrieg/Blumengarten/shirin david",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 277,
-    "previous_recordings": 268,
-    "growth": 9,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 166,
-    "previous_recordings": 162,
-    "growth": 4,
+    "current_recordings": 278,
+    "previous_recordings": 270,
+    "growth": 8,
     "hours_window": 24
   },
   {
@@ -50,15 +50,6 @@
     "source_name": "playlist",
     "current_recordings": 104,
     "previous_recordings": 103,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 29,
-    "previous_recordings": 28,
     "growth": 1,
     "hours_window": 24
   }
