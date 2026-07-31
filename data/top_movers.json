@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 78000,
-    "growth": 60000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 19000,
-    "previous_recordings": 163,
-    "growth": 18837,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 819,
-    "previous_recordings": 784,
-    "growth": 35,
+    "previous_recordings": 789,
+    "growth": 30,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Malcolm Todd",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 237,
+    "previous_recordings": 226,
+    "growth": 11,
     "hours_window": 24
   },
   {
@@ -31,8 +22,17 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 278,
-    "previous_recordings": 270,
-    "growth": 8,
+    "previous_recordings": 271,
+    "growth": 7,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shakira",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 166,
+    "previous_recordings": 163,
+    "growth": 3,
     "hours_window": 24
   },
   {
@@ -42,15 +42,6 @@
     "current_recordings": 973,
     "previous_recordings": 971,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 104,
-    "previous_recordings": 103,
-    "growth": 1,
     "hours_window": 24
   }
 ]
