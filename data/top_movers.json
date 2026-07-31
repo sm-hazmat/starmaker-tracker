@@ -1,10 +1,19 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 210000,
+    "previous_recordings": 154000,
+    "growth": 56000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 809,
-    "previous_recordings": 778,
+    "current_recordings": 811,
+    "previous_recordings": 780,
     "growth": 31,
     "hours_window": 24
   },
@@ -13,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 276,
-    "previous_recordings": 265,
-    "growth": 11,
+    "previous_recordings": 266,
+    "growth": 10,
     "hours_window": 24
   },
   {
