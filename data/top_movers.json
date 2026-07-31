@@ -1,29 +1,11 @@
 [
   {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 13000,
-    "previous_recordings": 162,
-    "growth": 12838,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Michael Jackson",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 3000,
-    "previous_recordings": 833,
-    "growth": 2167,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 812,
-    "previous_recordings": 780,
-    "growth": 32,
+    "current_recordings": 814,
+    "previous_recordings": 781,
+    "growth": 33,
     "hours_window": 24
   },
   {
@@ -36,6 +18,15 @@
     "hours_window": 24
   },
   {
+    "song_title": "Shakira",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 166,
+    "previous_recordings": 162,
+    "growth": 4,
+    "hours_window": 24
+  },
+  {
     "song_title": "Huntrix",
     "artist": "G0LDEN",
     "source_name": "playlist",
@@ -45,20 +36,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Hadise",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 29,
-    "previous_recordings": 27,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
     "song_title": "Mauvais djo",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 104,
     "previous_recordings": 103,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Hadise",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 29,
+    "previous_recordings": 28,
     "growth": 1,
     "hours_window": 24
   }
