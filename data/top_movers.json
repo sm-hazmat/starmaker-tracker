@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Black Gryph0n/Baasik",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 10000,
+    "previous_recordings": 5000,
+    "growth": 5000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 832,
-    "previous_recordings": 811,
-    "growth": 21,
+    "current_recordings": 835,
+    "previous_recordings": 812,
+    "growth": 23,
     "hours_window": 24
   },
   {
@@ -23,15 +32,6 @@
     "source_name": "playlist",
     "current_recordings": 974,
     "previous_recordings": 972,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 168,
-    "previous_recordings": 166,
     "growth": 2,
     "hours_window": 24
   }
