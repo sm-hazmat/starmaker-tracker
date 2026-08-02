@@ -1,11 +1,29 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 78000,
-    "growth": 60000,
+    "current_recordings": 298000,
+    "previous_recordings": 154000,
+    "growth": 144000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Rihanna",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 108000,
+    "previous_recordings": 2000,
+    "growth": 106000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Chris Stapleton",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 73000,
+    "previous_recordings": 8000,
+    "growth": 65000,
     "hours_window": 24
   },
   {
@@ -18,11 +36,20 @@
     "hours_window": 24
   },
   {
+    "song_title": "Ariana Grande",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 44000,
+    "previous_recordings": 228,
+    "growth": 43772,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 858,
-    "previous_recordings": 836,
+    "current_recordings": 861,
+    "previous_recordings": 839,
     "growth": 22,
     "hours_window": 24
   },
@@ -31,8 +58,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 304,
-    "previous_recordings": 292,
-    "growth": 12,
+    "previous_recordings": 295,
+    "growth": 9,
     "hours_window": 24
   },
   {
@@ -40,8 +67,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 111,
-    "previous_recordings": 104,
-    "growth": 7,
+    "previous_recordings": 107,
+    "growth": 4,
     "hours_window": 24
   },
   {
