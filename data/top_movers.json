@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "Anne Murray",
+    "song_title": "BLACKPINK",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 232000,
-    "previous_recordings": 13000,
-    "growth": 219000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 78000,
-    "growth": 60000,
+    "current_recordings": 27000,
+    "previous_recordings": 23000,
+    "growth": 4000,
     "hours_window": 24
   },
   {
     "song_title": "Shakira/Burna Boy",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 946,
+    "current_recordings": 952,
     "previous_recordings": 913,
-    "growth": 33,
+    "growth": 39,
     "hours_window": 24
   },
   {
@@ -36,30 +27,21 @@
     "hours_window": 24
   },
   {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 117,
+    "previous_recordings": 114,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
     "song_title": "Hadise",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 36,
     "previous_recordings": 33,
     "growth": 3,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 174,
-    "previous_recordings": 172,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 116,
-    "previous_recordings": 114,
-    "growth": 2,
     "hours_window": 24
   }
 ]
