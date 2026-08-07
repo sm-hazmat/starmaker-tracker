@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Elton John",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 11000,
-    "previous_recordings": 8000,
-    "growth": 3000,
+    "source_name": "playlist",
+    "current_recordings": 155000,
+    "previous_recordings": 154000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
@@ -13,8 +13,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 342,
-    "previous_recordings": 339,
-    "growth": 3,
+    "previous_recordings": 341,
+    "growth": 1,
     "hours_window": 24
   }
 ]
