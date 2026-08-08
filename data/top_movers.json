@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Anne Murray",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 232000,
-    "previous_recordings": 147000,
-    "growth": 85000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 78000,
-    "growth": 60000,
+    "current_recordings": 298000,
+    "previous_recordings": 154000,
+    "growth": 144000,
     "hours_window": 24
   },
   {
@@ -36,11 +27,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Gracie Abrams",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 4000,
+    "previous_recordings": 1000,
+    "growth": 3000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 155000,
-    "previous_recordings": 154000,
+    "current_recordings": 79000,
+    "previous_recordings": 78000,
     "growth": 1000,
     "hours_window": 24
   },
