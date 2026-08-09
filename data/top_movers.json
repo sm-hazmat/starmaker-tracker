@@ -1,11 +1,83 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Air Supply",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 79000,
-    "growth": 59000,
+    "current_recordings": 531000,
+    "previous_recordings": 128000,
+    "growth": 403000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Juris Fernandez",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 193000,
+    "previous_recordings": 28000,
+    "growth": 165000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Christina Perri",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 102000,
+    "previous_recordings": 7000,
+    "growth": 95000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 109000,
+    "previous_recordings": 15000,
+    "growth": 94000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 210000,
+    "previous_recordings": 155000,
+    "growth": 55000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Jack Black",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 37000,
+    "previous_recordings": 11000,
+    "growth": 26000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "CG5",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 16000,
+    "previous_recordings": 1000,
+    "growth": 15000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mitski",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 12000,
+    "previous_recordings": 9000,
+    "growth": 3000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Zaniel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 410,
+    "previous_recordings": 409,
+    "growth": 1,
     "hours_window": 24
   },
   {
