@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Gracie Abrams",
+    "song_title": "Bee Gees",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 24000,
-    "previous_recordings": 4000,
-    "growth": 20000,
+    "current_recordings": 109000,
+    "previous_recordings": 79000,
+    "growth": 30000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "JVKE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 53000,
+    "previous_recordings": 30000,
+    "growth": 23000,
     "hours_window": 24
   },
   {
