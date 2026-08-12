@@ -1,5 +1,50 @@
 [
   {
+    "song_title": "Air Supply",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 413000,
+    "previous_recordings": 128000,
+    "growth": 285000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Miley Cyrus",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 229000,
+    "previous_recordings": 16000,
+    "growth": 213000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adele",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 167000,
+    "previous_recordings": 10000,
+    "growth": 157000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Imagine Dragons",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 143000,
+    "previous_recordings": 33000,
+    "growth": 110000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 138000,
+    "previous_recordings": 79000,
+    "growth": 59000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
