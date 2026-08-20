@@ -1,38 +1,11 @@
 [
   {
-    "song_title": "Justin Bieber",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 71000,
-    "previous_recordings": 2000,
-    "growth": 69000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Michael Jackson",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 31000,
-    "previous_recordings": 3000,
-    "growth": 28000,
-    "hours_window": 24
-  },
-  {
     "song_title": "BLOK3",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 786,
-    "previous_recordings": 762,
-    "growth": 24,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 192,
-    "previous_recordings": 191,
-    "growth": 1,
+    "previous_recordings": 765,
+    "growth": 21,
     "hours_window": 24
   }
 ]
