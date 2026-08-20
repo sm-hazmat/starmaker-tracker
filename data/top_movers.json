@@ -1,11 +1,47 @@
 [
   {
+    "song_title": "Anna Kendrick",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 33000,
+    "growth": 181000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 299000,
+    "previous_recordings": 155000,
+    "growth": 144000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Whitney Houston",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 143000,
+    "previous_recordings": 34000,
+    "growth": 109000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mariah Carey",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 112000,
+    "previous_recordings": 27000,
+    "growth": 85000,
+    "hours_window": 24
+  },
+  {
     "song_title": "BLOK3",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 800,
-    "previous_recordings": 779,
-    "growth": 21,
+    "current_recordings": 808,
+    "previous_recordings": 782,
+    "growth": 26,
     "hours_window": 24
   },
   {
