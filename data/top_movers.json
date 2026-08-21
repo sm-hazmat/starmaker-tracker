@@ -1,29 +1,47 @@
 [
   {
-    "song_title": "Bryan Adams",
+    "song_title": "Lady Gaga",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 630000,
-    "previous_recordings": 114000,
-    "growth": 516000,
+    "current_recordings": 293000,
+    "previous_recordings": 98000,
+    "growth": 195000,
     "hours_window": 24
   },
   {
-    "song_title": "Zara",
+    "song_title": "Rihanna",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 48000,
-    "previous_recordings": 7000,
-    "growth": 41000,
+    "current_recordings": 183000,
+    "previous_recordings": 108000,
+    "growth": 75000,
     "hours_window": 24
   },
   {
-    "song_title": "Justin Bieber",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 22000,
-    "previous_recordings": 19000,
-    "growth": 3000,
+    "current_recordings": 138000,
+    "previous_recordings": 79000,
+    "growth": 59000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lil Nas X",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 66000,
+    "previous_recordings": 32000,
+    "growth": 34000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Imagine Dragons",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 144000,
+    "previous_recordings": 143000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
