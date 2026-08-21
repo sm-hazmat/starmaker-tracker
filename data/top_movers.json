@@ -1,11 +1,29 @@
 [
   {
+    "song_title": "Mitski",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 46000,
+    "previous_recordings": 12000,
+    "growth": 34000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Justin Bieber",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 36000,
+    "previous_recordings": 2000,
+    "growth": 34000,
+    "hours_window": 24
+  },
+  {
     "song_title": "BLOK3",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 826,
-    "previous_recordings": 808,
-    "growth": 18,
+    "current_recordings": 830,
+    "previous_recordings": 809,
+    "growth": 21,
     "hours_window": 24
   },
   {
