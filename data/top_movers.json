@@ -1,11 +1,29 @@
 [
   {
+    "song_title": "Anna Kendrick",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 15000,
+    "growth": 199000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 138000,
+    "previous_recordings": 79000,
+    "growth": 59000,
+    "hours_window": 24
+  },
+  {
     "song_title": "BLOK3",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 810,
-    "previous_recordings": 787,
-    "growth": 23,
+    "current_recordings": 815,
+    "previous_recordings": 789,
+    "growth": 26,
     "hours_window": 24
   },
   {
