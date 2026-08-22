@@ -1,47 +1,20 @@
 [
   {
-    "song_title": "Olivia Rodrigo",
+    "song_title": "Zara",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 29000,
-    "previous_recordings": 6000,
-    "growth": 23000,
+    "current_recordings": 48000,
+    "previous_recordings": 7000,
+    "growth": 41000,
     "hours_window": 24
   },
   {
-    "song_title": "Justin Bieber",
+    "song_title": "Ruth B.",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 36000,
-    "previous_recordings": 22000,
-    "growth": 14000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Keyshia Cole",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 18000,
-    "previous_recordings": 9000,
-    "growth": 9000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "OR3O/Lizzie Freeman",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 16000,
-    "previous_recordings": 8000,
-    "growth": 8000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mitski",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 12000,
-    "previous_recordings": 9000,
-    "growth": 3000,
+    "current_recordings": 20000,
+    "previous_recordings": 2000,
+    "growth": 18000,
     "hours_window": 24
   },
   {
@@ -51,6 +24,15 @@
     "current_recordings": 842,
     "previous_recordings": 818,
     "growth": 24,
+    "hours_window": 24
+  },
+  {
+    "song_title": "bruno mars/Lady Gaga",
+    "artist": "Die With A Smile (Female Part Only)",
+    "source_name": "songs",
+    "current_recordings": 960,
+    "previous_recordings": 953,
+    "growth": 7,
     "hours_window": 24
   },
   {
