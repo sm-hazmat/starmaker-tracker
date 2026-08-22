@@ -1,20 +1,38 @@
 [
   {
-    "song_title": "Justin Bieber",
+    "song_title": "The Greatest Showman",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 71000,
-    "previous_recordings": 19000,
-    "growth": 52000,
+    "current_recordings": 73000,
+    "previous_recordings": 23000,
+    "growth": 50000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Gracie Abrams",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 5000,
+    "previous_recordings": 513,
+    "growth": 4487,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 13000,
+    "previous_recordings": 12000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
     "song_title": "BLOK3",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 832,
-    "previous_recordings": 809,
-    "growth": 23,
+    "current_recordings": 834,
+    "previous_recordings": 810,
+    "growth": 24,
     "hours_window": 24
   },
   {
