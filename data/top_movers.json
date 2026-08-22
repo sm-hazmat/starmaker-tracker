@@ -1,20 +1,29 @@
 [
   {
-    "song_title": "duck",
+    "song_title": "Miley Cyrus",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 8000,
-    "previous_recordings": 2000,
-    "growth": 6000,
+    "current_recordings": 229000,
+    "previous_recordings": 92000,
+    "growth": 137000,
     "hours_window": 24
   },
   {
-    "song_title": "Imagine Dragons",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 144000,
-    "previous_recordings": 143000,
-    "growth": 1000,
+    "current_recordings": 138000,
+    "previous_recordings": 79000,
+    "growth": 59000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 51000,
+    "previous_recordings": 29000,
+    "growth": 22000,
     "hours_window": 24
   },
   {
