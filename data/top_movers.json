@@ -1,20 +1,20 @@
 [
   {
-    "song_title": "Imagine Dragons",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 144000,
-    "previous_recordings": 143000,
-    "growth": 1000,
-    "hours_window": 24
-  },
-  {
     "song_title": "BLOK3",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 834,
-    "previous_recordings": 810,
-    "growth": 24,
+    "previous_recordings": 815,
+    "growth": 19,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shakira",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 195,
+    "previous_recordings": 193,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -24,15 +24,6 @@
     "current_recordings": 145,
     "previous_recordings": 143,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 194,
-    "previous_recordings": 193,
-    "growth": 1,
     "hours_window": 24
   },
   {
