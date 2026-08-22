@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Zara",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 48000,
-    "previous_recordings": 7000,
-    "growth": 41000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Ruth B.",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 20000,
-    "previous_recordings": 2000,
-    "growth": 18000,
-    "hours_window": 24
-  },
-  {
     "song_title": "BLOK3",
     "artist": "Points",
     "source_name": "playlist",
@@ -27,29 +9,11 @@
     "hours_window": 24
   },
   {
-    "song_title": "bruno mars/Lady Gaga",
-    "artist": "Die With A Smile (Female Part Only)",
-    "source_name": "songs",
-    "current_recordings": 960,
-    "previous_recordings": 953,
-    "growth": 7,
-    "hours_window": 24
-  },
-  {
     "song_title": "Shakira",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 196,
-    "previous_recordings": 193,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 145,
-    "previous_recordings": 143,
+    "previous_recordings": 194,
     "growth": 2,
     "hours_window": 24
   },
@@ -59,6 +23,15 @@
     "source_name": "playlist",
     "current_recordings": 986,
     "previous_recordings": 985,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mauvais djo",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 145,
+    "previous_recordings": 144,
     "growth": 1,
     "hours_window": 24
   },
