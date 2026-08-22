@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "One Direction",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 91000,
-    "previous_recordings": 20000,
-    "growth": 71000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 2000,
-    "previous_recordings": 193,
-    "growth": 1807,
-    "hours_window": 24
-  },
-  {
     "song_title": "BLOK3",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 842,
     "previous_recordings": 818,
     "growth": 24,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shakira",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 196,
+    "previous_recordings": 193,
+    "growth": 3,
     "hours_window": 24
   },
   {
