@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Oliver Tree",
+    "song_title": "Justin Bieber",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 18000,
-    "previous_recordings": 207,
-    "growth": 17793,
+    "current_recordings": 71000,
+    "previous_recordings": 19000,
+    "growth": 52000,
     "hours_window": 24
   },
   {
@@ -32,6 +32,15 @@
     "source_name": "playlist",
     "current_recordings": 194,
     "previous_recordings": 193,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "TUL8TE",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 19,
+    "previous_recordings": 18,
     "growth": 1,
     "hours_window": 24
   }
