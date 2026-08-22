@@ -1,11 +1,47 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Olivia Rodrigo",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 138000,
-    "previous_recordings": 79000,
-    "growth": 59000,
+    "current_recordings": 29000,
+    "previous_recordings": 6000,
+    "growth": 23000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Justin Bieber",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 36000,
+    "previous_recordings": 22000,
+    "growth": 14000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Keyshia Cole",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 18000,
+    "previous_recordings": 9000,
+    "growth": 9000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "OR3O/Lizzie Freeman",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 16000,
+    "previous_recordings": 8000,
+    "growth": 8000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Mitski",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 12000,
+    "previous_recordings": 9000,
+    "growth": 3000,
     "hours_window": 24
   },
   {
