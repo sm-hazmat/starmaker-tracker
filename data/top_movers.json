@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Bryan Adams",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 139000,
-    "previous_recordings": 79000,
-    "growth": 60000,
+    "current_recordings": 630000,
+    "previous_recordings": 114000,
+    "growth": 516000,
     "hours_window": 24
   },
   {
@@ -13,8 +13,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 871,
-    "previous_recordings": 842,
-    "growth": 29,
+    "previous_recordings": 849,
+    "growth": 22,
     "hours_window": 24
   },
   {
@@ -23,15 +23,6 @@
     "source_name": "playlist",
     "current_recordings": 987,
     "previous_recordings": 986,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "TUL8TE",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 20,
-    "previous_recordings": 19,
     "growth": 1,
     "hours_window": 24
   }
