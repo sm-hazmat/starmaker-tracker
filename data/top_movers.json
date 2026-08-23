@@ -1,20 +1,29 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Anna Kendrick",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 139000,
-    "previous_recordings": 79000,
-    "growth": 60000,
+    "current_recordings": 214000,
+    "previous_recordings": 15000,
+    "growth": 199000,
     "hours_window": 24
   },
   {
-    "song_title": "Olivia Rodrigo",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 51000,
-    "previous_recordings": 29000,
-    "growth": 22000,
+    "current_recordings": 299000,
+    "previous_recordings": 155000,
+    "growth": 144000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Justin Bieber",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 19000,
+    "previous_recordings": 2000,
+    "growth": 17000,
     "hours_window": 24
   },
   {
