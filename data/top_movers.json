@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Elvis Presley",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 139000,
-    "previous_recordings": 79000,
-    "growth": 60000,
+    "current_recordings": 496000,
+    "previous_recordings": 35000,
+    "growth": 461000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 299000,
+    "previous_recordings": 155000,
+    "growth": 144000,
     "hours_window": 24
   },
   {
@@ -13,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 878,
-    "previous_recordings": 855,
-    "growth": 23,
+    "previous_recordings": 857,
+    "growth": 21,
     "hours_window": 24
   },
   {
