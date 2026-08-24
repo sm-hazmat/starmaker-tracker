@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Air Supply",
+    "song_title": "Olivia Rodrigo",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 413000,
-    "previous_recordings": 218000,
-    "growth": 195000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 139000,
-    "previous_recordings": 79000,
-    "growth": 60000,
+    "current_recordings": 29000,
+    "previous_recordings": 15000,
+    "growth": 14000,
     "hours_window": 24
   },
   {
@@ -22,8 +13,17 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 880,
-    "previous_recordings": 857,
-    "growth": 23,
+    "previous_recordings": 858,
+    "growth": 22,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Shakira",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 200,
+    "previous_recordings": 196,
+    "growth": 4,
     "hours_window": 24
   },
   {
