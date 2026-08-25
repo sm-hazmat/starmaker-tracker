@@ -12,9 +12,9 @@
     "song_title": "BLOK3",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 906,
+    "current_recordings": 907,
     "previous_recordings": 890,
-    "growth": 16,
+    "growth": 17,
     "hours_window": 24
   },
   {
@@ -23,6 +23,15 @@
     "source_name": "playlist",
     "current_recordings": 203,
     "previous_recordings": 202,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "TUL8TE",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 21,
+    "previous_recordings": 20,
     "growth": 1,
     "hours_window": 24
   }
