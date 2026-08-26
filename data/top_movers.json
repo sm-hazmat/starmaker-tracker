@@ -1,56 +1,11 @@
 [
   {
-    "song_title": "Justin Bieber",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 36000,
-    "previous_recordings": 2000,
-    "growth": 34000,
-    "hours_window": 24
-  },
-  {
     "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 797000,
     "previous_recordings": 796000,
     "growth": 1000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "BLOK3",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 910,
-    "previous_recordings": 892,
-    "growth": 18,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Shakira",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 203,
-    "previous_recordings": 202,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Mauvais djo",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 149,
-    "previous_recordings": 148,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "TUL8TE",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 21,
-    "previous_recordings": 20,
-    "growth": 1,
     "hours_window": 24
   }
 ]
