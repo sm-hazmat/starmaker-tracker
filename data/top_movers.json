@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Elvis Presley",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 496000,
-    "previous_recordings": 35000,
-    "growth": 461000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 299000,
-    "previous_recordings": 155000,
-    "growth": 144000,
-    "hours_window": 24
-  },
-  {
     "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
