@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 4000,
+    "previous_recordings": 1000,
+    "growth": 3000,
+    "hours_window": 24
+  },
+  {
     "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
@@ -13,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 909,
-    "previous_recordings": 890,
-    "growth": 19,
+    "previous_recordings": 892,
+    "growth": 17,
     "hours_window": 24
   },
   {
