@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Anne Murray",
+    "song_title": "Miley Cyrus",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 232000,
-    "previous_recordings": 154000,
-    "growth": 78000,
+    "current_recordings": 229000,
+    "previous_recordings": 27000,
+    "growth": 202000,
     "hours_window": 24
   },
   {
@@ -15,15 +15,6 @@
     "current_recordings": 139000,
     "previous_recordings": 79000,
     "growth": 60000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Ed Sheeran",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 663000,
-    "previous_recordings": 662000,
-    "growth": 1000,
     "hours_window": 24
   },
   {
