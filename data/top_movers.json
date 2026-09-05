@@ -1,11 +1,29 @@
 [
   {
-    "song_title": "Imagine Dragons",
+    "song_title": "Anna Kendrick",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 17000,
-    "previous_recordings": 3000,
-    "growth": 14000,
+    "current_recordings": 214000,
+    "previous_recordings": 15000,
+    "growth": 199000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 139000,
+    "previous_recordings": 79000,
+    "growth": 60000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Maroon 5",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 51000,
+    "previous_recordings": 2,
+    "growth": 50998,
     "hours_window": 24
   },
   {
@@ -13,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 86,
-    "previous_recordings": 81,
-    "growth": 5,
+    "previous_recordings": 82,
+    "growth": 4,
     "hours_window": 24
   },
   {
@@ -24,15 +42,6 @@
     "current_recordings": 49,
     "previous_recordings": 47,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "MADONNA/Sabrina Carpenter",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 87,
-    "previous_recordings": 86,
-    "growth": 1,
     "hours_window": 24
   }
 ]
