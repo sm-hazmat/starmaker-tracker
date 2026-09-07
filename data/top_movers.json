@@ -1,28 +1,28 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Gracie Abrams",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 139000,
-    "previous_recordings": 79000,
-    "growth": 60000,
+    "current_recordings": 24000,
+    "previous_recordings": 45,
+    "growth": 23955,
     "hours_window": 24
   },
   {
-    "song_title": "Maroon 5",
+    "song_title": "Billie Eilish",
     "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 51000,
-    "previous_recordings": 2,
-    "growth": 50998,
+    "source_name": "playlist",
+    "current_recordings": 80000,
+    "previous_recordings": 79000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
     "song_title": "Tyla",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 89,
-    "previous_recordings": 87,
+    "current_recordings": 90,
+    "previous_recordings": 88,
     "growth": 2,
     "hours_window": 24
   }
