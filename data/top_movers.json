@@ -1,11 +1,29 @@
 [
   {
-    "song_title": "KATSEYE",
+    "song_title": "Michael Jackson",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 31000,
+    "previous_recordings": 3000,
+    "growth": 28000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Gracie Abrams",
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 5000,
-    "previous_recordings": 418,
-    "growth": 4582,
+    "previous_recordings": 46,
+    "growth": 4954,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 4000,
+    "previous_recordings": 419,
+    "growth": 3581,
     "hours_window": 24
   },
   {
@@ -15,15 +33,6 @@
     "current_recordings": 52,
     "previous_recordings": 50,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Tyla",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 94,
-    "previous_recordings": 93,
-    "growth": 1,
     "hours_window": 24
   },
   {
