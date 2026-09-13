@@ -1,20 +1,47 @@
 [
   {
-    "song_title": "KATSEYE",
+    "song_title": "Miley Cyrus",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 460,
-    "previous_recordings": 443,
-    "growth": 17,
+    "source_name": "songs",
+    "current_recordings": 229000,
+    "previous_recordings": 7000,
+    "growth": 222000,
     "hours_window": 24
   },
   {
-    "song_title": "MADONNA/Sabrina Carpenter",
+    "song_title": "Anna Kendrick",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 214000,
+    "previous_recordings": 15000,
+    "growth": 199000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Imagine Dragons",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 144000,
+    "previous_recordings": 33000,
+    "growth": 111000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 139000,
+    "previous_recordings": 80000,
+    "growth": 59000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KATSEYE",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 90,
-    "previous_recordings": 88,
-    "growth": 2,
+    "current_recordings": 461,
+    "previous_recordings": 447,
+    "growth": 14,
     "hours_window": 24
   },
   {
@@ -23,6 +50,15 @@
     "source_name": "playlist",
     "current_recordings": 95,
     "previous_recordings": 94,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "MADONNA/Sabrina Carpenter",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 90,
+    "previous_recordings": 89,
     "growth": 1,
     "hours_window": 24
   }
