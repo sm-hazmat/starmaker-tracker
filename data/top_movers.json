@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Gracie Abrams",
+    "song_title": "KATSEYE",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 5000,
-    "previous_recordings": 46,
-    "growth": 4954,
+    "current_recordings": 10000,
+    "previous_recordings": 459,
+    "growth": 9541,
     "hours_window": 24
   },
   {
@@ -18,29 +18,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "KATSEYE",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 4000,
-    "previous_recordings": 910,
-    "growth": 3090,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Laufey",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 6000,
-    "previous_recordings": 5000,
-    "growth": 1000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Tyla",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 95,
     "previous_recordings": 94,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lady Gaga/Doechii",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 53,
+    "previous_recordings": 52,
     "growth": 1,
     "hours_window": 24
   }
