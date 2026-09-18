@@ -1,10 +1,19 @@
 [
   {
-    "song_title": "Bts",
+    "song_title": "Gracie Abrams",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 25000,
+    "previous_recordings": 27,
+    "growth": 24973,
+    "hours_window": 24
+  },
+  {
+    "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 10000,
-    "previous_recordings": 9000,
+    "current_recordings": 798000,
+    "previous_recordings": 797000,
     "growth": 1000,
     "hours_window": 24
   },
@@ -12,18 +21,18 @@
     "song_title": "JISOO",
     "artist": "CLICK",
     "source_name": "playlist",
-    "current_recordings": 388,
-    "previous_recordings": 362,
-    "growth": 26,
+    "current_recordings": 399,
+    "previous_recordings": 367,
+    "growth": 32,
     "hours_window": 24
   },
   {
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 371,
-    "previous_recordings": 368,
-    "growth": 3,
+    "current_recordings": 372,
+    "previous_recordings": 370,
+    "growth": 2,
     "hours_window": 24
   }
 ]
