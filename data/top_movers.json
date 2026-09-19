@@ -1,38 +1,38 @@
 [
   {
-    "song_title": "Gracie Abrams",
+    "song_title": "The Greatest Showman",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 5000,
-    "previous_recordings": 27,
-    "growth": 4973,
+    "current_recordings": 74000,
+    "previous_recordings": 942,
+    "growth": 73058,
     "hours_window": 24
   },
   {
-    "song_title": "John Legend",
+    "song_title": "Michael Jackson",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 798000,
-    "previous_recordings": 797000,
-    "growth": 1000,
+    "source_name": "songs",
+    "current_recordings": 24000,
+    "previous_recordings": 3000,
+    "growth": 21000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Benson Boone",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 30000,
+    "previous_recordings": 14000,
+    "growth": 16000,
     "hours_window": 24
   },
   {
     "song_title": "JISOO",
     "artist": "CLICK",
     "source_name": "playlist",
-    "current_recordings": 420,
-    "previous_recordings": 388,
-    "growth": 32,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Dave/Tems",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 372,
-    "previous_recordings": 371,
-    "growth": 1,
+    "current_recordings": 430,
+    "previous_recordings": 399,
+    "growth": 31,
     "hours_window": 24
   }
 ]
