@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Gracie Abrams",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 5000,
+    "previous_recordings": 27,
+    "growth": 4973,
+    "hours_window": 24
+  },
+  {
     "song_title": "John Legend",
     "artist": "Points",
     "source_name": "playlist",
@@ -12,9 +21,9 @@
     "song_title": "JISOO",
     "artist": "CLICK",
     "source_name": "playlist",
-    "current_recordings": 416,
-    "previous_recordings": 382,
-    "growth": 34,
+    "current_recordings": 420,
+    "previous_recordings": 388,
+    "growth": 32,
     "hours_window": 24
   },
   {
