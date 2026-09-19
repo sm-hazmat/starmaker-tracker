@@ -1,37 +1,37 @@
 [
   {
-    "song_title": "The Greatest Showman",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 74000,
-    "previous_recordings": 942,
-    "growth": 73058,
+    "current_recordings": 300000,
+    "previous_recordings": 155000,
+    "growth": 145000,
     "hours_window": 24
   },
   {
-    "song_title": "Michael Jackson",
+    "song_title": "Idina Menzel",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 24000,
-    "previous_recordings": 3000,
-    "growth": 21000,
+    "current_recordings": 201000,
+    "previous_recordings": 129000,
+    "growth": 72000,
     "hours_window": 24
   },
   {
-    "song_title": "Benson Boone",
+    "song_title": "Gracie Abrams",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 30000,
-    "previous_recordings": 14000,
-    "growth": 16000,
+    "current_recordings": 2000,
+    "previous_recordings": 27,
+    "growth": 1973,
     "hours_window": 24
   },
   {
     "song_title": "JISOO",
     "artist": "CLICK",
     "source_name": "playlist",
-    "current_recordings": 430,
-    "previous_recordings": 399,
+    "current_recordings": 436,
+    "previous_recordings": 405,
     "growth": 31,
     "hours_window": 24
   }
