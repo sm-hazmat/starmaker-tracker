@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Shawn Mendes",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 229000,
+    "previous_recordings": 228000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
     "song_title": "JISOO",
     "artist": "CLICK",
     "source_name": "playlist",
-    "current_recordings": 475,
-    "previous_recordings": 436,
-    "growth": 39,
+    "current_recordings": 481,
+    "previous_recordings": 445,
+    "growth": 36,
     "hours_window": 24
   },
   {
