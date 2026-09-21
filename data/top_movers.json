@@ -1,5 +1,14 @@
 [
   {
+    "song_title": "Gracie Abrams",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 7000,
+    "previous_recordings": 28,
+    "growth": 6972,
+    "hours_window": 24
+  },
+  {
     "song_title": "Shawn Mendes",
     "artist": "Points",
     "source_name": "playlist",
@@ -12,18 +21,9 @@
     "song_title": "JISOO",
     "artist": "CLICK",
     "source_name": "playlist",
-    "current_recordings": 487,
-    "previous_recordings": 451,
-    "growth": 36,
-    "hours_window": 24
-  },
-  {
-    "song_title": "PinkPantheress/Zara",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 76,
-    "previous_recordings": 73,
-    "growth": 3,
+    "current_recordings": 492,
+    "previous_recordings": 462,
+    "growth": 30,
     "hours_window": 24
   }
 ]
