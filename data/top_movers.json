@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 300000,
-    "previous_recordings": 155000,
-    "growth": 145000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Imagine Dragons",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 144000,
-    "previous_recordings": 33000,
-    "growth": 111000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Ellie Goulding",
     "artist": "Points",
     "source_name": "playlist",
@@ -31,8 +13,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 4,
-    "previous_recordings": 1,
-    "growth": 3,
+    "previous_recordings": 2,
+    "growth": 2,
     "hours_window": 24
   },
   {
