@@ -1,11 +1,29 @@
 [
   {
-    "song_title": "Sabrina Carpenter",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 18000,
-    "previous_recordings": 68,
-    "growth": 17932,
+    "current_recordings": 300000,
+    "previous_recordings": 155000,
+    "growth": 145000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Imagine Dragons",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 144000,
+    "previous_recordings": 33000,
+    "growth": 111000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Ellie Goulding",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 405000,
+    "previous_recordings": 404000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
