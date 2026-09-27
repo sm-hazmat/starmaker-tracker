@@ -1,11 +1,29 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lewis Capaldi",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 139000,
-    "previous_recordings": 80000,
-    "growth": 59000,
+    "current_recordings": 212000,
+    "previous_recordings": 155000,
+    "growth": 57000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "JVKE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 31000,
+    "previous_recordings": 3000,
+    "growth": 28000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Dave/Tems",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 377,
+    "previous_recordings": 375,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -15,15 +33,6 @@
     "current_recordings": 78,
     "previous_recordings": 76,
     "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Dave/Tems",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 376,
-    "previous_recordings": 375,
-    "growth": 1,
     "hours_window": 24
   },
   {
