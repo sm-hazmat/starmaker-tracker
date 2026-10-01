@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Lewis Capaldi",
+    "song_title": "Lukas Graham",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 212000,
-    "previous_recordings": 155000,
-    "growth": 57000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Gracie Abrams",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 25000,
-    "previous_recordings": 29,
-    "growth": 24971,
+    "current_recordings": 140000,
+    "previous_recordings": 52000,
+    "growth": 88000,
     "hours_window": 24
   },
   {
@@ -22,8 +13,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 73,
-    "previous_recordings": 53,
-    "growth": 20,
+    "previous_recordings": 61,
+    "growth": 12,
     "hours_window": 24
   },
   {
@@ -31,8 +22,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 73,
-    "previous_recordings": 65,
-    "growth": 8,
+    "previous_recordings": 71,
+    "growth": 2,
     "hours_window": 24
   },
   {
