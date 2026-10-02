@@ -1,56 +1,56 @@
 [
   {
-    "song_title": "Michael Jackson",
+    "song_title": "Air Supply",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 25000,
-    "previous_recordings": 3000,
-    "growth": 22000,
+    "current_recordings": 414000,
+    "previous_recordings": 19000,
+    "growth": 395000,
     "hours_window": 24
   },
   {
-    "song_title": "Dolly Parton",
+    "song_title": "Rihanna",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 46000,
-    "previous_recordings": 29000,
-    "growth": 17000,
+    "current_recordings": 184000,
+    "previous_recordings": 785,
+    "growth": 183215,
     "hours_window": 24
   },
   {
-    "song_title": "Keyshia Cole",
+    "song_title": "Anna Kendrick",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 19000,
-    "previous_recordings": 5000,
-    "growth": 14000,
+    "current_recordings": 214000,
+    "previous_recordings": 34000,
+    "growth": 180000,
     "hours_window": 24
   },
   {
-    "song_title": "OR3O/Lizzie Freeman",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 8000,
-    "previous_recordings": 2000,
-    "growth": 6000,
+    "current_recordings": 139000,
+    "previous_recordings": 80000,
+    "growth": 59000,
     "hours_window": 24
   },
   {
     "song_title": "Taylor Swift",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 85,
+    "current_recordings": 88,
     "previous_recordings": 73,
-    "growth": 12,
+    "growth": 15,
     "hours_window": 24
   },
   {
     "song_title": "Ashe",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 75,
+    "current_recordings": 76,
     "previous_recordings": 73,
-    "growth": 2,
+    "growth": 3,
     "hours_window": 24
   }
 ]
