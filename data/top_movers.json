@@ -1,10 +1,28 @@
 [
   {
+    "song_title": "Lóbo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 112000,
+    "previous_recordings": 69000,
+    "growth": 43000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Michael Jackson",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 25000,
+    "previous_recordings": 3000,
+    "growth": 22000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Taylor Swift",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 103,
-    "previous_recordings": 88,
+    "current_recordings": 106,
+    "previous_recordings": 91,
     "growth": 15,
     "hours_window": 24
   },
@@ -12,9 +30,9 @@
     "song_title": "Ashe",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 89,
-    "previous_recordings": 76,
-    "growth": 13,
+    "current_recordings": 90,
+    "previous_recordings": 83,
+    "growth": 7,
     "hours_window": 24
   },
   {
@@ -23,15 +41,6 @@
     "source_name": "playlist",
     "current_recordings": 106,
     "previous_recordings": 105,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Malcolm Todd",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 84,
-    "previous_recordings": 83,
     "growth": 1,
     "hours_window": 24
   }
