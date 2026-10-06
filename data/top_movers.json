@@ -1,29 +1,11 @@
 [
   {
-    "song_title": "Michael Jackson",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 27000,
-    "previous_recordings": 3000,
-    "growth": 24000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Ruth B.",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 21000,
-    "previous_recordings": 2000,
-    "growth": 19000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Taylor Swift",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 161,
+    "current_recordings": 162,
     "previous_recordings": 145,
-    "growth": 16,
+    "growth": 17,
     "hours_window": 24
   },
   {
