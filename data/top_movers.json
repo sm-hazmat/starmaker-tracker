@@ -1,47 +1,29 @@
 [
   {
-    "song_title": "Michael Jackson",
+    "song_title": "Air Supply",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 27000,
-    "previous_recordings": 3000,
-    "growth": 24000,
+    "current_recordings": 414000,
+    "previous_recordings": 19000,
+    "growth": 395000,
     "hours_window": 24
   },
   {
-    "song_title": "Oliver Tree",
+    "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 19000,
-    "previous_recordings": 1000,
-    "growth": 18000,
+    "current_recordings": 140000,
+    "previous_recordings": 80000,
+    "growth": 60000,
     "hours_window": 24
   },
   {
-    "song_title": "Dolly Parton",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 46000,
-    "previous_recordings": 29000,
-    "growth": 17000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Taylor Swift",
+    "song_title": "Gracie Abrams",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 162,
-    "previous_recordings": 145,
-    "growth": 17,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Ashe",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 100,
-    "previous_recordings": 97,
-    "growth": 3,
+    "current_recordings": 31,
+    "previous_recordings": 30,
+    "growth": 1,
     "hours_window": 24
   }
 ]
