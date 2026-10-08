@@ -1,11 +1,11 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lukas Graham",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 140000,
-    "previous_recordings": 80000,
-    "growth": 60000,
+    "current_recordings": 141000,
+    "previous_recordings": 52000,
+    "growth": 89000,
     "hours_window": 24
   },
   {
@@ -18,11 +18,20 @@
     "hours_window": 24
   },
   {
-    "song_title": "Gracie Abrams",
+    "song_title": "Taylor Swift",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 31,
-    "previous_recordings": 30,
+    "current_recordings": 38,
+    "previous_recordings": 35,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Victoria Monét/SZA",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 1,
+    "previous_recordings": 0,
     "growth": 1,
     "hours_window": 24
   }
