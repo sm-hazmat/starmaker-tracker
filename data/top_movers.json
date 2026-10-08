@@ -1,11 +1,20 @@
 [
   {
-    "song_title": "Lukas Graham",
+    "song_title": "Air Supply",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 141000,
-    "previous_recordings": 52000,
-    "growth": 89000,
+    "current_recordings": 414000,
+    "previous_recordings": 19000,
+    "growth": 395000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 140000,
+    "previous_recordings": 80000,
+    "growth": 60000,
     "hours_window": 24
   },
   {
@@ -21,18 +30,9 @@
     "song_title": "Taylor Swift",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 38,
-    "previous_recordings": 35,
-    "growth": 3,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Victoria Monét/SZA",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 1,
-    "previous_recordings": 0,
-    "growth": 1,
+    "current_recordings": 39,
+    "previous_recordings": 37,
+    "growth": 2,
     "hours_window": 24
   }
 ]
