@@ -1,20 +1,11 @@
 [
   {
-    "song_title": "Eagles",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 38000,
-    "previous_recordings": 3000,
-    "growth": 35000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Taylor Swift",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 54,
-    "previous_recordings": 48,
-    "growth": 6,
+    "previous_recordings": 51,
+    "growth": 3,
     "hours_window": 24
   },
   {
