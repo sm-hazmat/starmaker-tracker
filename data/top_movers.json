@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "song_title": "Gracie Abrams",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 8000,
+    "previous_recordings": 31,
+    "growth": 7969,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KATSEYE",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 14000,
+    "previous_recordings": 11000,
+    "growth": 3000,
+    "hours_window": 24
+  }
+]
