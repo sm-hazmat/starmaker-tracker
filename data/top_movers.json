@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "song_title": "Drake",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 102,
+    "previous_recordings": 100,
+    "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Noah Kahan",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 250,
+    "previous_recordings": 249,
+    "growth": 1,
+    "hours_window": 24
+  }
+]
