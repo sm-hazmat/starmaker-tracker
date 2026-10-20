@@ -1,38 +1,20 @@
 [
   {
-    "song_title": "Lukas Graham",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 141000,
-    "previous_recordings": 52000,
-    "growth": 89000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 213000,
-    "previous_recordings": 155000,
-    "growth": 58000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Ed Sheeran",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 664000,
-    "previous_recordings": 663000,
-    "growth": 1000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Noah Kahan",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 258,
     "previous_recordings": 256,
     "growth": 2,
+    "hours_window": 24
+  },
+  {
+    "song_title": "GENER8ION/Yung Lean",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 10,
+    "previous_recordings": 9,
+    "growth": 1,
     "hours_window": 24
   },
   {
