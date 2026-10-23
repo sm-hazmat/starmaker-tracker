@@ -3,27 +3,18 @@
     "song_title": "KATSEYE",
     "artist": "Unloveu",
     "source_name": "playlist",
-    "current_recordings": 353,
+    "current_recordings": 354,
     "previous_recordings": 349,
-    "growth": 4,
-    "hours_window": 24
-  },
-  {
-    "song_title": "HUGEL",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 21,
-    "previous_recordings": 19,
-    "growth": 2,
+    "growth": 5,
     "hours_window": 24
   },
   {
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 389,
+    "current_recordings": 390,
     "previous_recordings": 388,
-    "growth": 1,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -32,6 +23,24 @@
     "source_name": "playlist",
     "current_recordings": 77,
     "previous_recordings": 76,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "HUGEL",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 21,
+    "previous_recordings": 20,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "GENER8ION/Yung Lean",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 11,
+    "previous_recordings": 10,
     "growth": 1,
     "hours_window": 24
   }
