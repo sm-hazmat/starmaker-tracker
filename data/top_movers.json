@@ -1,5 +1,23 @@
 [
   {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 300000,
+    "previous_recordings": 155000,
+    "growth": 145000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Idina Menzel",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 201000,
+    "previous_recordings": 130000,
+    "growth": 71000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Bts",
     "artist": "Points",
     "source_name": "playlist",
@@ -21,18 +39,9 @@
     "song_title": "Dave/Tems",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 390,
+    "current_recordings": 392,
     "previous_recordings": 389,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Sabrina Carpenter",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 77,
-    "previous_recordings": 76,
-    "growth": 1,
+    "growth": 3,
     "hours_window": 24
   },
   {
