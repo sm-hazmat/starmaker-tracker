@@ -1,14 +1,5 @@
 [
   {
-    "song_title": "Billie Eilish",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 140000,
-    "previous_recordings": 81000,
-    "growth": 59000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Bts",
     "artist": "Points",
     "source_name": "playlist",
@@ -18,21 +9,21 @@
     "hours_window": 24
   },
   {
-    "song_title": "Dave/Tems",
-    "artist": "Points",
+    "song_title": "KATSEYE",
+    "artist": "Unloveu",
     "source_name": "playlist",
-    "current_recordings": 392,
-    "previous_recordings": 389,
+    "current_recordings": 357,
+    "previous_recordings": 354,
     "growth": 3,
     "hours_window": 24
   },
   {
-    "song_title": "KATSEYE",
-    "artist": "Unloveu",
+    "song_title": "Dave/Tems",
+    "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 356,
-    "previous_recordings": 353,
-    "growth": 3,
+    "current_recordings": 392,
+    "previous_recordings": 390,
+    "growth": 2,
     "hours_window": 24
   },
   {
@@ -41,15 +32,6 @@
     "source_name": "playlist",
     "current_recordings": 22,
     "previous_recordings": 21,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "GENER8ION/Yung Lean",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 11,
-    "previous_recordings": 10,
     "growth": 1,
     "hours_window": 24
   }
