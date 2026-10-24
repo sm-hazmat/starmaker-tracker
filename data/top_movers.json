@@ -1,11 +1,29 @@
 [
   {
+    "song_title": "Rod Stewart",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 397000,
+    "previous_recordings": 198000,
+    "growth": 199000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Bts",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 11000,
+    "previous_recordings": 10000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
     "song_title": "KATSEYE",
     "artist": "Unloveu",
     "source_name": "playlist",
-    "current_recordings": 355,
-    "previous_recordings": 350,
-    "growth": 5,
+    "current_recordings": 356,
+    "previous_recordings": 352,
+    "growth": 4,
     "hours_window": 24
   },
   {
@@ -13,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 390,
-    "previous_recordings": 388,
-    "growth": 2,
+    "previous_recordings": 389,
+    "growth": 1,
     "hours_window": 24
   },
   {
