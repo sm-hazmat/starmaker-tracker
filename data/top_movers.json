@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Lukas Graham",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 141000,
+    "previous_recordings": 52000,
+    "growth": 89000,
+    "hours_window": 24
+  },
+  {
     "song_title": "KATSEYE",
     "artist": "Unloveu",
     "source_name": "playlist",
-    "current_recordings": 362,
-    "previous_recordings": 357,
-    "growth": 5,
+    "current_recordings": 367,
+    "previous_recordings": 358,
+    "growth": 9,
     "hours_window": 24
   },
   {
