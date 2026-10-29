@@ -1,11 +1,65 @@
 [
   {
-    "song_title": "The Platters",
+    "song_title": "Miley Cyrus",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 22000,
-    "previous_recordings": 6000,
-    "growth": 16000,
+    "current_recordings": 230000,
+    "previous_recordings": 17000,
+    "growth": 213000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 300000,
+    "previous_recordings": 155000,
+    "growth": 145000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 53000,
+    "previous_recordings": 44,
+    "growth": 52956,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KAROL G/Judeline/rusowsky",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 469,
+    "previous_recordings": 454,
+    "growth": 15,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Adela",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 385,
+    "previous_recordings": 371,
+    "growth": 14,
+    "hours_window": 24
+  },
+  {
+    "song_title": "TATE MCRAE",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 92,
+    "previous_recordings": 83,
+    "growth": 9,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Ella Langley",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 439,
+    "previous_recordings": 436,
+    "growth": 3,
     "hours_window": 24
   }
 ]
