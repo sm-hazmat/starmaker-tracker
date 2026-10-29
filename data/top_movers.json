@@ -1,29 +1,11 @@
 [
   {
-    "song_title": "Miley Cyrus",
+    "song_title": "Air Supply",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 230000,
-    "previous_recordings": 17000,
-    "growth": 213000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 300000,
-    "previous_recordings": 155000,
-    "growth": 145000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 53000,
-    "previous_recordings": 44,
-    "growth": 52956,
+    "current_recordings": 187000,
+    "previous_recordings": 49000,
+    "growth": 138000,
     "hours_window": 24
   },
   {
@@ -31,26 +13,26 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 469,
-    "previous_recordings": 454,
-    "growth": 15,
+    "previous_recordings": 456,
+    "growth": 13,
     "hours_window": 24
   },
   {
     "song_title": "Adela",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 385,
-    "previous_recordings": 371,
-    "growth": 14,
+    "current_recordings": 387,
+    "previous_recordings": 375,
+    "growth": 12,
     "hours_window": 24
   },
   {
     "song_title": "TATE MCRAE",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 92,
+    "current_recordings": 95,
     "previous_recordings": 83,
-    "growth": 9,
+    "growth": 12,
     "hours_window": 24
   },
   {
