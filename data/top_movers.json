@@ -1,10 +1,19 @@
 [
   {
+    "song_title": "Steve Miller Band",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 9000,
+    "previous_recordings": 3000,
+    "growth": 6000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Adela",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 400,
-    "previous_recordings": 385,
+    "current_recordings": 407,
+    "previous_recordings": 392,
     "growth": 15,
     "hours_window": 24
   },
@@ -12,9 +21,9 @@
     "song_title": "TATE MCRAE",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 102,
-    "previous_recordings": 92,
-    "growth": 10,
+    "current_recordings": 106,
+    "previous_recordings": 98,
+    "growth": 8,
     "hours_window": 24
   },
   {
@@ -22,8 +31,8 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 476,
-    "previous_recordings": 469,
-    "growth": 7,
+    "previous_recordings": 470,
+    "growth": 6,
     "hours_window": 24
   },
   {
