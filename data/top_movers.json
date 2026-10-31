@@ -1,29 +1,38 @@
 [
   {
-    "song_title": "Maroon 5",
+    "song_title": "Elvis Presley",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 141000,
-    "previous_recordings": 51000,
-    "growth": 90000,
+    "current_recordings": 503000,
+    "previous_recordings": 502000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Lewis Capaldi",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 301000,
+    "previous_recordings": 300000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
     "song_title": "Adela",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 412,
-    "previous_recordings": 392,
-    "growth": 20,
+    "current_recordings": 414,
+    "previous_recordings": 393,
+    "growth": 21,
     "hours_window": 24
   },
   {
     "song_title": "TATE MCRAE",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 107,
-    "previous_recordings": 98,
-    "growth": 9,
+    "current_recordings": 109,
+    "previous_recordings": 101,
+    "growth": 8,
     "hours_window": 24
   },
   {
@@ -39,8 +48,17 @@
     "song_title": "Ella Langley",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 440,
+    "current_recordings": 442,
     "previous_recordings": 439,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Malcolm Todd",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 107,
+    "previous_recordings": 106,
     "growth": 1,
     "hours_window": 24
   }
