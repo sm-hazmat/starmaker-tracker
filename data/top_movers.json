@@ -1,14 +1,5 @@
 [
   {
-    "song_title": "Anne Murray",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 235000,
-    "previous_recordings": 14000,
-    "growth": 221000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -22,26 +13,35 @@
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 53000,
-    "previous_recordings": 45,
-    "growth": 52955,
+    "previous_recordings": 46,
+    "growth": 52954,
+    "hours_window": 24
+  },
+  {
+    "song_title": "John Legend",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 800000,
+    "previous_recordings": 799000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Air Supply",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 415000,
+    "previous_recordings": 414000,
+    "growth": 1000,
     "hours_window": 24
   },
   {
     "song_title": "Adela",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 417,
-    "previous_recordings": 400,
-    "growth": 17,
-    "hours_window": 24
-  },
-  {
-    "song_title": "TATE MCRAE",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 110,
-    "previous_recordings": 102,
-    "growth": 8,
+    "current_recordings": 422,
+    "previous_recordings": 407,
+    "growth": 15,
     "hours_window": 24
   },
   {
@@ -51,6 +51,15 @@
     "current_recordings": 483,
     "previous_recordings": 476,
     "growth": 7,
+    "hours_window": 24
+  },
+  {
+    "song_title": "TATE MCRAE",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 112,
+    "previous_recordings": 106,
+    "growth": 6,
     "hours_window": 24
   },
   {
