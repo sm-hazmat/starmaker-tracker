@@ -1,11 +1,47 @@
 [
   {
+    "song_title": "Anne Murray",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 235000,
+    "previous_recordings": 14000,
+    "growth": 221000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Billie Eilish",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 140000,
+    "previous_recordings": 81000,
+    "growth": 59000,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Olivia Rodrigo",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 53000,
+    "previous_recordings": 45,
+    "growth": 52955,
+    "hours_window": 24
+  },
+  {
     "song_title": "Adela",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 416,
-    "previous_recordings": 394,
-    "growth": 22,
+    "current_recordings": 417,
+    "previous_recordings": 400,
+    "growth": 17,
+    "hours_window": 24
+  },
+  {
+    "song_title": "TATE MCRAE",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 110,
+    "previous_recordings": 102,
+    "growth": 8,
     "hours_window": 24
   },
   {
@@ -13,16 +49,7 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 483,
-    "previous_recordings": 472,
-    "growth": 11,
-    "hours_window": 24
-  },
-  {
-    "song_title": "TATE MCRAE",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 109,
-    "previous_recordings": 102,
+    "previous_recordings": 476,
     "growth": 7,
     "hours_window": 24
   },
