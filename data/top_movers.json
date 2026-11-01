@@ -1,23 +1,5 @@
 [
   {
-    "song_title": "Lady Gaga",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 294000,
-    "previous_recordings": 99000,
-    "growth": 195000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Rihanna",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 184000,
-    "previous_recordings": 109000,
-    "growth": 75000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Billie Eilish",
     "artist": "Points",
     "source_name": "songs",
@@ -27,12 +9,21 @@
     "hours_window": 24
   },
   {
-    "song_title": "Lil Nas X",
+    "song_title": "Olivia Rodrigo",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 66000,
-    "previous_recordings": 32000,
-    "growth": 34000,
+    "current_recordings": 53000,
+    "previous_recordings": 46,
+    "growth": 52954,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Eagles",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 15000,
+    "previous_recordings": 2000,
+    "growth": 13000,
     "hours_window": 24
   },
   {
@@ -48,18 +39,9 @@
     "song_title": "Adela",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 426,
-    "previous_recordings": 414,
+    "current_recordings": 428,
+    "previous_recordings": 416,
     "growth": 12,
-    "hours_window": 24
-  },
-  {
-    "song_title": "KAROL G/Judeline/rusowsky",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 484,
-    "previous_recordings": 477,
-    "growth": 7,
     "hours_window": 24
   },
   {
@@ -75,18 +57,18 @@
     "song_title": "Malcolm Todd",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 111,
-    "previous_recordings": 107,
+    "current_recordings": 112,
+    "previous_recordings": 108,
     "growth": 4,
     "hours_window": 24
   },
   {
-    "song_title": "Zach Bryan/Lana Del Rey",
+    "song_title": "KAROL G/Judeline/rusowsky",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 10,
-    "previous_recordings": 9,
-    "growth": 1,
+    "current_recordings": 486,
+    "previous_recordings": 483,
+    "growth": 3,
     "hours_window": 24
   }
 ]
