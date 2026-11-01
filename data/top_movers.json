@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "Billie Eilish",
+    "song_title": "Lukas Graham",
     "artist": "Points",
     "source_name": "songs",
-    "current_recordings": 140000,
-    "previous_recordings": 81000,
-    "growth": 59000,
+    "current_recordings": 141000,
+    "previous_recordings": 52000,
+    "growth": 89000,
     "hours_window": 24
   },
   {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 53000,
-    "previous_recordings": 46,
-    "growth": 52954,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Eagles",
+    "song_title": "KATSEYE",
     "artist": "Points",
     "source_name": "songs",
     "current_recordings": 15000,
-    "previous_recordings": 2000,
-    "growth": 13000,
+    "previous_recordings": 11000,
+    "growth": 4000,
     "hours_window": 24
   },
   {
@@ -39,9 +30,27 @@
     "song_title": "Adela",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 428,
-    "previous_recordings": 416,
-    "growth": 12,
+    "current_recordings": 430,
+    "previous_recordings": 417,
+    "growth": 13,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Malcolm Todd",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 116,
+    "previous_recordings": 108,
+    "growth": 8,
+    "hours_window": 24
+  },
+  {
+    "song_title": "KAROL G/Judeline/rusowsky",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 488,
+    "previous_recordings": 483,
+    "growth": 5,
     "hours_window": 24
   },
   {
@@ -49,25 +58,7 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 113,
-    "previous_recordings": 109,
-    "growth": 4,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Malcolm Todd",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 112,
-    "previous_recordings": 108,
-    "growth": 4,
-    "hours_window": 24
-  },
-  {
-    "song_title": "KAROL G/Judeline/rusowsky",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 486,
-    "previous_recordings": 483,
+    "previous_recordings": 110,
     "growth": 3,
     "hours_window": 24
   }
