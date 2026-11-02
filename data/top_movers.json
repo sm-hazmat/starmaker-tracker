@@ -1,20 +1,29 @@
 [
   {
+    "song_title": "Michael Jackson",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 25000,
+    "previous_recordings": 3000,
+    "growth": 22000,
+    "hours_window": 24
+  },
+  {
     "song_title": "Adela",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 445,
-    "previous_recordings": 428,
-    "growth": 17,
+    "current_recordings": 449,
+    "previous_recordings": 433,
+    "growth": 16,
     "hours_window": 24
   },
   {
     "song_title": "KAROL G/Judeline/rusowsky",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 498,
-    "previous_recordings": 486,
-    "growth": 12,
+    "current_recordings": 499,
+    "previous_recordings": 489,
+    "growth": 10,
     "hours_window": 24
   },
   {
@@ -22,17 +31,17 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 121,
-    "previous_recordings": 112,
-    "growth": 9,
+    "previous_recordings": 116,
+    "growth": 5,
     "hours_window": 24
   },
   {
     "song_title": "TATE MCRAE",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 117,
+    "current_recordings": 118,
     "previous_recordings": 113,
-    "growth": 4,
+    "growth": 5,
     "hours_window": 24
   },
   {
