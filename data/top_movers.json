@@ -1,65 +1,47 @@
 [
   {
-    "song_title": "Elvis Presley",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 503000,
-    "previous_recordings": 19000,
-    "growth": 484000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Ruth B",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 233000,
-    "previous_recordings": 20000,
-    "growth": 213000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 301000,
-    "previous_recordings": 155000,
-    "growth": 146000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Olivia Rodrigo",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 53000,
-    "previous_recordings": 46,
-    "growth": 52954,
-    "hours_window": 24
-  },
-  {
     "song_title": "Adela",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 437,
-    "previous_recordings": 425,
-    "growth": 12,
+    "source_name": "songs",
+    "current_recordings": 1000,
+    "previous_recordings": 426,
+    "growth": 574,
     "hours_window": 24
   },
   {
     "song_title": "KAROL G/Judeline/rusowsky",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 492,
+    "current_recordings": 496,
     "previous_recordings": 484,
-    "growth": 8,
+    "growth": 12,
     "hours_window": 24
   },
   {
     "song_title": "Malcolm Todd",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 116,
-    "previous_recordings": 108,
+    "current_recordings": 119,
+    "previous_recordings": 111,
     "growth": 8,
+    "hours_window": 24
+  },
+  {
+    "song_title": "TATE MCRAE",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 116,
+    "previous_recordings": 113,
+    "growth": 3,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Ella Langley",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 443,
+    "previous_recordings": 442,
+    "growth": 1,
     "hours_window": 24
   }
 ]
