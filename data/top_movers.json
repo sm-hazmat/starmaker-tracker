@@ -1,29 +1,20 @@
 [
   {
-    "song_title": "Lewis Capaldi",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 213000,
-    "previous_recordings": 155000,
-    "growth": 58000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Adela",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 475,
-    "previous_recordings": 449,
-    "growth": 26,
+    "current_recordings": 479,
+    "previous_recordings": 458,
+    "growth": 21,
     "hours_window": 24
   },
   {
     "song_title": "KAROL G/Judeline/rusowsky",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 515,
-    "previous_recordings": 499,
-    "growth": 16,
+    "current_recordings": 519,
+    "previous_recordings": 504,
+    "growth": 15,
     "hours_window": 24
   },
   {
@@ -31,26 +22,17 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 124,
-    "previous_recordings": 118,
-    "growth": 6,
+    "previous_recordings": 122,
+    "growth": 2,
     "hours_window": 24
   },
   {
     "song_title": "Malcolm Todd",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 122,
+    "current_recordings": 123,
     "previous_recordings": 121,
-    "growth": 1,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Zach Bryan/Lana Del Rey",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 11,
-    "previous_recordings": 10,
-    "growth": 1,
+    "growth": 2,
     "hours_window": 24
   }
 ]
