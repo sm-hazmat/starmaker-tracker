@@ -1,38 +1,11 @@
 [
   {
-    "song_title": "Adela",
+    "song_title": "Olivia Rodrigo",
     "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 479,
-    "previous_recordings": 458,
-    "growth": 21,
-    "hours_window": 24
-  },
-  {
-    "song_title": "KAROL G/Judeline/rusowsky",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 519,
-    "previous_recordings": 504,
-    "growth": 15,
-    "hours_window": 24
-  },
-  {
-    "song_title": "TATE MCRAE",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 124,
-    "previous_recordings": 122,
-    "growth": 2,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Malcolm Todd",
-    "artist": "Points",
-    "source_name": "playlist",
-    "current_recordings": 123,
-    "previous_recordings": 121,
-    "growth": 2,
+    "source_name": "songs",
+    "current_recordings": 30000,
+    "previous_recordings": 47,
+    "growth": 29953,
     "hours_window": 24
   }
 ]
