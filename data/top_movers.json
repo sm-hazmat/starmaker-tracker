@@ -1,11 +1,20 @@
 [
   {
+    "song_title": "Peter, Paul/Mary",
+    "artist": "Points",
+    "source_name": "songs",
+    "current_recordings": 25000,
+    "previous_recordings": 24000,
+    "growth": 1000,
+    "hours_window": 24
+  },
+  {
     "song_title": "KATSEYE",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 611,
-    "previous_recordings": 566,
-    "growth": 45,
+    "current_recordings": 617,
+    "previous_recordings": 579,
+    "growth": 38,
     "hours_window": 24
   },
   {
@@ -13,16 +22,16 @@
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 133,
-    "previous_recordings": 130,
-    "growth": 3,
+    "previous_recordings": 131,
+    "growth": 2,
     "hours_window": 24
   },
   {
     "song_title": "Troye Sivan",
     "artist": "Points",
     "source_name": "playlist",
-    "current_recordings": 13,
-    "previous_recordings": 12,
+    "current_recordings": 14,
+    "previous_recordings": 13,
     "growth": 1,
     "hours_window": 24
   },
