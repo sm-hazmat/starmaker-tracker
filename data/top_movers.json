@@ -1,29 +1,29 @@
 [
   {
-    "song_title": "The Beatles",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 11000,
-    "previous_recordings": 3000,
-    "growth": 8000,
-    "hours_window": 24
-  },
-  {
-    "song_title": "Elvis Presley",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 12000,
-    "previous_recordings": 7000,
-    "growth": 5000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Jade",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 200,
-    "previous_recordings": 196,
-    "growth": 4,
+    "previous_recordings": 199,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Sabrina Carpenter",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 80,
+    "previous_recordings": 79,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Fuerza Regida",
+    "artist": "Suzuki (from GTAVI: The Album)",
+    "source_name": "playlist",
+    "current_recordings": 2,
+    "previous_recordings": 1,
+    "growth": 1,
     "hours_window": 24
   }
 ]
