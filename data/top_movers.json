@@ -1,19 +1,19 @@
 [
   {
-    "song_title": "Lukas Graham",
-    "artist": "Points",
-    "source_name": "songs",
-    "current_recordings": 141000,
-    "previous_recordings": 53000,
-    "growth": 88000,
-    "hours_window": 24
-  },
-  {
     "song_title": "Geri Halliwell",
     "artist": "Points",
     "source_name": "playlist",
     "current_recordings": 560,
     "previous_recordings": 559,
+    "growth": 1,
+    "hours_window": 24
+  },
+  {
+    "song_title": "Justice/Tame Impala/SZA",
+    "artist": "Points",
+    "source_name": "playlist",
+    "current_recordings": 22,
+    "previous_recordings": 21,
     "growth": 1,
     "hours_window": 24
   }
